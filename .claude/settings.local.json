@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xan --help:*)",
+      "WebSearch",
+      "WebFetch(domain:www.census.gov)",
+      "Bash(curl:*)",
+      "Bash(xan select:*)",
+      "Bash(xan view:*)",
+      "WebFetch(domain:www2.census.gov)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "WebFetch(domain:simplemaps.com)",
+      "Bash(unzip:*)",
+      "Bash(xan headers:*)",
+      "Bash(xan count:*)",
+      "WebFetch(domain:cosaccela.seattle.gov)",
+      "Bash(npm install:*)",
+      "WebFetch(domain:aca-prod.accela.com)",
+      "Bash(export NVM_DIR=\"$HOME/.nvm\")",
+      "Bash([ -s \"$NVM_DIR/nvm.sh\" ])",
+      "Bash(. \"$NVM_DIR/nvm.sh\")",
+      "Bash(npx tsx:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

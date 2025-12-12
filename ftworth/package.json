@@ -1,0 +1,19 @@
+{
+  "name": "ftworth-permit-comments",
+  "version": "1.0.0",
+  "description": "Download permit comments PDFs from Fort Worth Accela portal",
+  "type": "module",
+  "scripts": {
+    "download": "npx tsx download_comments.ts"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "csv-parse": "^5.5.6",
+    "playwright": "^1.49.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

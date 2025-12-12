@@ -1,0 +1,5 @@
+node_modules/
+comments/*.pdf
+comments/download_report_*.txt
+debug.png
+test_search.png

@@ -1,0 +1,1201 @@
+Name,State,Population,Permit_Portal,Permit_URL
+New York,NY,18832416,Accela,https://a810-dobnow.nyc.gov/publish/Index.html
+Los Angeles,CA,11885717,Unknown,https://permitla.lacitydbs.org/
+Chicago,IL,8489066,Infor Public Sector,https://ipi.cityofchicago.org/Permits
+Miami,FL,6113982,Custom/iBuild with Avolve ProjectDox,https://www.miami.gov/Permits-Construction
+Houston,TX,6046392,Unknown,https://permits.houstontx.gov
+Dallas,TX,5843632,Accela,https://aca-prod.accela.com/DALLASTX/Default.aspx
+Philadelphia,PA,5696588,Computronix,https://eclipse.phila.gov/phillylmsprod/pub/lms/Default.aspx
+Atlanta,GA,5211164,Accela,https://permits.atlantaga.gov/
+Washington,DC,5146120,Accela,https://citizenaccess.dc.gov/
+Boston,MA,4355184,Accela,https://www.boston.gov/boston-permits-and-licenses
+Phoenix,AZ,4065338,Clariti,https://shapephx.phoenix.gov/s/
+Detroit,MI,3716929,Accela,https://aca-prod.accela.com/DETROIT/Cap/CapHome.aspx
+Seattle,WA,3555253,Accela,https://services.seattle.gov
+San Francisco,CA,3364862,OpenGov,https://aca-prod.accela.com/ccsf/Default.aspx
+San Diego,CA,3057778,Accela,https://aca-prod.accela.com/SANDIEGO/Default.aspx
+Minneapolis,MN,2906807,Unknown,https://apps.ci.minneapolis.mn.us/PermitAppPILOT
+Tampa,FL,2906035,Accela,https://aca-prod.accela.com/tampa/Default.aspx
+Brooklyn,NY,2736074,Accela,https://a810-lmpaca.nyc.gov/citizenaccessbuildings
+Denver,CO,2691349,Accela,https://aca-prod.accela.com/DENVER/Default.aspx
+Queens,NY,2405464,Accela,https://a810-lmpaca.nyc.gov/citizenaccessbuildings/welcome.aspx
+Riverside,CA,2288508,Computronix POSSE,https://posselms.riversideca.gov/prod/pub/lms
+Las Vegas,NV,2256509,Unknown,https://www.lasvegasnevada.gov/Business/Permits-Licenses/Building-Permits/Online-Building-Permits
+Baltimore,MD,2189589,Accela,https://aca-prod.accela.com/BALTIMORE/Default.aspx
+St. Louis,MO,2127843,Unknown,https://www.stlcitypermits.com/
+Portland,OR,2084045,Accela,https://devhub.portlandoregon.gov/
+San Antonio,TX,2069843,Accela,https://aca-prod.accela.com/COSA/default.aspx
+Sacramento,CA,1962998,Accela,https://aca-prod.accela.com/SACRAMENTO/Default.aspx
+Austin,TX,1915031,Granicus (AMANDA),https://abc.austintexas.gov
+Orlando,FL,1913597,Selectron Technologies (RelayView),https://cityoforlandofl-permits.myrelayview.com/
+San Juan,PR,1809800,Unknown,https://tramite.sanjuan.pr
+San Jose,CA,1771563,CSDC Amanda,https://sjpermits.org/permits/
+Indianapolis,IN,1740984,Accela,https://aca-prod.accela.com/indy/Default.aspx
+Pittsburgh,PA,1712828,Computronix,https://onestoppgh.pittsburghpa.gov/
+Cincinnati,OH,1704916,Custom/In-House,https://eztrak.cagis.org
+Manhattan,NY,1694263,Accela,https://a810-lmpaca.nyc.gov/citizenaccessbuildings/welcome.aspx
+Kansas City,MO,1686807,Tyler Technologies,https://compasskc.kcmo.org
+Cleveland,OH,1679247,Accela,https://aca-prod.accela.com/COC/Default.aspx
+Columbus,OH,1578153,Accela,https://portal.columbus.gov/Permits/columbus/Columbus.aspx
+Bronx,NY,1472654,Accela,https://a810-dobnow.nyc.gov/publish/Index.html
+Charlotte,NC,1436613,Accela,https://aca-prod.accela.com/CHARLOTTE/Default.aspx
+Virginia Beach,VA,1431821,Accela,https://aca-prod.accela.com/cvb/default.aspx
+Jacksonville,FL,1303156,Custom/In-House,https://jaxepics.coj.net/
+Milwaukee,WI,1290221,Accela,https://aca-prod.accela.com/MILWAUKEE/Default.aspx
+Providence,RI,1270529,OpenGov,https://providenceri.portal.opengov.com/
+Nashville,TN,1178679,Custom/In-House,https://epermits.nashville.gov/
+Salt Lake City,UT,1169033,Accela,https://aca-prod.accela.com/SLCREF/Cap/CapHome.aspx?module=Building&TabName=HOME
+Raleigh,NC,1150010,Tyler Technologies,https://permitportal.raleighnc.gov
+Richmond,VA,1081248,Tyler Technologies,https://energov.richmondgov.com/EnerGov_Prod/selfservice
+Memphis,TN,1033394,Accela,https://aca-prod.accela.com/SHELBYCO/Default.aspx
+Louisville,KY,1023467,Accela,https://aca-prod.accela.com/ljcmg/default.aspx
+Oklahoma City,OK,1000207,Accela,https://access.okc.gov/aca/Cap/CapHome.aspx?module=Permits&TabName=HOME
+Hartford,CT,969171,Accela,https://aca-prod.accela.com/HARTFORD/Cap/CapHome.aspx?module=Building
+Buffalo,NY,949547,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=397
+Fort Worth,TX,941311,Accela,https://aca-prod.accela.com/CFW/Default.aspx
+Bridgeport,CT,921660,Tyler Technologies,https://www.bridgeportct.gov/government/departments/building-department/building-permit
+New Orleans,LA,918752,MyGovernmentOnline (MGO),https://onestopapp.nola.gov/
+Tucson,AZ,879871,Unknown,https://www.tucsonaz.gov/
+El Paso,TX,862494,Accela,https://aca-prod.accela.com/ELPASO/Default.aspx
+Omaha,NE,826161,Accela,https://aca-prod.accela.com/OMAHA/Welcome.aspx
+McAllen,TX,810034,Accela,https://onlinepermits.mcallen.net/
+Birmingham,AL,778756,Accela,https://aca-prod.accela.com/BIRMINGHAM
+Albuquerque,NM,767499,Tyler Technologies,https://www.cabq.gov/planning/abq-plan
+Tulsa,OK,740620,Tyler Technologies,https://tulsaok.tylertech.com/EnerGov4934/SelfService
+Charleston,SC,726389,Accela,https://www.charleston-sc.gov/856/Permit-Center
+Fresno,CA,724547,Accela,https://aca-prod.accela.com/FRESNO/Default.aspx
+Rochester,NY,694707,Accela,https://aca-prod.accela.com/ROCHESTER/Default.aspx
+Dayton,OH,667936,Accela,https://aca-prod.accela.com/DAYTON/Cap/CapHome.aspx?module=Building&TabName=Building
+Cape Coral,FL,656464,Tyler Technologies,https://www.capecoral.gov/department/community_development/customer_service-permitting/energov.php
+Provo,UT,639820,CityView (Harris),https://cvportal.provo.org/cityviewportal
+Colorado Springs,CO,638421,Accela,https://aca-prod.accela.com/COSPRINGS/Default.aspx
+Mission Viejo,CA,634674,Tyler Technologies (EnerGov),https://portal.cityofmissionviejo.org/energovprod/selfservice
+Allentown,PA,632175,Tyler Technologies,https://selfservice.allentownpa.gov/
+Baton Rouge,LA,630063,MyGovernmentOnline (MGO),https://www.mgoconnect.org/cp/portal
+Ogden,UT,623688,CivicPlus,https://ut-ogden.civicplus.com/188/Permit-Applications
+Knoxville,TN,618226,Accela,https://aca-prod.accela.com/KNOXVILLE/Welcome.aspx
+Grand Rapids,MI,611480,Accela,https://inspections.grcity.us/CitizenAccess/Default.aspx
+Columbia,SC,605083,Onlama,https://columbia.onlama.com/
+Albany,NY,602242,Accela,https://permits.cityofalbany.net/CitizenAccess/Welcome.aspx
+Bakersfield,CA,578542,CentralSquare (Click2Gov),https://bakeweb.ci.bakersfield.ca.us/Click2GovBP/index.html
+New Haven,CT,565056,City Squared,https://citysquared.com/
+Des Moines,IA,560170,Tyler Technologies,https://css.dmgov.org/EnerGov_Prod/SelfService
+Palm Bay,FL,547659,Intuitive Municipal Solutions (iMS),https://www.palmbayfl.gov/government/city-departments-a-to-e/building-permits-inspections
+Akron,OH,538659,eTRAKiT,https://commdev.summitcountyco.gov/eTRAKiT3/Search/permit.aspx
+Concord,CA,525233,Accela,https://aca-prod.accela.com/concord
+Mesa,AZ,507478,Accela,https://aca-prod.accela.com/mesa/Default.aspx
+Wichita,KS,501760,Accela,https://aca-prod.accela.com/WICHITA/Default.aspx
+Harrisburg,PA,499494,Unknown,N/A
+Staten Island,NY,495747,Accela,https://a810-lmpaca.nyc.gov/citizenaccessbuildings/
+Toledo,OH,492076,Accela,https://citizenaccess.toledo.oh.gov/citizenaccess/
+Worcester,MA,487014,OpenGov,https://worcesterma.portal.opengov.com/
+Port St. Lucie,FL,473733,Custom/In-House,https://pandapublicweb.cityofpsl.com/Bldg/PermitStatus.aspx
+Little Rock,AR,467846,Infor Public Sector (Hansen),https://permitpayment.littlerock.gov/ips_PD/Views/Login.aspx
+Madison,WI,460255,Accela,https://elam.cityofmadison.com/CitizenAccess/
+Spokane,WA,458988,Accela,https://aca.spokanepermits.org/CitizenAccess/Cap/CapHome.aspx?module=Building&TabName=HOME
+Long Beach,CA,458491,Accela,https://permitslicenses.longbeach.gov/
+Denton,TX,455152,eTRAKiT (Central Square),https://dntn-trk.aspgov.com/eTRAKiT/
+Reno,NV,454814,Accela,https://www.onenv.us
+Boise,ID,449428,Accela,https://permits.cityofboise.org/CitizenAccess/Default.aspx
+Bonita Springs,FL,445500,Tyler Technologies,http://energov.cityofbonitasprings.org/CitizenAccess/Site/Public/Main
+Kissimmee,FL,442790,Tyler Technologies,https://energovweb.kissimmee.gov/EnerGov_Prod/SelfService
+Augusta,GA,439361,CityView,https://cityview.augustaga.gov/cityviewportal
+Springfield,MA,438889,Accela,https://permits.springfieldcityhall.com/
+Oakland,CA,438072,Accela,https://aca-prod.accela.com/oakland/default.aspx
+Winston-Salem,NC,434231,GeoCivix,https://winston-salem.geocivix.com
+Stockton,CA,416005,Accela,https://aca-prod.accela.com/stockton/default.aspx
+Durham,NC,411362,Unknown,https://ldo4.durhamnc.gov/DurhamWeb/Search/ApplicationSearch
+Chattanooga,TN,410795,OpenGov,https://chattanoogatn.portal.opengov.com/
+Greenville,SC,408626,CentralSquare Technologies,https://grvl-egov.aspgov.com/grvlc2gbp/index.html
+Lancaster,PA,408023,Evolve,https://evolvepublic.infovisionsoftware.com/lancaster/
+Syracuse,NY,407625,BS&A Software,https://ips.egov.basgov.com/syracuse
+Fayetteville,AR,405556,Accela,https://aca-prod.accela.com/ACFW/Default.aspx
+Pensacola,FL,401535,MyGovernmentOnline (MGO),https://www.mgoconnect.org
+Arlington,TX,394769,Accela,https://ap.arlingtontx.gov/
+Aurora,CO,390201,eTRAKiT (Central Square),https://auro-trk.aspgov.com/etrakit/
+Scranton,PA,375462,OpenGov,https://scrantonpa.portal.opengov.com/
+Oxnard,CA,373423,CentralSquare (Click2Gov),https://oxna-egov.aspgov.com/Click2GovBP/index.html
+Indio,CA,371926,Tyler Technologies,https://www.indio.org/services/citizen-self-service
+Victorville,CA,363596,Tyler Technologies,https://energov.victorvilleca.gov/EnerGovProd/CitizenAccess/Site/Public/Main
+Trenton,NJ,362501,GovPilot,Unknown
+Huntsville,AL,359389,Unknown,https://inspection.huntsvilleal.gov/inspection/Online/ListPermits.aspx
+Huntsville,AL,359389,Unknown,https://www.huntsvilleal.gov/development/building-construction/building-license-permits/
+Modesto,CA,355686,eTRAKiT,https://mode-trk.aspgov.com/eTRAKiT/
+Honolulu,HI,346323,Unknown,https://dppweb.honolulu.gov/DPPWeb/default.aspx?PossePresentation=BuildingPermitSearch
+Greensboro,NC,345858,Unknown,http://gsoapps.greensboro-nc.gov/PlanReview/
+Fort Wayne,IN,345279,Accela,https://aca-prod.accela.com/ACFW/Default.aspx
+Anaheim,CA,344553,Accela,https://aca-prod.accela.com/anaheim/default.aspx
+Corpus Christi,TX,339432,Infor (Hansen),https://www.cctexas.com/dynamicportal
+Fort Collins,CO,339256,Accela,https://accela-aca.fcgov.com/CitizenAccess/Welcome.aspx
+Antioch,CA,333347,Civic Access,https://www.antiochca.gov/community-development-department/online-permitting-system/
+Jackson,MS,331332,OpenGov,https://jacksonms.portal.opengov.com/
+Fayetteville,NC,326821,GeoCivix (idtPlans),https://fayetteville.idtplans.com/secure/
+Myrtle Beach,SC,325829,Not Found,N/A
+Henderson,NV,324523,GovAccess,https://henderson-nv.prod.govaccess.org/government/departments/building-and-fire-safety/building-online-services
+Mobile,AL,324067,Unknown,https://www.buildmobile.org/permitting/
+Lexington,KY,321122,Accela,https://aca-prod.accela.com/lexky/Default.aspx
+Lansing,MI,318001,BS&A Software,https://bsaonline.com/CD_PermitApplication/ApplyForPermit?uid=384
+Savannah,GA,316446,eTRAC,https://eTRAC.savannahga.gov
+Youngstown,OH,315751,Not Found,N/A
+Ann Arbor,MI,314647,Tyler Technologies (EnerGov),https://stream.a2gov.org
+Santa Ana,CA,311639,Clariti,https://permit.santa-ana.org/ops
+Irvine,CA,308160,eplan Software Review,https://gopost-irvine.eplansoftreview.com/
+St. Paul,MN,307762,Tyler Technologies,https://www.stpaul.gov/departments/safety-inspections/paulie-new-permitting-and-licensing-system
+Poughkeepsie,NY,307738,Unknown,N/A
+Newark,NJ,307188,FastTrackGov,https://newarkcitynj.portal.fasttrackgov.com/Permits/Home.aspx
+Santa Rosa,CA,299986,Accela,https://aca-prod.accela.com/SANTAROSA/Default.aspx
+Concord,NC,297379,Accela,https://aca-prod.accela.com/CONCORD/Login.aspx
+Winter Haven,FL,296830,Tyler Technologies,https://myinspections.mywinterhaven.com/eSuite.Permits/WelcomePage.aspx
+Asheville,NC,295040,Accela,https://services.ashevillenc.gov/Citizenaccess/Login.aspx
+Canton,OH,293657,Unknown,N/A
+Lincoln,NE,293055,Accela,https://permits.lincoln.ne.gov/CitizenAccess/Default.aspx
+Flint,MI,291688,BS&A Software,https://bsaonline.com/
+Lakeland,FL,290762,Intuitive Municipal Solutions,https://ims.lakelandgov.net/
+Jersey City,NJ,289691,Tyler Technologies,https://jerseycitynj-energovpub.tylerhost.net/apps/selfservice
+Anchorage,AK,289069,Unknown,N/A
+Springfield,MO,289041,CIVICS,https://ecity.springfieldmo.gov
+Plano,TX,287339,eTRAKiT (Central Square),https://trakit.plano.gov/etrakit_prod/Search/permit.aspx
+Lubbock,TX,283024,Tyler Technologies (EnerGov),https://egovaccess.ci.lubbock.tx.us/EnerGov_Prod/selfservice/Lubbock_Prod
+Davenport,IA,282356,Unknown,https://request.davenportiowa.com/egov/apps/action/center.egov
+Reading,PA,280030,Unknown,N/A
+Shreveport,LA,278269,MyGovernmentOnline (MGO),https://www.mygovernmentonline.org/
+Chandler,AZ,278123,Accela,https://developmentpermits.chandleraz.gov/clics/Default.aspx
+South Bend,IN,275725,Accela,https://aca-prod.accela.com/southbendin/Default.aspx
+Wilmington,NC,275128,Unknown,https://cityofwilmingtondecitizens.munisselfservice.com/citizens/PermitsInspections/Default.aspx
+Chula Vista,CA,275030,Accela,https://permits.chulavistaca.gov/citizenaccess/chulavista.aspx
+Rockford,IL,274256,Infor Rhythm Labs,https://rockfordil-prd.rhythmlabs.infor.com/submit-a-permit
+Eugene,OR,272737,Unknown,https://pdd.eugene-or.gov/ebuild
+Salem,OR,272331,Unknown,https://egov.cityofsalem.net/PACPortal
+Gilbert,AZ,271118,Unknown,https://onestopshop.gilbertaz.gov/
+North Las Vegas,NV,270773,Unknown,https://www.cityofnorthlasvegas.com/business/permit-application-center
+Santa Clarita,CA,265529,Accela,https://aca-prod.accela.com/santaclarita/Default.aspx
+Peoria,IL,262461,Unknown,https://peoriagov.org/269/Permit-License-Event
+Tallahassee,FL,261271,Accela,https://www.tlcpermits.org/
+Killeen,TX,261099,MyGovernmentOnline,https://www.mgoconnect.org/cp/portal
+St. Petersburg,FL,260646,Superion,https://stpe-egov.aspgov.com/Click2GovBP/index.html
+Kennewick,WA,260091,iWorQ,https://washington.portal.iworq.net/portalhome/washington
+Columbus,GA,257578,Accela,https://portal.columbus.gov/Permits/Cap/CapHome.aspx?module=Building&TabName=HOME
+Laredo,TX,255949,Superion,https://lare-egov.aspgov.com/Click2GovBP/index.html
+Irving,TX,255036,MyGovernmentOnline,https://www.mgoconnect.org/cp/portal
+Round Lake Beach,IL,252224,Not Found,N/A
+Montgomery,AL,251545,Accela,https://aca-prod.accela.com/MONTCOOH/Default.aspx
+Chesapeake,VA,251153,Accela,https://aca-prod.accela.com/CHESAPEAKE/Default.aspx
+Glendale,AZ,250193,SmartGov,https://ci-glendale-az.smartgovcommunity.com/
+Nashua,NH,247828,CivicPlus,https://www.nashuanh.gov/278/Permits
+York,PA,246769,OpenGov,https://yorkpa.portal.opengov.com/
+Garland,TX,245298,Unknown,https://www.garlandtx.gov/2152/Building-Permit
+Rock Hill,SC,244403,Evolve,https://rockhillgis.cityofrockhill.com/permitting/
+Scottsdale,AZ,242169,Accela,https://aca-prod.accela.com/SCOTTSDALE/CommunityView/account/new
+Aguadilla,PR,235546,Unknown,N/A
+Arlington,VA,235463,Accela,https://aca-prod.accela.com/arlingtonco/Default.aspx
+Norfolk,VA,235037,Clariti,https://norfolkva.my.site.com/s/login/
+Appleton,WI,234701,CityView,https://applications.appleton.org/departments/public/onlinepermits/buildingpermitlite.aspx
+Enterprise,NV,232043,Accela,https://aca-prod.accela.com/clarkco/building.html
+Gulfport,MS,231754,Unknown,https://www.gulfport-ms.gov/departments/urban_development/building_code_services/
+Lafayette,LA,231548,Unknown,https://www.lafayettela.gov/applications-and-permits
+Bremerton,WA,228576,SmartGov,https://ci-bremerton-wa.smartgovcommunity.com/
+Fremont,CA,228518,Accela,https://aca-prod.accela.com/cof/Default.aspx
+Green Bay,WI,227679,eSLA,https://esla.wi.gov/
+Fargo,ND,225066,Unknown,https://permits.fargond.gov/
+Deltona,FL,224303,Tyler Portico,https://deltonafl.tylerportico.com/TIM/Portal/portal-home
+Brownsville,TX,223416,Accela,https://aca-prod.accela.com/brownsville/Default.aspx
+Bloomington,IL,133107,Unknown,N/A
+Charleston,WV,133045,Unknown,https://charlestonwvpayments.com/permits/find
+Carrollton,TX,132741,CityView,https://cityserve.cityofcarrollton.com/CityViewPortal/Permit/Locator
+Tyler,TX,131037,eTRAKiT,https://trakit.cityoftyler.net/etrakit/
+Iowa City,IA,129897,Tyler Technologies,https://egov.iowa-city.org/energovprod/selfservice
+Johnson City,TN,129818,CityView,https://jc-cityviewweb.johnsoncitytn.org/CityViewPortal/Permit/Locator
+Santa Clara,CA,129239,Accela,https://aca-prod.accela.com/santaclara/Default.aspx
+Bellingham,WA,128737,eTRAKiT,https://permits.cob.org/etrakit/
+Norman,OK,128714,CityView,https://devnorman.normanok.gov/Portal/
+Coeur d'Alene,ID,128680,Unknown,https://building.cdaid.org/Permit/Search.aspx
+Fort Smith,AR,128384,CityView,https://cityview2.iharriscomputer.com/FortSmithARPortal/Property/Locate
+Lewisville,TX,128313,MyGovernmentOnline,N/A
+Dover,DE,128045,Unknown,N/A
+Yuba City,CA,127854,Accela,https://aca-prod.accela.com/YUBA/Default.aspx
+Lehigh Acres,FL,127391,Accela,https://aca-prod.accela.com/LEECO/Default.aspx
+Abilene,TX,127130,MyGovernmentOnline,https://public.mygov.us/tx_abilene
+Simi Valley,CA,126503,HDL Gov,https://simivalley.hdlgov.com/
+Pearland,TX,125983,eTRAKiT,https://etrakit.pearlandtx.gov/etrakit3/
+Kenosha,WI,125807,eTRAKiT,https://permitting.kenoshacountywi.gov/eTRAKiT/
+Arecibo,PR,125548,OGPe,https://sbp.ogpe.pr.gov/
+Hialeah,FL,221901,Unknown,https://epay.hialeahfl.gov/
+San Bernardino,CA,221774,Accela,https://aca-prod.accela.com/SBC/Default.aspx
+Tacoma,WA,220482,Accela,https://aca-prod.accela.com/TACOMA/Default.aspx
+Gainesville,FL,219946,Citizenserve,https://www4.citizenserve.com/Portal/?installationid=308
+Spring Valley,NV,219913,Accela,https://aca-prod.accela.com/clarkco/Default.aspx
+Clarksville,TN,218159,Unknown,https://www.clarksvilletn.gov/1346/Self-Service-Portal---Permits-and-Paymen
+College Station,TX,215768,eTRAKiT,https://cd.cstx.gov/eTRAKiT/
+Olympia,WA,215677,SmartGov,https://ci-olympia-wa.smartgovcommunity.com/Public/Home
+Roanoke,VA,214019,eTRAKiT,https://trakit.roanokeva.gov/eTrakit/
+Portland,ME,213660,CivicPlus,https://css.portlandmaine.gov
+Fontana,CA,211921,Accela,https://build.fontanaca.gov/
+Spartanburg,SC,210388,EnerGov,https://selfservice.spartanburgcounty.org/energov_prod/selfservice
+Moreno Valley,CA,210378,Accela,https://aca-prod.accela.com/MOVAL/Default.aspx
+Frisco,TX,210238,eTRAKiT,https://etrakit.friscotexas.gov/
+Yonkers,NY,209529,City Squared,https://permits.yonkersny.gov/
+Thousand Oaks,CA,208302,Unknown,https://toaks.gov/to24
+Sioux Falls,SD,207795,Unknown,https://epldata.siouxfalls.gov/Permits.aspx
+Hagerstown,MD,206889,Tyler Technologies,N/A
+Evansville,IN,206418,Unknown,N/A
+Amarillo,TX,205100,MyGovernmentOnline,https://mgoconnect.org/cp/portal
+Kalamazoo,MI,204408,BS&A Software,https://bsaonline.com/OnlinePayment/OnlinePaymentSearch?PaymentApplicationType=7&uid=233
+Lorain,OH,203802,Unknown,N/A
+Galveston,TX,202810,Accela,https://eportal.galvestontx.gov/
+McKinney,TX,202314,Tyler Technologies,https://www.mckinneytexas.org/165/Permits
+Huntington,WV,201208,eSuite,https://esuites.huntingtonwv.gov/eSuite.Permits/
+Nampa,ID,201129,Unknown,https://www.cityofnampa.us/1508/Online-Permits
+Hickory,NC,200500,SmartGov,https://epermits.catawbacountync.gov/
+Waterbury,CT,199965,Unknown,N/A
+Sunrise Manor,NV,199099,Accela,https://citizenaccess.clarkcountynv.gov/CitizenAccess/Cap/CapHome.aspx?module=Building&TabName=Building
+Grand Prairie,TX,198564,CentralSquare Technologies,https://inspections.gptx.org/Click2GovBP/index.html
+Ocala,FL,197770,eTRAKiT,https://ocal.csqrcloud.com/community-etrakit/
+Waco,TX,197594,Tyler Technologies,https://selfservice.wacotx.gov/EnerGov/SelfService/
+Overland Park,KS,197199,Unknown,https://www.opkansas.org/city-services/permits-licenses-inspections-directory/
+Frederick,MD,196743,Accela,https://aca-prod.accela.com/FREDERICK/Default.aspx
+Huntington Beach,CA,196010,Accela,https://engage.huntingtonbeachca.gov/CitizenAccess/Default.aspx
+Santa Barbara,CA,194950,Accela,https://aca-prod.accela.com/SANTABARBARA/Default.aspx
+Peoria,AZ,194338,Accela,https://devservices.peoriaaz.gov/
+Cedar Rapids,IA,192755,Unknown,https://www.cedar-rapids.org/local_government/departments_a_-_f/building_services/index.php
+Vancouver,WA,192696,Unknown,https://cityofvancouver.myrelayview.com/Permits
+Glendale,CA,192270,Tyler Technologies,https://glendaleca-energovweb.tylerhost.net/apps/SelfService#/home
+Gastonia,NC,189767,CityView,https://devsvcs.cityofgastonia.com/
+Spring Hill,FL,188743,Unknown,https://pvweb.hernandopa-fl.us/
+Murfreesboro,TN,187601,Unknown,N/A
+Tempe,AZ,186419,Accela,https://epermits.tempe.gov/CitizenAccess/Default.aspx
+Paradise,NV,186178,Accela,https://citizenaccess.clarkcountynv.gov/
+Newport News,VA,184774,Unknown,N/A
+Erie,PA,184332,Unknown,N/A
+Fort Lauderdale,FL,183032,Accela,https://aca-prod.accela.com/FTL/Default.aspx
+Gainesville,GA,182116,Accela,https://aca-prod.accela.com/HALLCO/Default.aspx
+Aurora,IL,179867,eTRAKiT,https://auro-trk.aspgov.com/etrakit/
+Mauldin,SC,179196,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=362
+Ontario,CA,178347,Accela,https://aca-prod.accela.com/ONT/Default.aspx
+Elk Grove,CA,177221,eTRAKiT,https://elgr-trk.aspgov.com/etrakit/
+Panama City,FL,177125,Cloudpermit,https://www.panamacity.gov/803/Cloudpermit
+Cary,NC,176686,Click2Gov,https://cary-egov.aspgov.com/Click2GovBP/index.html
+Hemet,CA,176009,eTRAKiT,https://cohchcrwweb.cityofhemet.org/eTRAKiT3/login.aspx?lt=either&rd=~/Search/permit.aspx
+Danbury,CT,175074,OpenGov,https://danburyct.portal.opengov.com/
+Rancho Cucamonga,CA,174693,Accela,https://aca-prod.accela.com/cityofrc/Default.aspx
+Salinas,CA,172995,eTRAKiT,https://pc.ci.salinas.ca.us/eTRAKIT/
+Oceanside,CA,172542,eTRAKiT,https://etrakit.cityofoceanside.com/etrakit3/
+Vallejo,CA,171414,eTRAKiT,https://vall-trk.aspgov.com/eTRAKiT/
+High Point,NC,171342,Accela,https://aca-prod.accela.com/COHP/Default.aspx
+Garden Grove,CA,170603,Unknown,https://ch.ci.garden-grove.ca.us/permitsoft/start/index
+Pembroke Pines,FL,170557,EnerGov,https://www.ppines.com/1514/Development-HUB---Energov
+Lancaster,CA,170013,Accela,https://aca-prod.accela.com/LANCASTER/Default.aspx
+Marysville,WA,168664,eTRAKiT,https://permits.marysvillewa.gov/
+Bayamón,PR,167312,Not Found,N/A
+Fredericksburg,VA,166746,EnerGov,https://selfservice.fredericksburgva.gov/energov_prod/selfservice#/home
+Visalia,CA,166273,Accela,https://cd.visalia.city/CitizenAccess/
+Tuscaloosa,AL,166253,CityView,https://www.tuscaloosa.com/business/city-view-portal
+Palmdale,CA,165487,Accela,https://aca-prod.accela.com/PALMDALE/Default.aspx
+Santa Cruz,CA,165263,eTRAKiT,https://permitting.cityofsantacruz.com/etrakit3/
+Medford,OR,164628,Citizenserve,https://www4.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=315
+Norwich,CT,163299,OpenGov,https://norwichct.portal.opengov.com/
+Merced,CA,163257,Unknown,https://www.cityofmerced.gov/business-and-development/permits-entitlements-and-licensing-portal
+Manchester,NH,162716,Unknown,https://www.manchesternh.gov/Departments/Planning-and-Comm-Dev/Building/Permit-Applications
+Odessa,TX,162648,MyGovernmentOnline,https://www.mygovernmentonline.org/
+Muskegon,MI,162458,Unknown,https://muskegon-mi.gov/city-services/finance-administrative/city-clerk/business-licensing-permits/
+Leesburg,FL,161515,Click2Gov,https://lees-egov.aspgov.com/Click2GovBPO/index.html
+Lafayette,IN,160373,Munis,https://selfservice.lafayette.in.gov/
+Hayward,CA,159201,Tyler Technologies (EnerGov),https://www.hayward-ca.gov/services/permit-center
+Corona,CA,158839,eTRAKiT,https://etrakit.coronaca.gov/etrakit/
+Paterson,NJ,157660,Not Found,N/A
+Alexandria,VA,156788,Unknown (APEX),https://www.alexandriava.gov/Permits
+Macon,GA,156543,Community Core,https://app.communitycore.com/
+Lakewood,CO,156309,eTRAKiT,https://lakw-trk.aspgov.com/eTRAKiT/
+Springfield,IL,156240,Unknown,https://www.springfield.il.us/Departments/PublicWorks/ApplicationPermits/BuildingPermitsHome.aspx
+Kansas City,KS,154776,Accela,https://mauwi.wycokck.org/CitizenAccess/Cap/CapHome.aspx
+Burlington,NC,154504,SmartGov,https://ci-burlington-nc.smartgovcommunity.com/Public/Home
+Warner Robins,GA,154327,Unknown,https://www.wrga.gov/page/permit-applications
+Sunnyvale,CA,153455,E-OneStop (GovPartner),https://ecityhall.sunnyvale.ca.gov/cd/default.htm
+Hollywood,FL,152935,Accela,https://aca-prod.accela.com/hollywood/default.aspx
+Roseville,CA,152438,Accela,https://permitsonline.roseville.ca.us/
+New Bedford,MA,152104,OpenGov,https://newbedfordma.portal.opengov.com/
+South Lyon,MI,151231,BS&A,https://bsaonline.com/?uid=1653
+Bellevue,WA,151199,MyBuildingPermit,https://permitsearch.mybuildingpermit.com/
+Fairfield,CA,150794,Unknown,https://www.fairfield.ca.gov/government/city-departments/community-development/fairfield-build
+Binghamton,NY,150564,Unknown,https://www.binghamton-ny.gov/government/departments/building-construction-code-enforcement
+Topeka,KS,150343,Unknown,https://www.topeka.org/development-services/permit-portal/
+Escondido,CA,149913,Unknown,https://cwols.escondido.org/Portal/
+Joliet,IL,149785,Avolve Software - ProjectDox,https://joliet-il-us-test.avolvecloud.net/
+Surprise,AZ,149519,Unknown,N/A
+Naperville,IL,149424,Accela,https://www.naperville.il.us/services/permits--licenses/
+Pasadena,TX,149345,Unknown,https://www.cityofpasadena.net/planning/permit-center/permit-center-online/
+Mesquite,TX,148848,Online Govt,https://mesquite.onlinegovt.com/
+Champaign,IL,148477,OpenGov,https://champaignil.portal.opengov.com/search
+Pomona,CA,148391,HDL,https://pomona.hdlgov.com/
+Houma,LA,147841,MyGovernmentOnline (MGO),https://www.mgoconnect.org/cp/portal
+Athens,GA,147368,Custom/In-House,https://accgov.my.site.com/s/login/
+St. George,UT,147347,CityInspect,https://stg.cityinspect.com/login
+Beaumont,TX,146554,CityWorks,https://cityworks.beaumonttexas.gov/OnlineApplications/
+Elkhart,IN,146511,CivicGov (CivicPlus),https://www.civicgov4.com/in_elkhart/portal/
+Lake Charles,LA,145110,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=165
+Santa Maria,CA,144857,eTRAKiT (Central Square),https://sntm-trk.aspgov.com/eTRAKiT/
+Yuma,AZ,144509,Tyler Technologies - Civic Access,https://www.yumaaz.gov/government/community-development/development-portal
+Olathe,KS,143720,GovPlatform,https://olatheks-self.govplatform.com/
+Midland,TX,143714,Unknown,https://www.midlandtexas.gov/1424/PermitMidland
+Greeley,CO,143554,eTRAKiT (Central Square),https://trakit.greeleygov.com/etrakit/
+Torrance,CA,143499,Accela,https://aca-prod.accela.com/TORRANCE/Default.aspx
+Thornton,CO,142878,CityView (Harris),https://cityviewportal.thorntonco.gov/
+Las Cruces,NM,142432,Accela,https://aca-prod.accela.com/lascruces/Default.aspx
+Columbia,MO,141811,OnLama,https://columbia.onlama.com/
+Fullerton,CA,141278,Unknown,https://fullerton.getapermit.net/
+Grand Junction,CO,141008,Mobile Eyes,https://www.gjcity.org/1085/Plan-Review-Portal
+Carolina,PR,139051,Unknown,N/A
+Metairie,LA,138995,MyGovernmentOnline,https://www.jeffparish.gov/1003/Online-Permit-Portal
+Orange,CA,138723,eTRAKiT,https://epermit.cityoforange.org/etrakit3/
+Warren,MI,138128,BS&A,https://bsaonline.com/?uid=305
+West Valley City,UT,137955,Unknown,https://pllportal.wvc-ut.gov/Portal/
+Hampton,VA,137334,Citizenserve,https://www2.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=204&original_iid=204&original_contactID=34266532
+Pasadena,CA,136462,Tyler Technologies,https://mypermits.cityofpasadena.net/EnerGov_Prod/SelfService
+Miramar,FL,135986,Gov-Easy,https://apps.gov-easy.com/Home/Main/Welcome?clientId=717c6ae9-451f-4199-bac7-2d339804c8e8
+Elizabeth,NJ,135887,GovPilot,https://eforms-main.govpilot.com/NJ/elizabeth
+Stamford,CT,135806,OpenGov,https://stamfordct.portal.opengov.com/
+Racine,WI,135512,Unknown,https://www.buildupracine.org/business-tools/permits/building-permits/
+Kent,WA,135015,Unknown,https://permitportal.kentwa.gov/citizenportal/app/
+Yakima,WA,134003,SmartGov,https://ci-yakima-wa.smartgovcommunity.com/Public/Home
+Coral Springs,FL,133962,eTRAKiT,https://etrakit.coralsprings.gov/etrakit/
+Sterling Heights,MI,133473,BS&A,https://bsaonline.com/?uid=121
+Billings,MT,133173,e-PlanSoft,https://gopost-billings.eplansoftreview.com/
+Meridian,ID,124865,Accela,https://citizenportal.meridiancity.org/CitizenAccess/Default.aspx
+Round Rock,TX,124288,Trimble Cityworks,https://permits.roundrocktexas.gov/portal
+Waldorf,MD,124186,Unknown,N/A
+Temple,TX,123932,Click2Gov/MyGovernmentOnline,https://tmpl-egov.aspgov.com/Click2GovBP/
+Lynchburg,VA,123662,eTRAKiT,https://www.lynchburgva.gov/online-permitting
+Rochester,MN,123252,Accela,https://aca.rochestermn.gov/CitizenAccess/Cap/CapHome.aspx?module=Building&TabName=HOME
+Logan,UT,122915,Unknown,https://www.loganutah.gov/government/departments/community_development/building_department/apply_for_permit.php
+Arvada,CO,122835,eTRAKiT,https://arvadapermits.org/
+Clovis,CA,122719,Tyler Technologies EnerGov,https://css.ci.clovis.ca.us/EnerGov_Prod/SelfService
+Independence,MO,121944,Custom/In-House,https://apps.indepmo.org/apps/BuildingPermits
+Redding,CA,120849,Unknown,https://www.cityofredding.gov/government/departments/development_services/permit_center.php
+Greenville,NC,120595,Unknown,https://www.greenvillenc.gov/government/public-works/permits
+Duluth,MN,120443,Tyler Technologies EnerGov,https://eplace.duluthmn.gov/energov_prod/selfservice
+Berkeley,CA,120223,Accela,https://permits.cityofberkeley.info/CitizenAccess/Cap/CapHome.aspx?module=Building&TabName=Home
+Boulder,CO,120121,Tyler Technologies EnerGov,https://bouldercolorado.gov/services/energov-customer-self-service-portal
+Pueblo,CO,120020,Unknown,https://www.prbd.com/
+West Palm Beach,FL,119508,Unknown,https://westpalmbeach.prod.govaccess.org/government/development-services/epl
+Burlington,VT,118409,OpenGov,https://burlingtonvt.portal.opengov.com/
+Seaside,CA,118398,SmartGov,https://ci-seaside-ca.smartgovcommunity.com/
+Richardson,TX,118269,Accela,https://aca-prod.accela.com/COR/Default.aspx
+Cambridge,MA,117794,OpenGov,https://cambridgema.portal.opengov.com/
+Monroe,LA,117507,Neighborly Solutions,N/A
+North Charleston,SC,117460,ARC,https://arc.northcharleston.org/
+Saginaw,MI,117412,Not Found,N/A
+Clearwater,FL,117075,Accela,https://epermit.myclearwater.com/
+The Woodlands,TX,116916,CivicPlus,https://tx-thewoodlandstownship2.civicplus.com/
+Brandon,FL,116365,Accela,https://hcfl.gov/businesses/hillsgovhub
+St. Cloud,MN,116347,Accela,https://aca-prod.accela.com/scmn/default.aspx
+West Jordan,UT,116277,Cityworks,https://permit.westjordan.utah.gov/CityworksPortal-LIVE/
+Broken Arrow,OK,115919,Unknown,https://www.brokenarrowok.gov/i-want-to/apply-for-or-renew/a-permit-or-license
+Harlingen,TX,115767,Click2Gov,https://harl-egov.aspgov.com/Click2GovBP/
+Kailua,HI,115634,Unknown,N/A
+Westminster,CO,115546,eTRAKiT,https://develop.cityofwestminster.us/etrakit/
+Gilroy,CA,115448,HDL Companies,https://gilroy.hdlgov.com/
+Richmond,CA,115396,Intuitive Municipal Solutions,https://ims.ci.richmond.ca.us/
+Mandeville,LA,115292,Unknown,https://www.cityofmandeville.com/planning/
+Utica,NY,114961,Unknown,https://www.cityofutica.com/departments/codes/permits/
+Ponce,PR,114940,OGPe/Single Business Portal,https://sbp.ogpe.pr.gov/
+League City,TX,114885,Unknown,https://www.leaguecitytx.gov/2058/Permits
+Port Arthur,TX,114860,Not Found,N/A
+Lowell,MA,114799,Unknown,https://www.lowellma.gov/1631/Online-Permitting
+East Los Angeles,CA,114617,Unknown,https://dpw.lacounty.gov/building-and-safety/permits/
+Carlsbad,CA,114500,Unknown,https://www.carlsbadca.gov/departments/community-development/customer-self-service
+Elgin,IL,114106,Click2Gov,https://portal.cityofelgin.org/permit-search
+Waterloo,IA,113832,Unknown,https://www.cityofwaterlooiowa.com/departments/building_inspections/forms.php
+Leominster,MA,113462,CivicPlus,https://www.leominster-ma.gov/443/Permits-and-Forms
+Bend,OR,113454,CityView,https://cityview.ci.bend.or.us/Portal/
+Sioux City,IA,112823,Unknown,https://www.sioux-city.org/government/departments-a-f/community-development/inspection-services/permit-center
+Gresham,OR,112818,Accela,https://www.greshamoregon.gov/services/building-permits-and-inspections/
+Longview,TX,112687,Cityworks,https://cloud.longviewtexas.gov/OnlinePermits/template/login.aspx
+Pompano Beach,FL,112212,Click2Gov,https://c2g.pompanobeachfl.gov/Click2GovBP/selectpermit.html
+Downey,CA,111793,Accela,https://permits.downeyca.org/CitizenAccess/Default.aspx
+Murrieta,CA,111621,Tyler Technologies,https://www.murrietaca.gov/1367/Self-Service-Portal-CSS-Portal
+Idaho Falls,ID,111295,Cityworks,https://www.idahofallsidaho.gov/1980/Cityworks-Online-Permitting-System
+Miami Gardens,FL,111264,Tyler Technologies,https://miamigardensfl-energovpub.tylerhost.net/apps/selfservice#/home
+Everett,WA,111083,eTRAKiT,https://onlinepermits.everettwa.gov/eTRAKiT/default.aspx
+Holland,MI,110905,Unknown,https://www.cityofholland.com/235/Permit-Search
+Costa Mesa,CA,110538,Tyler Technologies,https://www.costamesaca.gov/trending/tessa-faq-s
+Temecula,CA,110404,Tyler Technologies,https://css.temeculaca.gov/EnerGov_Prod/selfservice
+Jacksonville,NC,109958,Click2Gov,https://click2gov.ci.jacksonville.nc.us/Click2GovBP/
+San Buenaventura,CA,109900,Unknown,https://www.cityofventura.ca.gov/2544/Permit-Center
+Sugar Land,TX,109735,Tyler Technologies,https://www.sugarlandtx.gov/2373/Citizen-Self-Service-Portal
+Chico,CA,109411,eTRAKiT,https://chic-trk.aspgov.com/etrakit/
+South Fulton,GA,109157,Sages Networks,https://www.sagesgov.com/southfulton-ga
+Sparks,NV,109106,Accela,https://aca-prod.accela.com/ONE/Default.aspx
+Eau Claire,WI,108477,InfoVision Software,https://evolvepublic.infovisionsoftware.com/eauclaire/
+Auburn,AL,108327,ArcGIS/Esri,https://webgis.auburnalabama.org/permits
+Dearborn,MI,107846,BS&A Software,https://bsaonline.com/Home/MunicipalityHome?uid=599
+Riverview,FL,107776,Accela,https://aca-prod.accela.com/hcfl/Default.aspx
+Allen,TX,107684,Tyler Technologies,https://www.cityofallen.org/2215/Citizen-Self-Service-CSS
+West Covina,CA,107436,Unknown,https://westcovina.hdlgov.com/
+Centennial,CO,107386,Unknown,https://www.centennialco.gov/Online-Services/Apply-for-a-Building-Permit
+Bloomington,IN,107262,Civic Access,https://bloomington.in.gov/planning/permits
+Sandy Springs,GA,107198,OpenGov,https://sandyspringsga.portal.opengov.com/
+El Monte,CA,107066,Unknown,https://www.elmonteca.gov/711/Apply-for-Permits
+Hillsboro,OR,107050,Avolve/ProjectDox,https://eplans.hillsboro-oregon.gov/Portal/Login/Index/hillsboro
+Menifee,CA,107020,Accela,https://aca-prod.accela.com/MENIFEE/Default.aspx
+Rio Rancho,NM,106533,ASP Government,https://rior-egov.aspgov.com/Click2GovBP/index.html
+Davie,FL,106412,Tyler Technologies,https://esuite.davie-fl.gov/eSuite.Permits/WelcomePage.aspx
+Jurupa Valley,CA,106244,Accela,https://aca-prod.accela.com/JURUPA
+Columbia,MD,105871,Accela,https://aca.accela.com/howardcounty
+Inglewood,CA,105575,Accela,https://aca-prod.accela.com/inglewood/Default.aspx
+Spokane Valley,WA,105460,SmartGov,https://ci-spokanevalley-wa.smartgovcommunity.com/
+Renton,WA,105279,Unknown,https://permitting.rentonwa.gov/
+San Tan Valley,AZ,105231,Accela,https://aca-prod.accela.com/PINAL/Default.aspx
+Burbank,CA,105165,Accela,https://permit.burbankca.gov/CAP/
+Brockton,MA,105080,Citizenserve,https://www4.citizenserve.com/Portal/?installationid=390
+El Cajon,CA,104909,Unknown,https://www.cityofelcajon.us/PACO
+Rialto,CA,103866,Unknown,https://www.rialtoca.gov/913/Online-Permitting-Center
+San Mateo,CA,103555,Tyler Technologies,https://www.cityofsanmateo.org/4294/Online-Permit-Center
+Goodyear,AZ,102891,Accela,https://aca-prod.accela.com/GOODYEAR/customization/common/home.aspx
+Charlottesville,VA,102802,Cityworks,https://permits.charlottesville.gov/portal
+Lafayette,CO,102615,MyGovernmentOnline,https://www.lafayetteco.gov/362/Apply-for-Building-Permits
+Lee's Summit,MO,102583,CityView,https://devservices.cityofls.net/
+Edinburg,TX,102561,Tyler Technologies,https://development.cityofedinburg.com/EnerGov_Prod/SelfService
+Daly City,CA,102560,OpenCounter,https://dalycity.getapermit.net/
+Wichita Falls,TX,102558,MyGovernmentOnline,https://www.wichitafallstx.gov/745/Building-Inspections
+Bowling Green,KY,102247,Unknown,https://www.bgky.org/ncs/building/permits
+Longmont,CO,102183,Accela,https://aca.longmontcolorado.gov/
+Vacaville,CA,102085,eTRAKiT,https://permits.cityofvacaville.com/eTRAKiT3/
+Highlands Ranch,CO,101437,SmartGov,https://ci-metrodistrictofhighlandranch-co.smartgovcommunity.com/Public/Home
+Quincy,MA,101361,ViewPoint Cloud,https://quincyma.viewpointcloud.com/
+Fishers,IN,100918,OpenGov,https://fishersin.portal.opengov.com/
+Lynn,MA,100905,SmartGov,https://ci-lynn-ma.smartgovcommunity.com/public/home
+Norwalk,CA,100713,EdgeSoft,https://norwalk.edgesoftinc.com/cap/
+Carmel,IN,100501,iWorQ,https://carmel.portal.iworq.net/portalhome/carmel
+Hesperia,CA,100141,Accela,https://ezop.sbcounty.gov/CitizenAccess/Default.aspx
+St. Augustine,FL,99936,CityWorks,https://www.citystaug.com/1082/Permit-Portal
+Buckeye,AZ,99844,EnerGov,https://ci-buckeye-az.smartgovcommunity.com/ApplicationPublic/ApplicationHome
+San Angelo,TX,99507,Unknown,N/A
+Federal Way,WA,99232,MyBuildingPermit,https://epermit.mybuildingpermit.com/
+Bismarck,ND,99060,eTRAKiT,https://trakitapi.bismarcknd.gov/etrakit/search/permit.aspx
+Boca Raton,FL,98833,Boca eHub,https://www.myboca.us/157/Building-Permits-and-Inspections
+New Braunfels,TX,98700,ProjectDox,https://nbpermits.nbtexas.org/publicaccess/template/Login.aspx
+Vista,CA,98646,Not Found,N/A
+Beaverton,OR,97502,CIVICS,https://prod.buildinginbeaverton.org
+Portsmouth,VA,97299,Unknown,https://www2.portsmouthva.gov/tm_web/
+Orem,UT,97048,Unknown,https://orem.gov/buildingpermits/
+Conroe,TX,96976,BluePrince,https://www.cityofconroe.org/services/building_inspections_permits/permits1.php
+Suffolk,VA,96638,CityWorks,https://app03.cityworksonline.com/CLIENT_SuffolkVA-Public/template/login.aspx
+Sunrise,FL,96633,Unknown,https://www.sunrisefl.gov/openforbusiness
+Lawrence,KS,96380,Tyler Technologies,https://cityoflawrence-ks-cc.connect.socrata.com
+Arden-Arcade,CA,96319,Accela,https://aca-prod.accela.com/SACRAMENTO/Default.aspx
+Prescott Valley,AZ,96190,e-PlanSoft,https://gopost-prescottvalley.eplansoftreview.com
+Middletown,OH,95894,CitizenServe,https://www.citizenserve.com/Portal/?installationID=114
+San Germán,PR,95622,Unknown,N/A
+Edmond,OK,95618,Cityworks/Timmons Group PLL,https://pll.edmondok.gov/pllportal/
+Tracy,CA,95358,eTRAKiT,https://etrakit.cityoftracy.org/
+Manteca,CA,95347,Accela,https://aca-prod.accela.com/MANTECA
+Kingsport,TN,95059,eTRAKiT,https://king-trk.aspgov.com/eTRAKiT/
+Portsmouth,NH,94815,ViewPoint Cloud,https://portsmouthnh.viewpointcloud.com/
+Sandy,UT,94723,Cityworks,https://azsandy.sandy.utah.gov/SandyCWPA/
+Palm Coast,FL,94362,e-PlanSoft,https://www.palmcoastgov.com/eplanreview
+Slidell,LA,94220,Not Found,N/A
+San Marcos,CA,94078,OpenCounter,https://san-marcos.opencounter.com/
+Livonia,MI,94058,BS&A Software,https://bsaonline.com/?uid=521
+Santa Fe,NM,94032,Tyler Technologies/EnerGov,https://santafenm-energovpub.tylerhost.net/Apps/selfservice
+Plantation,FL,94002,Accela,https://aca.plantation.org/CitizenAccess/Welcome.aspx
+Atascocita,TX,93926,Unknown,N/A
+Fall River,MA,93764,OpenGov,https://fallriverma.portal.opengov.com/
+Compton,CA,93525,Citizenserve,https://www2.citizenserve.com/Portal/?installationid=202
+Carson,CA,93523,Tyler Technologies (EnerGov),https://cityofcarsonca-energovweb.tylerhost.net/apps/selfservice
+La Crosse,WI,93163,Unknown,N/A
+Missoula,MT,92942,Accela,https://aca-prod.accela.com/MISSOULA/
+O'Fallon,MO,92697,Citizenserve,https://www2.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=192
+Mount Pleasant,SC,92662,Oracle Permitting and Licensing,https://eody.fa.us6.oraclecloud.com/fscmUI/publicSector.html
+Roswell,GA,92577,Tyler Technologies,https://www.roswellgov.com/HUB
+Hoover,AL,92401,Not Found,N/A
+Florence,SC,92315,Tyler Technologies (EnerGov),https://www.cityofflorence.com/building-department
+Williamsburg,VA,91935,Unknown,https://www.williamsburgva.gov/192/ePermits---Online-Permitting
+South Gate,CA,91836,EdgeSoft,https://southgate.edgesoftinc.com/opc/
+Chino,CA,91775,Accela,https://aca.cityofchino.org/CitizenAccess/Default.aspx
+Fort Myers,FL,91730,Tyler Technologies (EnerGov),https://fortmyers.gov/1650/Electronic-Permits
+Kirkland,WA,91614,eGov (MyBuildingPermit),https://permitsearch.mybuildingpermit.com/
+Santa Monica,CA,91535,OpenCounter,https://santa-monica.opencounter.com/
+Vineland,NJ,91393,Not Found,N/A
+Norwalk,CT,91375,EdgeSoft,https://norwalk.edgesoftinc.com/cap/
+Alafaya,FL,90874,Orange County FastTrack,https://fasttrack.ocfl.net/OnlineServices/
+Lawton,OK,90662,Tyler Technologies (Portico),https://cityoflawtonok.tylerportico.com/
+Avondale,AZ,90644,Accela,https://aca-prod.accela.com/AVONDALE/
+Germantown,MD,90521,Unknown,https://permittingservices.montgomerycountymd.gov/
+Rapid City,SD,90421,eTRAKiT,https://permits.rcgov.org/eTRAKiT/
+Westminster,CA,90147,eTRAKiT,https://develop.cityofwestminster.us/etrakit/
+Clifton,NJ,89247,Not Found,N/A
+Waukegan,IL,88919,Maintstar,https://h9.maintstar.co/waukegan/portal/
+Bloomington,MN,88838,CityView,https://permits.bloomingtonmn.gov/ProdPortal/
+Mayagüez,PR,88722,Unknown,https://sbp.ogpe.pr.gov/
+San Leandro,CA,88531,Accela,https://aca-prod.accela.com/sanleandro/
+Newton,MA,88504,OpenGov,https://newtonma.viewpointcloud.com/search
+Joplin,MO,88490,Superion Click2Gov,https://jopl-egov.aspgov.com/Click2GovBP/
+Lawrence,MA,88297,Citizenserve,https://www.citizenserve.com/Portal/?installationid=325
+Springdale,AR,87388,Unknown,N/A
+Troy,MI,87307,BS&A Software,https://www.bsaonline.com/
+Citrus Heights,CA,87036,PermitCity,https://citizen.citrusheights.permitcity.com/
+Deerfield Beach,FL,86742,Gov-Easy,https://apps.gov-easy.com/
+Town 'n' Country,FL,86544,Accela,https://aca-prod.accela.com/HCFL/
+Winchester,VA,86501,Superion Click2Gov,https://winc-egov.aspgov.com/Click2GovBP/
+Mission,TX,86234,Not Found,N/A
+Bryan,TX,86169,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=411
+Hawthorne,CA,85933,Tyler Technologies EnerGov,https://hawthorneca-energovweb.tylerhost.net/apps/SelfService#/home
+Whittier,CA,85925,Accela,https://aca-prod.accela.com/whittier/Default.aspx
+Livermore,CA,85870,Accela,https://aca.supp.accela.com/livermore/Default.aspx
+Lake Forest,CA,85846,BS&A Software,https://bsaonline.com/?uid=2669
+San Ramon,CA,85734,EnerGov (Tyler Technologies),https://srch-munis-web.sanramon.ca.gov/EnerGov_Prod/SelfService
+Melbourne,FL,85718,EnerGov (Tyler Technologies),https://energovweb.mlbfl.org/EnerGovProd/SelfService
+Franklin,TN,85575,Unknown,N/A
+Auburn,WA,85455,Unknown,https://mybuildingpermit.com/
+Port Huron,MI,85051,BS&A Software,https://bsaonline.com/?uid=617
+Decatur,IL,84629,OpenGov,https://decaturil.portal.opengov.com/categories/1071
+Baytown,TX,84538,EnerGov (Tyler Technologies),https://css.baytown.org/energov_prod/selfservice
+Brooklyn Park,MN,84349,Unknown,https://nwesuite.brooklynpark.org/esuite.permits/welcomepage.aspx
+Springfield,OH,84309,BS&A Software,https://bsaonline.com/?uid=203
+Newport Beach,CA,84304,Unknown,https://www.newportbeachca.gov/government/departments/community-development/building-division/online-permitting-ipermit
+Westland,MI,84155,BS&A Software,https://bsaonline.com/?uid=294
+Newark,OH,83890,Unknown,N/A
+Muncie,IN,83477,Tyler Technologies (eSuite),https://esuite.cityofmuncie.com/eSuite.Permits/
+Farmington Hills,MI,83316,BS&A Software,https://bsaonline.com/?uid=316
+Cicero,IL,83223,Not Found,N/A
+Buena Park,CA,83052,Unknown,https://buenapark.com/city_departments/community_development/building_division/building_permits/online_building_permits.php
+Warwick,RI,82871,OpenGov,https://warwickri.portal.opengov.com/
+Hattiesburg,MS,82730,Unknown,N/A
+Cranston,RI,82632,OpenGov,https://cranstonri.portal.opengov.com/
+Albany,GA,82612,Unknown,https://albany.cmrpay.com/permits/
+Layton,UT,82512,Unknown,https://www.laytoncity.org/lc/cd/buildingdivision
+Madera,CA,82510,Computronix POSSE,https://posse.co.madera.ca.gov/mccprod/WebUI/
+Largo,FL,82506,Accela,https://www.largo.com/building_services/permits.php
+Redwood City,CA,82423,eTRAKiT,https://permits.redwoodcity.org/etrakit/
+Mountain View,CA,82363,Unknown,https://epermits.mountainview.gov/
+Pine Hills,FL,82264,Not Found,N/A
+Folsom,CA,82140,eTRAKiT,https://etrakit.folsom.ca.us/etrakit/
+Silver Spring,MD,82129,Infor,https://permittingservices.montgomerycountymd.gov/dps/online/eSearch.aspx
+Johns Creek,GA,82115,Tyler Technologies EnerGov,https://johnscreekga.gov/css/
+The Villages,FL,82108,Cityworks,https://www.sumtercountyfl.gov/139/Online-Permitting
+Owensboro,KY,81734,Unknown,N/A
+Napa,CA,81643,Accela,https://aca-prod.accela.com/NAPACO/Default.aspx
+New Rochelle,NY,81591,Passport,https://newrochelle.cmrpay.com/permits/login
+Alhambra,CA,81483,Tyler Technologies EnerGov,https://www.alhambraca.gov/430/Applications-Forms-Permits
+Cheyenne,WY,81378,OpenGov ViewpointCloud,https://cheyennewy.viewpointcloud.com/
+Miami Beach,FL,81319,Tyler Technologies EnerGov,https://energovcss.miamibeachfl.gov/energovprod/selfservice
+Wenatchee,WA,81106,SmartGov,https://ci-wenatchee-wa.smartgovcommunity.com/
+Jackson,MI,81058,Unknown,https://1832.co.jackson.mi.us/BuilditJackson/
+Lehi,UT,81039,Unknown,https://www.lehi-ut.gov/services/inspections/
+Anderson,IN,80820,Unknown,https://www.cityofanderson.com/292/Permit-Center
+Homestead,FL,80725,Unknown,https://egov.cityofhomestead.com/eGovPlus91/permit/perm_status.aspx
+Florence,AL,80720,Not Found,N/A
+Rancho Cordova,CA,80656,Unknown,https://www.cityofranchocordova.org/residents/resident-services/apply-for-a-license-or-permit-residents/rancho-cordova-online
+Morgantown,WV,80626,Cityworks,https://app03.cityworksonline.com/CLIENT_MorgantownWV-Public
+Boynton Beach,FL,80601,SagesGov,https://www.sagesgov.com/boyntonbeach-fl
+Somerville,MA,80549,CitizenServe,https://www.somervillema.gov/citizenserve
+North Port,FL,80512,Accela,https://aca-prod.accela.com/NORTHPORT/Default.aspx
+Lakewood,CA,80510,eTRAKiT,https://lakw-trk.aspgov.com/eTRAKiT/
+Salisbury,MD,80352,MUNIS,N/A
+South Jordan,UT,80331,CityView,https://cityview.southjordanutah.gov/cityviewportal/
+Parma,OH,80131,CitizenServe,https://www5.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=289
+Pharr,TX,79809,Accela,https://aca-prod.accela.com/PHARR/Default.aspx
+State College,PA,79803,Unknown,https://www.statecollegepa.us/200/Permits
+Plymouth,MN,79526,BS&A,https://bsaonline.com/DirectUrl/Cd_PermitApplication/2691
+Turlock,CA,79394,Unknown,https://www.cityofturlock.org/buildinginturlock/buildingsafety/buildingpermits/
+Davis,CA,79355,Unknown,https://davi-egov.aspgov.com/Click2GovBP/index.html
+Perris,CA,79349,Accela,https://aca-prod.accela.com/perris/default.aspx
+Jonesboro,AR,79187,Unknown,N/A
+Tustin,CA,79035,Unknown,https://tustin.getapermit.net/
+Terre Haute,IN,78940,Cityworks,https://www.terrehaute.in.gov/departments/engineering/online-permitting/online-permitting
+Upland,CA,78940,HDL Gov,https://upland.hdlgov.com/
+Georgetown,TX,78803,MyGovernmentOnline,https://permits.georgetown.org/
+Texarkana,TX,78541,MyGovernment,https://public.mygov.us/tx_texarkana
+Kendall,FL,78527,Accela,https://www.miamidade.gov/Apps/RER/EPSPortal
+Pasco,WA,78446,eTRAKiT,https://egov-pasco.com/etrakit3/Search/permit.aspx
+Milpitas,CA,78216,eTRAKiT,https://trakit.ci.milpitas.ca.gov/etrakit3/Search/permit.aspx
+Carmichael,CA,78070,Accela,https://aca-prod.accela.com/SACCO/Default.aspx
+Chino Hills,CA,78024,VDS,https://www.chinohills.org/130/Permit-Applications
+Flower Mound,TX,77886,eTRAKiT,https://etrakit.flower-mound.com/
+Flagstaff,AZ,77868,Accela,https://citizenaccess.flagstaffaz.gov/citizenaccess/
+Alton,IL,77583,BS&A,https://www.bsaonline.com/CD_PermitAjaxApplication/
+Pleasanton,CA,77500,Accela,https://aca-prod.accela.com/PLEASANTON/Default.aspx
+Cedar Park,TX,77474,MyGovernmentOnline,https://www.cedarparktexas.gov/673/MyGovernmentOnline
+Bellflower,CA,77396,Unknown,N/A
+Loveland,CO,77350,Accela,https://aca-prod.accela.com/LOVELAND/Default.aspx
+Mansfield,OH,77137,Unknown,https://ci.mansfield.oh.us/public-works-departments/building-codes-and-permits/
+Hammond,IN,77098,Unknown,N/A
+Bethlehem,PA,77069,Unknown,N/A
+Woodbury,MN,76945,eTRAKiT,https://wdby-trk.aspgov.com/etrakit/
+Alameda,CA,76876,Accela,https://aca-prod.accela.com/ALAMEDA/Default.aspx
+Wyoming,MI,76865,BS&A Software,https://bsaonline.com/?uid=530
+Schaumburg,IL,76780,OpenGov,https://schaumburgil.portal.opengov.com/
+Castle Rock,CO,76614,eTRAKiT,N/A
+Evanston,IL,76552,Accela,https://aca-prod.accela.com/EVANSTON/
+Doral,FL,76490,Microsoft PowerApps,https://doral.powerappsportals.us/
+St. Joseph,MO,76484,Accela,N/A
+Valdosta,GA,76393,iWorQ,https://valdosta.portal.iworq.net/portalhome/valdosta
+Wausau,WI,76386,Evolve,https://evolveportal.ci.wausau.wi.us/
+Pocatello,ID,76370,eTRAKiT,https://poca.csqrcloud.com/community-etrakit/
+Elizabethtown,KY,76363,SmartGov,https://ci-elizabethtown-ky.smartgovcommunity.com/
+Anniston,AL,76228,Unknown,N/A
+Arlington Heights,IL,76220,Click2Gov,https://arht-egov.aspgov.com/Click2GovBP/index.html
+Rochester Hills,MI,76086,BS&A Software,https://bsaonline.com/?uid=385
+Southfield,MI,76025,BS&A Software,https://bsaonline.com/?uid=272
+Daytona Beach,FL,75924,Intuitive Municipal Services,https://daytonabeach.ims16.com/
+Pittsburg,CA,75868,Accela,https://aca-prod.accela.com/pittsburg/
+Oshkosh,WI,75850,Evolve,https://www.oshkoshwi.gov/evolvepublic/
+Redmond,WA,75721,MyBuildingPermit,https://permitsearch.mybuildingpermit.com/
+Saratoga Springs,NY,75599,Unknown,N/A
+Apple Valley,CA,75478,GOGov,https://www.applevalley.org/services/permit-center
+Mansfield,TX,75398,MyGovernmentOnline,https://www.mansfieldtexas.gov/1315/Online-Permit-Application-Plan-Review
+Pawtucket,RI,75280,OpenGov,https://pawtucketri.portal.opengov.com/
+Missouri City,TX,75234,EnerGov,https://permits.missouricitytx.gov/energovprod/selfservice
+Broomfield,CO,75110,Innoprise,https://broomfield.cloud9.innoprise.com/citizenaccess/
+Janesville,WI,74640,E-Plan Exam,https://eplanexam.com/
+San Marcos,TX,74469,MGO Connect,https://san-marcos.opencounter.com/
+Camarillo,CA,74210,OpenGov,https://camarilloca.portal.opengov.com/
+Jackson,TN,74049,OpenGov,https://jacksontn.gov/government/planninggrowthanddevelopment/buildingandcodes
+Dothan,AL,74002,Oracle,https://permits.dothan.org/
+Sherman,TX,73984,Tyler Technologies,https://cityofshermantx-energovweb.tylerhost.net/apps/selfservice
+Lauderhill,FL,73961,Unknown,https://www.lauderhill-fl.gov/departments/building-department/broward-county-epermitsonestop
+Harrisonburg,VA,73926,LAMA,https://permits.harrisonburgva.gov/
+Bolingbrook,IL,73813,OpenGov,https://bolingbrookil.portal.opengov.com/
+Ellicott City,MD,73737,Accela,https://dilp.howardcountymd.gov/CitizenAccess/Default.aspx
+Alexandria,LA,73457,MyPermitNow,https://www.mypermitnow.org/
+Battle Creek,MI,73448,BS&A Software,https://bsaonline.com/?uid=337
+New Britain,CT,73301,OpenGov,https://newbritainct.portal.opengov.com/
+Sheboygan,WI,73268,Unknown,N/A
+Brunswick,GA,73159,CivicPlus,https://www.civicgov4.com/me_brunswick/portal/
+Altoona,PA,73070,Citizenserve,https://www4.citizenserve.com/Portal/PortalController?Action=showPermit&ctzPagePrefix=Portal_&installationID=352
+Lodi,CA,72996,Central Square,https://lodi-trk.aspgov.com/etrakit/PermitApplication/step1.aspx
+Redlands,CA,72985,Unknown,https://gis.cityofredlands.org/pol
+Caguas,PR,72862,Unknown,https://ogpe.pr.gov/
+Dale City,VA,72793,Unknown,https://www.pwcva.gov/department/building-development-division
+Glen Burnie,MD,72772,Accela,https://plus.aacounty.org/
+Mount Vernon,NY,72528,OpenGov,https://mountvernonny.portal.opengov.com/
+Lakeville,MN,72480,BS&A,https://bsaonline.com/?uid=3059
+Dover,NH,72476,Unknown,https://permits.dover.nh.gov
+Lebanon,PA,72475,Not Found,N/A
+Rocklin,CA,72340,Central Square,https://etrakit.rocklin.ca.us/
+Framingham,MA,72013,OpenGov,https://framinghamma.portal.opengov.com/
+Wesley Chapel,FL,71965,Accela,https://aca-prod.accela.com/pasco/Cap/CapHome.aspx?module=Permits&TabName=Home
+Noblesville,IN,71940,Tyler Technologies,https://www.noblesville.in.gov/229/Building-Inspections
+Tamarac,FL,71887,Central Square,https://e-gov.tamarac.org/Click2GovBP/index.html
+Centreville,VA,71885,Accela,https://plus.fairfaxcounty.gov/CitizenAccess/Cap/CapHome.aspx?module=Building&TabName=Home
+Poinciana,FL,71665,Accela,https://aca-prod.accela.com/POLKCO/Default.aspx
+Fairbanks,AK,71555,Not Found,N/A
+Lake Elsinore,CA,71516,Tyler Technologies (EnerGov),https://mill.lake-elsinore.org/EnerGov_Prod/SelfService
+Camden,NJ,71471,iWorQ,https://camdenmepermit.portal.iworq.net/portalhome/camdenmepermit
+Rogers,AR,71411,CityView (Harris),https://www.permittingrogersar.gov/
+Blaine,MN,71261,Intuitive Municipal Solutions,https://blaine.ims16.com/ims/Account/Login
+Wilmington,DE,71124,Tyler Technologies (Munis),https://cityofwilmingtondecitizens.munisselfservice.com/citizens/PermitsInspections/Default.aspx
+St. Charles,MO,71048,CitizenServe,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=165
+Blacksburg,VA,71014,OpenGov,Unknown
+Waukesha,WI,70779,eTRAKiT (Central Square),https://permits.waukesha-wi.gov/etrakit/
+Casas Adobes,AZ,70770,Unknown,Unknown
+Baldwin Park,CA,70720,CitizenServe,https://www.citizenserve.com/Portal/?installationid=363
+Cleveland,TN,70578,Accela,https://aca-prod.accela.com/COC/Default.aspx
+Dublin,CA,70542,Tyler Technologies (EnerGov),https://www.dublin.ca.gov/CSS
+Ankeny,IA,70542,LAMA (Davenport Group),https://ankenyonestop.ankenyiowa.gov/
+Maple Grove,MN,70539,LOGIS,https://epermits.logis.org/home.aspx?city=mg
+Bayonne,NJ,70468,Unknown,Unknown
+North Richland Hills,TX,70338,Unknown,https://www.nrhtx.com/eportal
+Eastvale,CA,70179,Accela,https://aca-prod.accela.com/EASTVALE/Default.aspx
+Guaynabo,PR,70087,Unknown,https://permits.guaynabocity.gov.pr/epermits/Portada.aspx
+Glens Falls,NY,70005,Not Found,N/A
+Longview,WA,70004,PermitTrax (Bitco Software),https://longview_wa.permittrax.com/Citizen
+Tulare,CA,69984,Tyler Technologies,https://palmscss.tularecounty.ca.gov/EnerGov_Prod/SelfService
+Conway,AR,69918,BS&A Software,https://bsaonline.com/CD_PermitAjaxApplication
+West Des Moines,IA,69893,Tyler Technologies,https://cityofwestdesmoinesia-energovweb.tylerhost.net/apps/selfservice
+Redondo Beach,CA,69814,iWorQ,https://redondobeachca234.portal.iworq.net/portalhome/redondobeachca234
+Walnut Creek,CA,69790,Accela,https://aca-prod.accela.com/WC/Default.aspx
+Passaic,NJ,69651,Unknown,N/A
+Porterville,CA,69616,Unknown,N/A
+Maricopa,AZ,69554,Unknown,N/A
+Fajardo,PR,69381,Unknown,https://fajardopr.org/oficina-de-permisos
+Spring Hill,TN,69298,Tyler Technologies,N/A
+Gaithersburg,MD,69225,Tyler Technologies,N/A
+El Paso de Robles,CA,69218,Accela,https://aca-prod.accela.com/PRCITY/Default.aspx
+East Orange,NJ,69183,eTRAKiT,https://epermit.cityoforange.org/etrakit3/
+Sumter,SC,68914,Citizenserve,https://www.citizenserve.com/Portal
+Grand Forks,ND,68853,Tyler Technologies,https://cityofgrandforksnd.nwerp.tylerapp.com/nwprod/esuite.permits/
+Bristol,TN,68737,Unknown,N/A
+Michigan City,IN,68617,CloudPermit,N/A
+Gary,IN,68604,OpenGov,N/A
+Dubuque,IA,68567,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&installationID=446
+Schenectady,NY,68521,Unknown,N/A
+Casper,WY,68438,CivicPlus,https://cdnsm5-hosted.civiclive.com/
+Hanford,CA,68276,EnerGov,https://selfservice.cityofhanfordca.com/EnerGov_prod/SelfService
+Shawnee,KS,68175,CitizenServe,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=338
+South Hill,WA,68161,Unknown,https://pals.piercecountywa.gov/palsonline/
+Eagan,MN,68158,LAMA,https://eagan.onlama.com/
+Union City,CA,68141,Accela,https://aca-prod.accela.com/alameda/Cap/CapDetail.aspx?Module=Building
+Weston,FL,67952,Accela,https://aca-prod.accela.com/weston/Default.aspx
+Kankakee,IL,67925,SmartGov,https://co-kankakee-il.smartgovcommunity.com/
+Leander,TX,67880,Unknown,https://www.leandertx.gov/338/Development-Hub
+Hammond,LA,67874,MyGovernmentOnline,https://tangipahoa.org/i-would-like-to/apply-for-a-permit/permits-online/
+Corvallis,OR,67769,Accela,https://permits.corvallisoregon.gov/CitizenAccess/Default.aspx
+Apex,NC,67765,Tyler Technologies,https://secure.apexnc.org/eSuite.Permits/WelcomePage.aspx
+Yorba Linda,CA,67407,Accela,https://aca-prod.accela.com/YORBALINDA/Default.aspx
+Bethesda,MD,67403,Infor,https://permittingservices.montgomerycountymd.gov/
+Haverhill,MA,67387,OpenGov,https://haverhillma.portal.opengov.com/
+Palo Alto,CA,67231,Accela,https://aca-prod.accela.com/PALOALTO/Default.aspx
+Rockville,MD,67218,MyGovernmentOnline,https://www.rockvillemd.gov/onlinepermits
+Spring,TX,67103,Unknown,https://epermits.harriscountytx.gov/
+Delray Beach,FL,66940,ProjectDox,https://permitting.delraybeachfl.gov/
+Watsonville,CA,66842,Unknown,https://www.watsonville.gov/452/Permits
+Mount Vernon,WA,66704,SmartGov,https://ci-mountvernon-wa.smartgovcommunity.com/public/documentsview
+Palatine,IL,66548,Tyler Technologies (EnerGov),https://permits.palatine.il.us/EnerGov_Prod/SelfService/PalatineILProd
+Victoria,TX,66523,Unknown,N/A
+Skokie,IL,66427,BS&A,https://www.bsaonline.com/Account/LogOn?uid=2564
+Morristown,TN,66407,Not Found,N/A
+Sammamish,WA,66375,MyBuildingPermit,https://www.mybuildingpermit.com/
+Union City,NJ,66375,Unknown,N/A
+Queen Creek,AZ,66369,Accela,https://aca-prod.accela.com/QC/Default.aspx
+Alpharetta,GA,66355,PublicAccess,https://permits.alpharetta.ga.us/
+Lima,OH,66286,SmartGov,https://ci-lima-oh.smartgovcommunity.com/Public/Home
+Novi,MI,66224,BS&A,https://bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=e90cb7e8-da8a-4f42-bd2d-5362e3a1c577&propertyGuid=0&projectGuid=0&uid=362
+Great Falls,MT,66175,Unknown,N/A
+Ames,IA,66112,ACOM Solutions,https://ezps.city.ames.ia.us/SSP/COA/Login/Index/
+Juana Díaz,PR,66102,Not Found,N/A
+Malden,MA,65509,CitizenServe,https://www2.citizenserve.com/Portal/?installationid=171
+Dundalk,MD,65441,Accela,https://cityworkspro.baltimorecountymd.gov/PLLPortal/
+Albany,OR,65410,Accela,https://aca-prod.accela.com/ALBANY/
+Castro Valley,CA,65389,Accela,https://aca-prod.accela.com/alameda/Default.aspx
+Dalton,GA,65317,IWorQ,https://portal.iworq.net/WHITFIELDCO/new-request/701/3416
+Lynwood,CA,65291,EdgeSoft,https://lynwood.edgesoftinc.com/
+Pflugerville,TX,65162,Accela,https://ams.pflugervilletx.gov/PublicAccess
+Sebring,FL,65138,BS&A,https://bsaonline.com/?uid=2775
+Kenner,LA,65113,Unknown,N/A
+Port Charlotte,FL,64971,Accela,https://aca-prod.accela.com/BOCC/Default.aspx
+Waltham,MA,64723,Not Found,N/A
+Commerce City,CO,64640,eTRAKiT,https://comc.csqrcloud.com/community-etrakit/
+Brentwood,CA,64609,eTRAKiT,https://brent-trk.aspgov.com/eTRAKiT/
+North Little Rock,AR,64504,BS&A,https://bsaonline.com/?uid=2499
+South San Francisco,CA,64487,Unknown,https://permits.ssfca.gov/
+Bellevue,NE,64355,Unknown,N/A
+Burnsville,MN,64295,OpenGov,https://burnsvillemn.portal.opengov.com/
+Greenwood,IN,64237,Cityworks,N/A
+Rowlett,TX,64139,MyGov,https://web.mygov.us
+Laguna Niguel,CA,64023,eTRAKiT,https://cityoflagunaniguel.org/CSS
+Bozeman,MT,63917,Superion Click2Gov,https://bozn-egov.aspgov.com/Click2GovBP/index.html
+Port Orange,FL,63818,SmartGov,https://ci-portorange-fl.smartgovcommunity.com/Public/Home
+Reston,VA,63542,Accela,https://plus.fairfaxcounty.gov/
+San Clemente,CA,63510,eTRAKiT,https://cdweb.san-clemente.org/etrakit/
+Caldwell,ID,63465,Citizenserve,https://citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=263
+Coon Rapids,MN,63348,BS&A,https://bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=e8bba1ee-3bde-4b92-bea5-a3da67dd3905&propertyGuid=0&projectGuid=0&uid=3100
+Millcreek,UT,63342,iWorQ,https://millcreekpermit.portal.iworq.net/portalhome/millcreekpermit
+Eden Prairie,MN,63249,Unknown,https://epermits.logis.org/home.aspx?city=ep
+Parkersburg,WV,63236,Unknown,N/A
+Hamilton,OH,63124,Unknown,https://www.hamilton-oh.gov/permits-certificates-registrations
+Moore,OK,63045,GovBuilt,https://mooreok.govbuilt.com/
+Lakewood,WA,63034,eTRAKiT,https://lakw-trk.aspgov.com/eTRAKiT/
+Bay City,MI,62979,Unknown,N/A
+Bossier City,LA,62832,EnerGov,N/A
+Council Bluffs,IA,62564,Unknown,https://www.councilbluffs-ia.gov/2279/Permit-Applications
+Huntersville,NC,62458,Accela,https://webpermit.mecklenburgcountync.gov/
+Taylor,MI,62405,Unknown,https://www.cityoftaylor.com/235/Permits
+Hendersonville,TN,62390,Unknown,https://css.hvilletn.org
+Sanford,FL,62292,Citizenserve,https://www6.citizenserve.com/Portal/PortalController?Action=showPermit&ctzPagePrefix=Portal_&installationID=113
+La Habra,CA,62233,Unknown,N/A
+Horizon West,FL,62152,Unknown,N/A
+Dearborn Heights,MI,62099,Unknown,https://www.dearbornheightsmi.gov/304/Online-Applications-Forms
+St. Cloud,FL,61963,eTRAKiT,https://etrakit.stcloud.org/etrakit/
+Pontiac,MI,61914,BS&A,https://bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=6fb2eced-fa8f-473e-8006-47ede828e309&propertyGuid=0&projectGuid=0&uid=825
+Richland,WA,61912,Unknown,https://richlandwa2-redesign.prod.govaccess.org/departments/development-services/building-permitting/permit-application
+Marietta,GA,61773,SagesGov,https://www.sagesgov.com/marietta-ga
+Florence-Graham,CA,61723,Unknown,https://epicla.lacounty.gov/
+Springfield,OR,61642,BS&A Software,https://bsaonline.com/?uid=203
+Encinitas,CA,61585,Tyler Technologies,https://cityofencinitasca.tylerportico.com/
+Wellington,FL,61497,Avolve Software,https://wellington-fl-us.avolvecloud.com/Login/Index/Wellington-Prod
+Palm Harbor,FL,61454,Accela,https://aca-prod.accela.com/PINELLAS/Default.aspx
+Montebello,CA,61376,Unknown,N/A
+Woodland,CA,61256,Unknown,N/A
+Bristol,CT,61129,OpenGov,https://bristolct.viewpointcloud.com/dashboard/
+Jupiter,FL,61097,Tyler Technologies,https://cds.jupiter.fl.us/EnerGov_Prod/SelfService
+La Mesa,CA,60835,MaintStar,https://h9.maintstar.co/LaMesa/portal/
+Pico Rivera,CA,60821,Unknown,https://picorivera.hdlgov.com/
+San Rafael,CA,60604,eTRAKiT,https://epermits.cityofsanrafael.org/etrakit3/
+Meriden,CT,60418,ViewPoint GIS,https://www.viewmypermitct.org/
+Euless,TX,60373,Newedge Services,https://euless.newedgeservices.com/PermitPortal
+Parker,CO,60115,eTRAKiT,https://prkc-trk.aspgov.com/eTRAKiT/
+Revere,MA,59933,CitizenServe,https://www.citizenserve.com/Portal/?installationid=258
+Stonecrest,GA,59917,CitizenServe,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=267
+Chapel Hill,NC,59889,OpenGov,https://chapelhillnc.viewpointcloud.com/
+White Plains,NY,59818,CivicPlus,N/A
+Gardena,CA,59765,eTRAKiT,https://buildgardena.cityofgardena.org/etrakit3/
+Palm Beach Gardens,FL,59751,EDEN,https://egov.pbgfl.com/edenweb/Default.aspx
+Taunton,MA,59719,Permit Eyes,https://permiteyes.us/taunton/loginuser.php
+Monterey Park,CA,59639,Accela,https://aca-prod.accela.com/MONTEREYPARK/Default.aspx
+West Allis,WI,59588,OpenGov,https://westalliswi.portal.opengov.com/
+Santee,CA,59485,Tyler Technologies,https://cityofsanteeca.tylerportico.com/TIM/Portal/portal-home
+North Miami,FL,59429,EDEN,https://eportal.northmiamifl.gov/Default.aspx
+Blue Springs,MO,59416,Tyler Technologies,https://www.bluespringsgov.com/1603/Permit-Application-Center
+Des Plaines,IL,59408,Tyler Technologies,https://energovcitizenaccess.desplaines.org/energov_prod/selfservice
+Kokomo,IN,59375,Unknown,N/A
+Petaluma,CA,59321,Tyler Technologies,https://petalumaca-energovweb.tylerhost.net/apps/SelfService
+Shoreline,WA,59280,eTRAKiT,https://permits.shorelinewa.gov/etrakit/
+Medford,MA,59062,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showPermit&ctzPagePrefix=Portal_&installationID=315
+Taylorsville,UT,59010,CityWorks,N/A
+Wylie,TX,58991,Citizenserve,https://www4.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=435
+Cupertino,CA,58886,Accela,https://aca-prod.accela.com/CUPERTINO/Default.aspx
+The Hammocks,FL,58548,Miami-Dade County,https://www.miamidade.gov/permits/
+Margate,FL,58418,Avolve,https://margate-fl-us.avolvecloud.com/Portal/
+Carson City,NV,58364,Tyler Technologies,https://energovweb.carson.org/EnerGovProd/SelfService
+Hoboken,NJ,58340,Spatial Data Logic,https://www.sdlportal.com/login?redirect=https%3A%2F%2Fwww.sdlportal.com%2Ftowns%2Fnj%2Fhudson%2Fhoboken
+Madison,AL,58335,Unknown,https://buildportal.madisonal.gov/esuite.permits/
+St. Clair Shores,MI,58287,BS&A Software,https://bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=57388760-3fb6-4288-9ea0-38d56ecbf377&propertyGuid=0&projectGuid=0&uid=261
+St. Peters,MO,58200,CitizenServe,https://www.citizenserve.com/Portal/PortalController?Action=showPermit&ctzPagePrefix=Portal_&installationID=320
+Midwest City,OK,58170,CityWorks,https://www.midwestcityok.org/engineering/page/permits-and-inspections
+Severn,MD,58041,Accela,https://aca-prod.accela.com/aaco/Default.aspx
+Lake Havasu City,AZ,58037,MaintStar,https://h2.maintstar.co/lakehavasu/Portal/
+Lenexa,KS,57986,Accela,https://aca-prod.accela.com/LENEXA/Default.aspx
+Orland Park,IL,57961,Tyler Technologies,https://orlandparkil.tylerportico.com/tim/portal
+Royal Oak,MI,57880,BS&A Software,https://bsaonline.com/?uid=1652
+Bowie,MD,57771,Unknown,https://www.cityofbowie.org/116/Building-Sign-Permits
+Decatur,AL,57760,CityView,https://cityview.decatur-al.gov/Portal
+Bel Air South,MD,57702,EnerGov,https://epermitcenter.harfordcountymd.gov/energov_prod/selfservice#/home
+Towson,MD,57683,CityWorks,https://cityworkspro.baltimorecountymd.gov/PLLPortal/
+Casa Grande,AZ,57590,Selectron,https://rogue.casagrandeaz.gov/WebPermits
+Coconut Creek,FL,57587,Unknown,https://www.coconutcreek.net/iframes/epermits
+Kettering,OH,57442,Accela,https://aca-prod.accela.com/KETTERING/Default.aspx
+Herriman,UT,57336,Unknown,https://www.herriman.gov/building-info
+Brookhaven,GA,57224,CityWorks,https://cityworks.brookhavenga.gov/ProjectPortal
+Oak Lawn,IL,57098,BS&A Software,https://bsaonline.com/DirectUrl/Cd_PermitApplication/2999
+Lacey,WA,57088,eTRAKiT,https://trakitweb.ci.lacey.wa.us/eTRAKiT/
+Bartlett,TN,56998,Unknown,https://www.cityofbartlett.org/142/Required-Code-Permits
+Highland,CA,56690,Unknown,N/A
+Kannapolis,NC,56470,Accela,https://citizenaccess.cabarruscounty.us/
+Fountainebleau,FL,56453,Accela,https://www.miamidade.gov/permits/e-permitting.asp
+Fountain Valley,CA,56358,Unknown,https://fountainvalley.cts.city/
+Bentonville,AR,56326,Central Square eTRAKiT,https://bent.csqrcloud.com/community-etrakit/
+Bradenton,FL,56289,Accela,https://aca-prod.accela.com/BRADENTON/Default.aspx
+Smyrna,GA,56285,OpenGov,https://smyrnaga.portal.opengov.com/
+Sarasota,FL,56218,Mitchell Humphrey FastTrackGov,https://ftgportal.sarasotafl.gov/
+Apopka,FL,56202,OpenGov,https://apopkafl.portal.opengov.com/
+National City,CA,55960,Symbium,N/A
+DeSoto,TX,55896,Tyler EnerGov,https://cityofdesototx-energovweb.tylerhost.net/
+Berwyn,IL,55888,Not Found,N/A
+New Brunswick,NJ,55744,Not Found,N/A
+Apple Valley,MN,55696,Logis ePermits,https://epermits.logis.org/home.aspx?city=av
+Mount Prospect,IL,55648,CitizenServe,https://www4.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=252
+Arcadia,CA,55550,Unknown,https://www.arcadiaca.gov/EDGE
+Southaven,MS,55531,Tyler EnerGov,N/A
+Tigard,OR,55395,Tyler EPL,https://www.tigard-or.gov/your-government/departments/community-development/community-development-hub
+Perth Amboy,NJ,55278,Unknown,N/A
+Chicopee,MA,55213,PermitEyes,https://permiteyes.us/chicopee/loginuser.php
+South Whittier,CA,55201,Accela,https://aca-prod.accela.com/whittier/Default.aspx
+West Haven,CT,55147,FastTrackGov,https://westhavenct.portal.fasttrackgov.com/Common/ApplicationLinks.aspx
+Smyrna,TN,55066,Traisr,https://portal.traisr.com/landing.aspx?OrganizationId=569
+Tinley Park,IL,55007,BS&A,https://www.tinleypark.org/government/departments/community_development/building/building_permits.php
+Hacienda Heights,CA,54956,Accela,https://aca-prod.accela.com/LACOUNTY/Default.aspx
+Beaumont,CA,54817,CSS,N/A
+San Jacinto,CA,54756,CivicPlus,https://www.sanjacintoca.gov/city_departments/community-development/building-safety
+Plainfield,NJ,54515,FastTrackGov,https://plainfieldcitynj.portal.fasttrackgov.com/Permits/Home.aspx?microapp=c
+West Sacramento,CA,54496,Accela,https://access.cityofwestsacramento.org/
+Marana,AZ,54487,eTRAKiT,https://maranaegov.com/eTRAKiT/
+Yucaipa,CA,54348,Tyler Technologies,https://cvportal.yucaipa.org/YucaipaPortal/Permit/Locator/
+Peabody,MA,54180,OpenGov,https://peabodyma.portal.opengov.com/
+Rocky Mount,NC,54175,Unknown,https://www.rockymountnc.gov/213/Permits-Inspections
+Texas City,TX,54159,MyGovernmentOnline,https://www.mgoconnect.org/cp/portal
+Kentwood,MI,54114,BS&A,https://bsaonline.com/?uid=371
+Manhattan,KS,53951,Oracle,https://www.manhattanks.gov/3062/Apply-for-a-Permit-or-License-or-Submit-
+Colton,CA,53798,eTRAKiT,https://colt.csqrcloud.com/community-etrakit/
+Aspen Hill,MD,53752,Unknown,https://permittingservices.montgomerycountymd.gov/
+Diamond Bar,CA,53750,Unknown,http://edocs.diamondbarca.gov/Forms/qUCFn
+Huntington Park,CA,53658,Not Found,N/A
+Wheaton,IL,53453,Tyler Technologies,https://wheaton.munisselfservice.com/citizens/PermitsInspections/Default.aspx
+Pinellas Park,FL,53423,Tyler Technologies,https://egcss.pinellas-park.com/EnerGov_Prod/SelfService
+Aloha,OR,53362,Accela,https://pprmaca.co.washington.or.us/CitizenAccess/Welcome.aspx
+Oak Park,IL,53315,Harris CityView,https://villageview.oak-park.us/CityViewPortal
+Minnetonka,MN,53256,LOGIS,https://epermits.logis.org/default.aspx
+Twin Falls,ID,53219,Cityworks,https://cityworks.tfid.org/permits/template/login.aspx
+Edina,MN,53125,LOGIS,https://epermits.logis.org/home.aspx?city=ed
+Westchester,FL,53082,Not Found,N/A
+Methuen Town,MA,53043,OpenGov,https://methuenma.portal.opengov.com/
+Normal,IL,52908,Unknown,N/A
+Elyria,OH,52833,Tyler Technologies,https://esuite.cityofelyria.org/eSuite.Permits/
+Grand Island,NE,52761,Citizenserve,https://www4.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=459
+Novato,CA,52689,eTRAKiT,https://etrakit3.novato.org/eTRAKiT3/
+Paramount,CA,52546,iWorQ,https://paramount.portal.iworq.net/PARAMOUNT/permits/600
+Kyle,TX,52439,Tyler Technologies,https://www.cityofkyle.com/building/page/apply-online-permits-inspections-and-plans
+Placentia,CA,52384,SmartGov,https://ci-placentia-ca.smartgovcommunity.com/Public/Home
+Wheaton,MD,52172,Unknown,https://permittingservices.montgomerycountymd.gov/
+Cathedral City,CA,52047,Tyler Technologies,https://selfservice.cathedralcity.gov/EnerGovProd/SelfService
+Kendale Lakes,FL,52141,Not Found,N/A
+Florissant,MO,51915,Unknown,https://my.florissantmo.com
+Catalina Foothills,AZ,51756,Accela,https://aca-prod.accela.com/PIMA/Default.aspx
+West New York,NJ,51683,Unknown,N/A
+Lincoln,CA,51629,Accela,https://aca-prod.accela.com/lincolnca
+Dunwoody,GA,51563,CentralSquare,https://www.dunwoodyga.gov/government/departments/community-development/permits-inspections
+Levittown,NY,51557,OpenGov,https://hempsteadny.portal.opengov.com/
+Palm Desert,CA,51551,Clariti,https://www.palmdesert.gov/our-city/departments/palm-desert-permit-center/building-safety-permits
+Mooresville,NC,51447,CitizenServe,https://www2.citizenserve.com/CAP/?installationid=188
+Little Elm,TX,51426,MyGov,https://public.mygov.us/little_elm_tx
+Glendora,CA,51350,Tyler Technologies,https://www.cityofglendora.gov/Services/Civic-Access
+Burien,WA,51331,MyBuildingPermit,https://mybuildingpermit.com/
+Aliso Viejo,CA,51320,Unknown,N/A
+Summerville,SC,51262,CitizenServe,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=301
+Collierville,TN,51212,SmartGov,https://twn-collierville-tn.smartgovcommunity.com/
+Tamiami,FL,51201,Unknown,N/A
+Wake Forest,NC,51199,Tyler Technologies,https://eutil.wakeforestnc.gov/eSuite.permits/
+Hoffman Estates,IL,51186,eTRAKiT,https://hfm-trk.aspgov.com/eTRAKiT/
+Westfield,IN,51109,CivicPlus,https://weconnect.westfield.in.gov/permits/
+Columbus,IN,51104,Accela,https://portal.columbus.gov/Permits/Login.aspx
+Troy,NY,51054,BS&A Software,https://www.bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit
+Country Club,FL,51000,Unknown,N/A
+Burleson,TX,50981,Central Square (eTRAKiT),https://etrakit.burlesontx.com/
+East Honolulu,HI,50961,Clariti/Speridian,https://honolulu.my.site.com/s/
+Levittown,PA,50930,BS&A Software,https://www.fallstwp.com/departments/code-enforcement-zoning/documents-forms-permits/
+Mishawaka,IN,50907,Not Found,N/A
+Grapevine,TX,50875,MyGov,https://public.mygov.us/tx_grapevine/lookup
+Cuyahoga Falls,OH,50864,BS&A Software,https://bsaonline.com/Contractors/?uid=2316
+Delano,CA,50835,SmartGov,https://ci-delano-ca.smartgovcommunity.com/
+Enid,OK,50821,Not Found,N/A
+Milford city,CT,Unknown,City Squared,https://www.ci.milford.ct.us/permitting-and-land-use/pages/online-permitting
+El Dorado Hills,CA,50553,Central Square (eTRAKiT),https://edc-trk.aspgov.com/etrakit/
+Rosemead,CA,50340,Not Found,N/A
+McLean,VA,50232,Accela,https://plus.fairfaxcounty.gov/
+Lakewood,OH,50229,CitizenServe,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=279
+Jeffersonville,IN,50176,GeoPermits,https://permitting.schneidergis.com/jurisdiction/9738851c-e9d8-49d0-995f-bed3756990e4
+Draper,UT,50159,OnLAMA,https://draper.onlama.com/
+Covina,CA,50143,Clariti,https://covinaca.gov/city-departments/community-development/building-safety/building-safety-apply-for-a-permit/
+Murray,UT,49904,eProcess 360,https://murray.ut.eprocess360.com/
+Downers Grove,IL,49867,CityView,https://cvportal.downers.us/
+Rockwall,TX,49605,CityWorks,https://cityworks.rockwall.com/PublicAccess/template/login.aspx
+Chesterfield,MO,49591,Accela,https://aca-prod.accela.com/CHESTERFIELD/
+St. Louis Park,MN,49541,LOGIS,https://epermits.logis.org/home.aspx?city=sl
+Florin,CA,49536,Accela,https://aca-prod.accela.com/SACRAMENTO/Default.aspx
+Cypress,CA,49531,OpenGov,https://cypressca.portal.opengov.com/
+Eagle Mountain,UT,49514,OpenGov,https://eaglemountainut.portal.opengov.com/
+North Bethesda,MD,49498,Unknown,https://permittingservices.montgomerycountymd.gov/
+Azusa,CA,49318,Unknown,https://www.azusaca.gov/117/Building-Permits
+Lawrence,IN,49284,Citizenserve,https://www.citizenserve.com/Portal/?installationid=325
+Coral Gables,FL,49243,Tyler Technologies,https://edenweb.coralgables.com/
+Everett,MA,49236,Unknown,https://cityofeverett.com/city-hall/departments/isd-online-permitting/online-permitting/
+Bedford,TX,49191,OpenGov,https://bedfordtx.portal.opengov.com/
+Antelope,CA,49080,Unknown,N/A
+Dublin,OH,49031,Accela,https://aca-prod.accela.com/dublinoh/default.aspx
+Portage,MI,49015,BS&A,https://bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=0d780722-2bb7-4190-94d4-98976efd4c39&propertyGuid=0&projectGuid=0&uid=235
+Biloxi,MS,49011,Unknown,N/A
+Titusville,FL,49004,BS&A,https://bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=1d13cf48-8123-4434-be75-1a9a41f98269&uid=2751
+Euclid,OH,48991,Unknown,https://www.cityofeuclid.gov/allformsandpermits
+Ceres,CA,48918,GOGov,https://www.ceres.gov/275/Permit-License-Center
+University,FL,48868,Citizenserve,https://www.ehs.ufl.edu/apply-for-a-building-permit/
+Stillwater,OK,48818,eTRAKiT,https://trakit.stillwater.org/etrakit/Search/permit.aspx
+Leesburg,VA,48788,eTRAKiT,https://lee.csqrcloud.com/community-etrakit/
+Bothell,WA,48610,MyBuildingPermit,https://mybuildingpermit.com
+Tuckahoe,VA,48610,Computronix,https://build.henrico.us
+Cedar Hill,TX,48547,Tyler Technologies,https://cedarhilltx-energovpub.tylerhost.net
+Poway,CA,48515,CivicPlus,https://ca-poway.civicplus.com
+Cerritos,CA,48340,CIVICS,https://permits.cerritos.gov
+Hilo,HI,48223,Tyler Technologies,https://epic.hawaiicounty.gov
+Niagara Falls,NY,48198,Unknown,N/A
+Fort Pierce,FL,48094,ASPGov,https://ftp-egov.aspgov.com/Click2GovBP/index.html
+San Luis Obispo,CA,48039,Tyler Technologies,https://www.slocounty.ca.gov/departments/planning-building/forms-documents/permitslo
+Minot,ND,47922,Trimble,https://cityworks.minotnd.org/Portal/
+North Highlands,CA,47900,Accela,https://aca-prod.accela.com/SACCO/Default.aspx
+Ocoee,FL,47885,Unknown,https://permits.ocoee.org/citizenportal/
+Roswell,NM,47823,CloudPermit,https://www.roswell-nm.gov/1390/Residential-Permits
+Wilson,NC,47740,Trimble,https://wcemployeespace.wilson-co.com/eSuite.Permits/
+Wauwatosa,WI,47718,Wisconsin DSPS,https://esla.wi.gov
+Glenview,IL,47682,OnLama,https://glenview.onlama.com/
+Middletown,CT,47646,CitizenServe,https://www2.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=114
+Oro Valley,AZ,47595,SmartGov,https://twn-orovalley-az.smartgovcommunity.com/
+Brea,CA,47337,Accela,https://aca-prod.accela.com/BREA/CommunityView
+Rancho Santa Margarita,CA,47257,Unknown,https://www.cityofrsm.org/206/Permit-Process
+Roseville,MI,47240,BS&A,https://www.bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=073f4b46-c668-4d7f-b092-1b82a509fd9b&propertyGuid=0&projectGuid=0&uid=327
+Mentor,OH,47215,OpenGov,https://thementorgateway.com
+Winter Garden,FL,47182,BS&A,https://bsaonline.com/DirectUrl/Cd_PermitApplication/3123
+Newark,CA,47145,eTRAKiT,https://nwca-trk.aspgov.com/eTRAKiT/
+East Providence,RI,46970,OpenGov,https://eastprovidenceri.portal.opengov.com
+Goose Creek,SC,46964,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=301
+La Mirada,CA,46945,Not Found,N/A
+Huntsville,TX,46917,CityView,https://development.huntsvilletx.gov/portal
+Rowland Heights,CA,46787,Unknown,N/A
+Beavercreek,OH,46787,SmartGov,https://ci-beavercreek-oh.smartgovcommunity.com/
+Los Banos,CA,46776,Not Found,N/A
+Prescott,AZ,46744,Unknown,N/A
+Gallatin,TN,46667,EnerGov,https://www.gallatintn.gov/168/Permits-Inspections
+Olive Branch,MS,46538,eTRAKiT,http://etrakit.obms.us/etrakit/
+Attleboro,MA,46499,PermitEyes,https://permiteyes.us/attleboro/loginuser.php
+Salina,KS,46432,Unknown,https://salina.govbuilt.com/
+Farmington,NM,46339,Not Found,N/A
+Whitney,NV,46268,Accela,https://citizenaccess.clarkcountynv.gov/CitizenAccess/Cap/CapHome.aspx?module=Building&TabName=Building
+Potomac,MD,46230,Unknown,https://permittingservices.montgomerycountymd.gov/DPS/online/eSearch.aspx
+Urbandale,IA,46026,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=291
+Strongsville,OH,46022,iWorQ,https://www.strongsville.org/departments/building
+Pahrump,NV,45811,Unknown,https://www.nyecountynv.gov/322/Building-Department
+Hackensack,NJ,45768,Not Found,N/A
+Wentzville,MO,45734,SmartGov,https://ci-wentzville-mo.smartgovcommunity.com/Public/Home
+Plainfield,IL,45705,OpenGov,https://plainfieldil.portal.opengov.com/
+Haltom City,TX,45681,MyGovernmentOnline,https://www.haltomcitytx.com/277/Planning-Community-Development
+Altamonte Springs,FL,45657,Tyler Technologies,https://energovcitizenaccess.tylertech.com/AltamonteFL/SelfService/
+Keller,TX,45598,eTRAKiT,https://trakitweb.cityofkeller.com/etrakit/
+Odenton,MD,45585,Unknown,https://www.aacounty.org/inspections-and-permits/permits
+Ashburn,VA,45551,Unknown,https://www.loudoun.gov/5823/LandMARC-Land-Management-Applications-Re
+Elmhurst,IL,45538,Tyler Technologies,https://www.elmhurst.org/services/community_development/citizens_self_service_portal_(cssp).php
+East Lansing,MI,45394,BS&A Software,https://bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=3bd71628-2e19-4000-800f-7950eef24a1d&uid=138
+Brentwood,TN,45272,Unknown,https://brentwood.onlama.com/
+Sayreville,NJ,45237,FastTrackGov,https://sayrevillenj.portal.fasttrackgov.com/
+Sierra Vista,AZ,45203,CitizenServe,https://sierravistaaz.prod.govaccess.org/our-city/departments/community-development/building-permits/permits-inspections
+Morgan Hill,CA,45152,eTRAKiT,https://permits.morgan-hill.ca.gov/
+Bountiful,UT,45093,Cityinspect,https://www.bountifulutah.gov/Building
+Littleton,CO,45092,eTRAKiT,https://permit9.littletongov.org/etrakit/
+Pearl City,HI,45079,Clariti,https://honolulu.my.site.com/s/
+Lake Ridge,VA,45007,Unknown,https://www.pwcva.gov/department/development-services/eportal-access
+Shakopee,MN,45002,CityView,https://epermits.co.scott.mn.us/
+Palm Springs,CA,44998,CivicPlus,https://www3.palmsprings-ca.gov/services/
+Clermont,FL,44984,eTRAKiT,https://etrakit.clermontfl.org/etrakit3/
+Riverton,UT,44944,Not Found,N/A
+The Colony,TX,44916,eTRAKiT,https://tcol-trk.aspgov.com/eTrakit/
+Mankato,MN,44882,Unknown,https://www.mankatomn.gov/residents/permit-and-license-applications
+West Lafayette,IN,44802,Not Found,N/A
+Moorhead,MN,44706,BS&A,https://bsaonline.com/
+Cleveland Heights,OH,44694,Citizenserve,https://www.clevelandheights.gov/151/Building-Permits
+North Lauderdale,FL,44650,EnerGov,https://www.nlauderdale.org/departments/community_development/e-permit.php
+Fairfield,OH,44597,OpenGov,https://www.fairfield-city.org/167/Building-Permits
+Sicklerville,NJ,44500,Unknown,https://wipp.edmundsassoc.com/Wipp/?wippid=0436
+Fond du Lac,WI,44491,Not Found,N/A
+Cutler Bay,FL,44483,Unknown,https://websrvcs.cutlerbay-fl.gov/
+Rohnert Park,CA,44461,eTRAKiT,https://rpccrw.rpcity.org/etrakit3/
+Oakley,CA,44311,Not Found,N/A
+Salem,MA,44241,OpenGov,https://salemma.portal.opengov.com/
+Concord,NH,44219,Accela,https://www.concordnh.gov/1888/Citizen-Self-Service-Permits
+Wilkes-Barre,PA,44217,Unknown,https://www.wilkes-barre.city/code-enforcement/pages/building-permits
+North Fort Myers,FL,44189,EnerGov,https://www.leegov.com/permits
+El Centro,CA,44186,Not Found,N/A
+Freeport,NY,44102,OpenGov,https://www.freeportny.gov/992/OpenGov
+Saratoga Springs,UT,44070,CityWorks,https://cityworks.saratogaspringscity.com/publicaccess/login
+Oakland Park,FL,44015,CivicMedia,https://www.oaklandparkfl.gov/CivicMedia
+Columbia,TN,43971,OnLama,https://columbia.onlama.com/
+Greenacres,FL,43871,Tyler Technologies,https://esuite.greenacresfl.gov/eSuite.permits/WelcomePage.aspx
+Hicksville,NY,43868,Unknown,N/A
+Lompoc,CA,43819,eTRAKiT,http://www1.cityoflompoc.com/etrakit2/Index.aspx
+Trujillo Alto,PR,43752,Single Business Portal,https://sbp.ogpe.pr.gov/
+Lombard,IL,43722,CitizenServe,https://www2.citizenserve.com/Portal/?installationid=293
+Spanish Fork,UT,43632,CitizenServe,https://www2.citizenserve.com/Portal/?installationid=134
+Linden,NJ,43614,Unknown,N/A
+Waxahachie,TX,43591,Tyler Technologies,https://waxahachietx-energovpub.tylerhost.net/Apps/SelfService
+Pittsfield,MA,43559,Full Circle Technologies,https://www.pittsfieldma.gov/224/Online-Permitting
+Channelview,TX,43536,Harris County ePermits,https://epermits.harriscountytx.gov/
+Ormond Beach,FL,43514,Click2Gov,https://ormb-egov.aspgov.com/Click2GovBP/selectpermit.html
+Newnan,GA,43510,CivicPlus,https://www.newnanga.gov/164/Building-Permits
+Woodbridge,VA,43443,ePortal,https://www.pwcva.gov/department/development-services/eportal-access
+Holly Springs,NC,43429,CityView,https://cityview.hollyspringsnc.us/portal
+Danville,CA,43426,Accela,https://www.danville.ca.gov/484/Online-Permits-Instructions
+Burke,VA,43336,Accela,https://plus.fairfaxcounty.gov/
+Huber Heights,OH,43266,Unknown,https://www.hhoh.org/357/Permits
+West Babylon,NY,43239,Yodel,https://www.townofbabylonny.gov/260/Permit-Applications-Documents
+Delaware,OH,43168,Unknown,https://www.delawareohio.net/government/departments/planning-community-development/forms-applications
+Schertz,TX,43128,CityView,https://development.schertz.com/Portal/
+North Miami Beach,FL,43104,Unknown,https://www.citynmb.com/156/Building-Permits
+Woonsocket,RI,43074,OpenGov,https://woonsocketri.portal.opengov.com/
+Hollister,CA,43003,Accela,https://aca-prod.accela.com/HOLLISTER
+Campbell,CA,42848,MyGovernmentOnline,https://permits.cityofcampbell.com/
+Buffalo Grove,IL,42824,BS&A,https://bsaonline.com/?uid=2866
+Edmonds,WA,42783,eCityGov Alliance,https://mybuildingpermit.com/
+Catonsville,MD,42717,CityWorks,https://cityworkspro.baltimorecountymd.gov/PLLPortal/
+Manassas,VA,42674,Tyler Technologies,https://selfservice.manassasva.gov/css/default.aspx
+Vineyard,CA,42645,Unknown,https://www.placer.ca.gov/6687/e-Permits
+Puyallup,WA,42642,CityView,https://permits.puyallupwa.gov/Portal
+San Bruno,CA,42612,MyGovernmentOnline,https://www.sanbruno.ca.gov/1118/Online-Permits
+Coachella,CA,42594,EnerGov,https://rivcoplus.org/
+Jefferson City,MO,42565,SmartGov,https://ci-jefferson-mo.smartgovcommunity.com/
+French Valley,CA,42550,EnerGov,https://building.rctlma.org/
+Midland,MI,42461,Unknown,https://cityofmidlandmi.gov/147/Building-Permits-Inspection-Process
+Beverly,MA,42408,Central Square eTRAKiT,https://bevy.csqrcloud.com/community-etrakit/
+Mableton,GA,42403,CloudPermit,https://us.cloudpermit.com/mableton/login
+Danville,VA,42239,CityView,https://onlinepermits.danvilleva.gov/portalprod
+Moline,IL,42235,Unknown,N/A
+Bullhead City,AZ,42193,Not Found,N/A
+Peachtree Corners,GA,42184,BS&A Software,https://bsaonline.com/Home/MunicipalityHome?uid=2417
+Linton Hall,VA,42077,Accela,https://eservice.pwcgov.org/
+Coppell,TX,42029,Civic Access,https://www.coppelltx.gov/211/Permits
+Annandale,VA,41982,Accela,https://plus.fairfaxcounty.gov/CitizenAccess/Cap/CapHome.aspx?module=Building&TabName=Home
+Lebanon,TN,41951,GeoCivix,https://lebanon.geocivix.com/secure/
+Altadena,CA,41921,LA County EPIC-LA,https://epicla.lacounty.gov/
+Land O' Lakes,FL,41845,Accela,https://aca-prod.accela.com/pasco/default.aspx
+Grove City,OH,41831,CityView,https://cvportal.grovecityohio.gov/
+Belleville,IL,41722,CivicPlus,https://www.belleville.net/603/Permits-Licenses
+Post Falls,ID,41716,Unknown,https://www.postfalls.gov/175/Building
+Marion,IA,41690,BS&A Software,https://esuite-marion-city-ia.tylertech.com/nwprod/eSuite.Permits/WelcomePage.aspx
+Fitchburg,MA,41633,OpenGov,https://fitchburgma.portal.opengov.com/
+Brookfield,WI,41592,CivicPlus,https://www.ci.brookfield.wi.us/290/Permit-Applications
+Coram,NY,41527,Unknown,https://www.brookhavenny.gov/284/Building-Division
+Princeton,FL,41476,Accela,https://www.miamidade.gov/permits/
+Weslaco,TX,41437,Unknown,https://www.weslacotx.gov/departments/planning___c_e/building/index.php
+Shelton,CT,41402,OpenGov,https://sheltonct.viewpointcloud.com
+Marlborough,MA,41398,OpenGov,https://marlboroughma.portal.opengov.com/
+Milton,GA,41305,CityView,https://cvweb.cityofmiltonga.us/ProdPortal
+Rancho Palos Verdes,CA,41259,eTRAKiT,https://www.rpvca.gov/1380/eTrakit---Permitting-Portal
+Hallandale Beach,FL,41224,ePermitsOneStop,https://www.hallandalebeachfl.gov/1317/ePermitsOneStop
+Woburn,MA,41205,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=379
+Brighton,CO,41196,OpenGov,https://brightonco.portal.opengov.com/
+Indian Trail,NC,41146,InfoVision,https://evolvepublic.infovisionsoftware.com/indiantrail/
+Reynoldsburg,OH,41032,OpenGov,N/A
+Romeoville,IL,40996,Not Found,N/A
+Maplewood,MN,40981,Accela,N/A
+Lynnwood,WA,40953,SmartGov,https://ci-lynnwood-wa.smartgovcommunity.com/Public/Home
+Lancaster,OH,40902,InfoVision,https://evolvepublic.infovisionsoftware.com/lancaster/
+Covington,KY,40902,GovBuilt,https://pdskc.govbuilt.com/
+Mount Juliet,TN,40828,GovBuilt,https://mtjuliet-tn.govbuilt.com/
+Friendswood,TX,40827,CityWorks,https://cityworks.friendswood.com/PublicPortal/login
+Germantown,TN,40812,Develop901,https://www.germantown-tn.gov/live/neighborhoods-code-compliance/property-improvements
+Lancaster,TX,40753,Accela,https://aca-prod.accela.com/Lancaster/
+Annapolis,MD,40744,Citizen Self Service,https://css.annapolis.gov
+Meadow Woods,FL,40741,Unknown,https://fasttrack.ocfl.net/OnlineServices/
+Westfield,MA,40673,Not Found,N/A
+Essex,MD,40670,CityWorks,https://cityworkspro.baltimorecountymd.gov/PLLPortal/
+Cedar Falls,IA,40662,CivicPlus,https://www.cf1stop.com/
+Kearny,NJ,40570,Unknown,N/A
+Bartlett,IL,40531,OpenGov,https://villageofbartlettil.viewpointcloud.com/
+Woodlawn,MD,40476,CityWorks,https://cityworkspro.baltimorecountymd.gov/PLLPortal/
+DeKalb,IL,40464,BS&A Software,https://bsaonline.com/Home/Index?uid=2666
+Pine Bluff,AR,40436,Not Found,N/A
+Crystal Lake,IL,40436,Accela,https://aca-prod.accela.com/CRYSTALLAKE/Default.aspx
+New Berlin,WI,40384,CivicPlus,https://wi-newberlin.civicplus.com/
+Lake Oswego,OR,40367,Accela,https://aca-oregon.accela.com/oregon/
+Findlay,OH,40280,Unknown,N/A
+Valley Stream,NY,40278,GovOffice,https://www.vsvny.org/building
+The Acreage,FL,40188,Unknown,https://www.pbcgov.org/epzb.admin.webspa/
+Cottage Grove,MN,40124,LOGIS,https://epermits.logis.org/default.aspx
+Cape Girardeau,MO,40047,Unknown,https://www.cityofcapegirardeau.org/departments/development/inspection-services/citizen-self-service/
+Plant City,FL,40009,MaintStar,https://h8.maintstar.co/plantcity/portal/
+Culver City,CA,39993,Accela,https://aca-prod.accela.com/CULVERCITY/Default.aspx
+Oviedo,FL,39990,Click2Gov,https://ovdo-egov.aspgov.com/Click2GovBP/index.html
+Hurst,TX,39912,Tyler Technologies,https://www.hursttx.gov/css
+Hobbs,NM,39887,Not Found,N/A
+Duncanville,TX,39879,Accela,https://www.duncanvilletx.gov/residents/household_services/permit_and_inspection_services/permits_and_applications
+Waipahu,HI,39871,Unknown,https://honolulu.my.site.com/s/
+Hutchinson,KS,39837,Citizenserve,https://www.citizenserve.com/Portal/PortalController?Action=showHomePage&ctzPagePrefix=Portal_&installationID=203
+DeLand,FL,39832,Accela,https://aca-prod.accela.com/deland/Default.aspx
+Fort Lee,NJ,39818,Unknown,N/A
+Apache Junction,AZ,39746,MyGovernmentOnline,https://www.mygovernmentonline.org/
+Rexburg,ID,39589,CivicPlus,https://www.rexburg.id.gov/
+Lincoln Park,MI,39511,BS&A Software,https://bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=aeb39529-a2b9-434b-b345-8e3e6832cb14&propertyGuid=0&projectGuid=0&uid=192
+Lake Stevens,WA,39500,Citizens Connect,https://apps.lakestevenswa.gov/citizen
+Severna Park,MD,39499,Accela,https://aca-prod.accela.com/aaco/Default.aspx
+Issaquah,WA,39472,Unknown,https://www.issaquahwa.gov/146/Permitting
+Rosenberg,TX,39467,MyGovernmentOnline,https://www.mgoconnect.org/cp/portal
+Chelsea,MA,39460,Unknown,https://www.chelseama.gov/departments/inspectional_services/online_permitting.php
+Lakewood Ranch,FL,39434,Accela,https://www.mymanatee.org/departments/building___development_services/online_services
+Carol Stream,IL,39427,Unknown,https://www.carolstream.org/departments/community-development/building-permits-inspections/online-permitting-homepage-537
+Aventura,FL,39372,eTRAKiT,https://etrakit.cityofaventura.com/etrakit/
+West Fargo,ND,39325,Unknown,https://www.westfargond.gov/201/Residential-Building-Permits
+Bettendorf,IA,39297,Unknown,https://permits.bettendorf.org/
+Park Ridge,IL,39241,Accela,https://aca-prod.accela.com/PARK/Default.aspx
+Greer,SC,39191,eTRAKiT,https://grvlc-trk.aspgov.com/eTRAKiT/login.aspx
+Quincy,IL,39188,iWorQ,https://www.quincyil.gov/engage/city-licenses-and-permits
+Grants Pass,OR,39183,Accela,https://www.grantspassoregon.gov/270/Review-System-for-Building-Permits
+Parkland,WA,39174,Unknown,https://www.piercecountywa.gov/903/Development-Center
+Royal Palm Beach,FL,39089,Click2Gov,https://click2gov.royalpalmbeach.com/Click2GovBP/index.html
+Warren,OH,39057,Unknown,https://www.warren.org/engineering_planning__building__department/permits___fees_overview.php
+Streamwood,IL,39055,Custom/In-House,https://www.streamwood.org/village-services/community-development/building-department/building-permits
+Roy,UT,39021,Not Found,N/A
+Keizer,OR,39013,Accela,https://www.keizer.org/where-to-apply-building-permits
+Owasso,OK,39013,Not Found,N/A
+Navarre,FL,38988,MyGovernmentOnline,https://www.mygovernmentonline.org
+Peachtree City,GA,38977,BS&A,https://bsaonline.com/CD_PermitAjaxApplication/ApplyForPermit?applicationGuid=bf8d3f39-5bbe-4e76-a73c-882dadef7605&uid=2454
+Menomonee Falls,WI,38963,BS&A,https://bsaonline.com/DirectUrl/Cd_PermitApplication/2931
+La Vergne,TN,38944,Unknown,https://www.lavergnetn.gov/143/Apply-For
+Prattville,AL,38850,WebLink,https://weblink.prattvilleal.gov/
+Valrico,FL,38820,Accela,https://aca-prod.accela.com/HCFL/Default.aspx
+San Gabriel,CA,38764,eTRAKiT,https://etrakit.sgcityhall.com/etrakit/Search/Permit.aspx
+Clinton,MD,38756,Momentum,https://momentum.princegeorgescountymd.gov
+Vestavia Hills,AL,38704,OpenGov,https://vestaviahillsal.portal.opengov.com
