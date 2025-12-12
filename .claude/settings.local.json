@@ -20,7 +20,8 @@
       "Bash(export NVM_DIR=\"$HOME/.nvm\")",
       "Bash([ -s \"$NVM_DIR/nvm.sh\" ])",
       "Bash(. \"$NVM_DIR/nvm.sh\")",
-      "Bash(npx tsx:*)"
+      "Bash(npx tsx:*)",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []

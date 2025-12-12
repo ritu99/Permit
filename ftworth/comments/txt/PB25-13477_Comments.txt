@@ -1,0 +1,446 @@
+                                    Residential New Building Permit
+                                       Plan Review Comments
+
+
+      Application: PB25-13477                                                   Date Submitted: 09/25/2025
+              Status: Issued                                                       Date Issued: 11/21/2025
+Address: 3321 HOWARD ST
+Parcel: 191084                                           Zoning: C
+Subdivision: COBBS ORCHARD ADDITION                      Lot/Block: N/4
+Description of Work: New Residential Construction of a
+Duplex
+ADA TDLR:                                                Energy Code Compliant:
+Applicant: CARLOS PEREZ                                  Owner: SHITOTE, BENSON
+1900 GETTYSBURG PL                                       815 COMAL DR
+BEDFORD, TX 76022                                        MANSFIELD,, TX 76063
+6825977499
+Building Classification:
+      Occ Class            Const Type       Square Feet       Occ Load       Use Description
+         R-3                   VB             2847.55         15             Living Space
+          U                    VB              131.68         0              Porch
+         R-3                   VB             2846.72         15             Living Space
+          U                    VB              137.21         0              Porch
+Sprinkler Sys Req:
+Comment: Signs, Retaining Walls over 4', Fences, Dumpster Enclosures over 6', and Parkway Approaches and
+Sidewalks require separate permits and reviews.
+
+Required Corrections:
+
+
+
+
+                                             Planning Development Department
+               ________________________________________________________________________________
+                            The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                             817-392-2222 * Fax 817-392-8105
+                                       Residential New Building Permit
+                                          Plan Review Comments
+PARD
+Reviewer: Germaine Joseph
+Email: Germaine.Joseph@fortworthtexas.gov
+Phone:
+
+1. PARD/PDP: This development is within the boundaries of Park Planning District 4; the
+   Neighborhood & Community Park Dedication Policy applies. There is a required $1,393.58 due
+   for each single-family residential unit or duplex on an undeveloped lot. On a lot with a teardown,
+   there is a required $1,393.58 due for each additional residential unit (duplex). Please upload the
+   demolition/razing permit. Tear down and replace in-kind, no PARD-PDP fee is due. Call
+   Development Services @ 817-392-2222, if you need assistance on making a payment. Call Lori
+   Gordon @ 817-392-5743 for information regarding the fee and to what it is applied. All fees must
+   be paid in full for single family residential or duplex, at or before building permit issue. No city
+   permits will be issued until the PDP fees have been paid.
+
+Parkway
+Reviewer: Jeffrey Wolff
+Email: Jeffrey.Wolff@fortworthtexas.gov
+Phone:
+
+1. Please note 5' city sidewalk on site plan.
+
+
+Approval Table:
+          Task Name                        Task Status            Completed Date         Task Rev Name
+
+Application Submittal            Routed for Electronic Review     09/29/2025        April Smith
+Water Development Review         Approved                         11/21/2025        Maria Lopez
+NEZ Certification Review         Opt-Out                          09/29/2025        April Smith
+Transportation Impact Review     Not Required                     10/06/2025        Lamonica Smith
+Urban Forestry Review            Approved                         10/08/2025        Rosalee Rivera
+Zoning Review                    Approved                         11/13/2025        Marybel Pina
+PARD Review                      Approved                         09/29/2025        Germaine Joseph
+Building Plan Review             Approved                         10/30/2025        Giselle Gonzalez
+Issue Permit                     Issued                           11/21/2025        Jacob Guajardo
+Inspections
+Mechanical Plan Review           Approved                         10/02/2025        Giselle Gonzalez
+Plumbing Plan Review             Approved                         10/02/2025        Giselle Gonzalez
+Electrical Plan Review           Approved                         10/02/2025        Giselle Gonzalez
+
+
+                                             Planning Development Department
+               ________________________________________________________________________________
+                            The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                             817-392-2222 * Fax 817-392-8105
+                                     Residential New Building Permit
+                                        Plan Review Comments
+Plan Distribution               Routed for Electronic Review    11/21/2025    Maria Lopez
+Plans Coordination              Approved                        11/21/2025    Jacob Guajardo
+NEZ Design Guidelines           Not Required                    10/08/2025    Rosalee Rivera
+Review
+Parkway Review                  Approved                        11/03/2025    Jeffrey Wolff
+
+
+General Comments and Additional Permit Information:
+
+ Reviewer: Giselle Gonzalez
+ Email: Giselle.Gonzalez@fortworthtexas.gov
+ Phone: 817-392-2857
+
+    2 ********** Residential Code Review Comments ***********
+
+       City Plans Examiner: Giselle Gonzalez
+       Phone # (817) 392- 2857
+       Giselle.Gonzalez@fortworthtexas.gov
+
+       Date 10/01/2025
+       Development Services
+       Residential Review Notes
+       IRC 2021 / CFW ORD. # 25383
+
+
+       Permit #: PB25-13477
+
+       Construction type: VB
+       Address: 3321 & 3323 HOWARD ST. (Lot N, Block 4)
+       Project Area: COBBS ORCHARD ADDITION
+       Occupancy & Use: R-3 – 2,847.55 U – 131.68
+                  R-3 – 2,846.72 U – 137.21
+
+
+       Scope of Work: New Two-Story Residence
+
+       Professional engineer certified foundation plans: IGOR I. TEPLITSKIY PE#94973
+       Professional engineer who certified structural plans: IGOR I. TEPLITSKIY PE#94973
+       Braced wall plans: IGOR I. TEPLITSKIY PE#94973
+
+
+       WINDOWS
+       Max U-factor is 0.35
+       Max SHGC is 0.25
+
+       DOORS – U-factor
+       Uninsulated metal: 1.2
+       Insulated metal: 0.6
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+Wood: 0.5
+Insulated, nonmetal edge, Max 45% glazing, any glazing double pane 0.35
+
+INSULATION
+R-13+5h or 20 insulation in exterior walls
+R-38 insulation in the attic
+R-19 insulation in the floor
+** General Notes **
+
+NOTE: The general notes listed below are an abbreviated version of the actual notes in
+the 2021 IRC and CFW Amendment. The builder is responsible for compliance with the
+full applicable IRC section and/or CFW Amendment.
+
+This Plan is void without City Plan Review Notes.
+
+1. See attached examiner’s notes and City handouts as applicable to this permit.
+
+2. See attached site and construction plans as applicable to permit.
+
+3. All work shall conform to City of Fort Worth building code, energy code and zoning
+requirements.
+
+4. SEPARATE PERMITS ARE REQUIRED for Electrical, Mechanical and Plumbing work.
+
+5. A sidewalk is required for all frontages facing a street
+http://fortworthtexas.gov/planninganddevelopment/permits/streets/
+
+6. Foundation: Foundation shall comply with all specifications of the Fort Worth Residential
+Code, IRC 2021 Chapter 4. Foundation construction shall be capable of accommodating
+all loads according to Section R301 and of transmitting the resulting loads to the
+supporting soil. Fill soils that support footings and foundations shall be designed, installed
+and tested in accordance with accepted engineering practices.
+
+7. Floors: Floors shall comply with all specifications of Fort Worth Residential Code, IRC
+2021 Chapter 5. Floor construction shall be capable of accommodating all loads imposed
+according to Section R301 and of transmitting the resulting loads to the supporting
+structural elements.
+
+8. Walls: Walls shall comply with all specifications of Fort Worth Residential Code, IRC
+2021 Chapter 6. Wall construction shall be capable of accommodating all loads imposed
+according to Section R301 and of transmitting the resulting loads to the supporting
+structural elements.
+
+9. R703.1 General
+Exterior walls shall provide the building with a weather-resistant exterior wall envelope.
+The exterior wall envelope shall include flashing as described in Section R703.4.
+
+10. Roofs and Ceiling Construction shall comply with all specifications of Fort Worth
+Residential Code, IRC 2021 Chapter 8. Roof and ceiling construction shall be capable of
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+accommodating all loads imposed according to Section R301 and of transmitting the
+resulting loads to the supporting structural elements. All roof coverings shall be a minimum
+of Class C. Replacement shingles or shakes shall be a minimum of Class C.
+
+11. R302.5.1 Opening protection.
+Openings from a private garage directly into a room used for sleeping purposes shall not
+be permitted. Other openings between the garage and residence shall be equipped with
+solid wood doors not less than 1 3/8 inches (35 mm) in thickness, solid or honeycomb-core
+steel doors not less than 1 3/8 inches (35 mm) thick, or 20-minute fire-rated doors. Doors
+shall be self-latching and equipped with a self-closing or automatic closing device.
+
+12. R302.6 Dwelling-garage fire separation. The garage shall be separated as required by
+Table 302.6. Openings in garage walls shall comply with Section R302.5. Attachment of
+gypsum board shall comply with Table R702.3.5. The wall separation provisions of Table
+R302.6 shall not apply to garage walls that are perpendicular to the adjacent dwelling unit
+wall.
+
+13. R302.11 Fireblocking.
+In combustible construction, fireblocking shall be provided to cut off both vertical and
+horizontal concealed draft openings and to form an effective fire barrier between stories
+and between a top story and the roof space.
+
+
+
+
+14. Table R302.1(1) Roof eave projections fire-resistance ratings
+(a) The fire resistance rating shall be permitted to be reduced to 0 hours on the underside
+of the eave overhang if fire-blocking is provided from the wall top plate to the underside of
+the roof sheathing.
+(b) The fire-resistance rating shall be permitted to be reduced to 0 hours on the underside
+of the rake overhang where gable vent openings are not installed.
+
+15. BATHROOMS – R303.3 Bathrooms, water closet compartments and other similar
+rooms shall be provided with aggregate glazing area in windows of not less than 3 square
+feet (0.3 meters squared), one-half of which shall be openable. Artificial light and
+mechanical ventilation may be provided.
+
+16. GLAZING – HAZARDOUS LOCATIONS - R308
+R308.1 – Each pane of glazing installed in a hazardous area shall be permanently
+identified
+R308.4 – COMMON HAZARDOUS LOCATIONS include: Sliding glass door assemblies,
+storm doors, enclosures for hot tubs, whirlpools, saunas, steam rooms, bathtubs, and
+showers where the bottom exposed edge of the glazing is less than 60” above a standing
+or walking area. Refer to R308.4 for a list of all hazardous locations.
+
+17. EMERGENCY ESCAPE AND RESCUE OPENINGS – R310 – Basements, habitable
+attics and every sleeping room shall have not less than one operable emergency escape
+and rescue opening.
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                   Residential New Building Permit
+                                      Plan Review Comments
+    R310.1.1 – Emergency escape and rescue openings shall be operational from the inside
+    of the room without the use of keys, tools or special knowledge.
+
+    R310.2 – Emergency escape and rescue openings shall have a minimum dimension in
+    accordance with Sections R310.2.1 though R310.2.4
+
+    R310.2.1 – Minimum size. Emergency escape and rescue openings shall have a net clear
+    opening of not less than 5.7 square feet (0.530 square meters). Minimum for grade floor
+    emergency escape and rescue openings shall be 5 square feet (0.465 square meters)
+    R310.2.1 – Minimum dimensions. Height 24 inches (610 mm), Width 20 inches (508 mm)
+
+
+    18. MEANS OF EGRESS – R311
+
+    R311.2 – Not less than one egress door shall be provided for each dwelling unit.
+
+    R311.6 – Minimum hallway width shall not be less than 3 feet (914 mm)
+
+
+    19. SECTION R315 CARBON MONOXIDE ALARMS
+
+    R315.2.1 Carbon monoxide alarms – New construction. For new construction, carbon
+    monoxide alarms shall be provided in dwelling units where either or both of the following
+    conditions exist.
+    1. The dwelling unit contains a fuel fired appliance
+    2. The dwelling unit has an attached garage with an opening that communicates with the
+    dwelling unit.
+
+    R315.3 Location. Carbon monoxide alarms in dwelling units shall be installed outside of
+    each separate sleeping area in the immediate vicinity of the bedrooms. Where a fuel-
+    burning appliance is located within a bedroom or its attached bathroom, a carbon
+    monoxide alarm shall be installed within the bedroom.
+
+
+    20. WATER HEATERS: M2005.2 – Fuel fired water heaters shall not be installed in a
+    room used as a storage closet.
+
+    21. CLOTHES DRYER EXHAUST: 2021 IRC M1502 – Dryer exhaust systems shall be
+    independent of all other systems, and shall convey the moisture to the outdoors. Exhaust
+    ducts terminations shall be equipped with a backdraft damper.
+Reviewer: Rosalee Rivera
+Email: Rosalee.Rivera@fortworthtexas.gov
+Phone: 817-392-2222
+
+  1 Zoning Plan Review Performed On: 10/08/2025
+    By: Rosalee Rivera – 817-392-2429 – rosalee.rivera@fortworthtexas.gov
+
+
+    Permit #: PB25-13477
+
+                                        Planning Development Department
+          ________________________________________________________________________________
+                       The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                        817-392-2222 * Fax 817-392-8105
+                                 Residential New Building Permit
+                                    Plan Review Comments
+Physical Address: 3321 Howard St (3321 & 3323)
+Legal Description: COBBS ORCHARD ADDITION Block 4 Lot N
+Scope of project: Two attached duplex on a single lot
+
+Zoning District: C / Building two attached duplexes on a single lot
+Official Plat: COBBS ORCHARD ADDITION
+Noise Contour: No
+NAS/JRB APZ: No
+Gas Well Buffer: No
+Overlays: N/A
+HOLD NOTES: All items labeled “HOLD” must be addressed. Additional HOLDS may be
+placed upon review of the revisions.
+
+
+ZONING REVIEW COMMENTS:
+
+Signs, Retaining Walls over 4’, Fences and Dumpster Enclosures over 7’ and any other
+structure will require separate permits. Any fence located within an easement will require
+permission of the easement holder(s) to encroach. Minimum landscaping in buffer yard
+will be provided.
+
+ (b) Uses. In the two-family (“B”) district, no building or land shall be used and no
+building shall be hereafter erected, reconstructed, altered or enlarged, nor shall a
+certificate of occupancy be issued, except in
+accordance with the use tables in Chapter 4, Articles 6 and 8 and the supplemental use
+standards of Chapter 5. The following four housing types shall be permitted:
+    (1) Two attached units on a single lot;
+    (2) Two detached units on a single lot (subject to Chapter 6, Development Standards,
+§ 6.502, Two Detached Dwelling Units on One Lot);
+    (3) Detached zero lot line unit on a single lot (subject to Development Standards, §
+6.503, Zero Lot Line Dwellings); and
+    (4) Attached zero lot line unit on a single lot (subject to Chapter 6, Development
+Standards, § 6.503, Zero Lot Line Dwellings).
+
+Minimum Lot Size: 5000 sq ft / Provided: 14,624.97 TBD – hold placed / incorrect plat
+
+Building Square Footage: 3159 sf.
+
+Lot Width: 50’ minimum at building line / Provided: 65’
+
+Lot Coverage: 50% maximum – Provided: TBD
+
+Driveway coverage: 50% maximum – Provided: 42%
+Setback restrictions: (The front yard setback in residential districts shall be the greatest of:
+The platted building line; The setback for the applicable zoning district; or the setback of
+the nearest building on either side that is the closest to the street, up to a maximum
+setback of 50 feet, provided that said setback is not the result of a variance granted by the
+Board of Adjustment)
+Established setback: Provided adjacent homes setback 3325 & 3317, showing to be at 30’
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+& 35’ build line
+Front: 25’ - Provided: 41.52'
+Rear: 5’ minimum– Provided: 129’
+Side Yard 5’ minimum: Provided: 5.75 on East; 5.46' on West
+
+Height: 35’ maximum – Provided: 32.1’
+Monotony: No other duplex on this block face / occupied lots are built as single family
+residence.
+Trees: Provided two tree locations, one for each side
+
+No. of bedrooms: 3 per unit
+Parking spaces required: 4 total / 2 per side
+Parking spaces provided: 1 – attached one car garage
+Additional Comments:
+
+Section 4.707(d)(2)- Parking. Two spaces per dwelling unit with up to three bedrooms,
+plus one space per bedroom over three bedrooms, all located behind the front building
+wall. For nonresidential uses see Chapter 6, Development Standards, Article 2, Off-Street
+Parking and Loading, § 6.200.
+
+   (3) Residential design standards. For design standards related to zero lot line units
+and two dwellings on a single lot see Chapter 6, Development Standards, § 6.507, Single-
+Family Residential Design Standards.
+
+    (4) Landscaping and buffers. See Chapter 6, Development Standards, § 6.502, Two
+Detached Dwelling Units on One Lot. Nonresidential uses may require landscaping or
+buffers. See Chapter 6, Development Standards, Article 3 Landscaping, Buffers and Urban
+Forestry, § 6.300.
+
+   (5) Access through residential districts. See Chapter 6, Development Standards, §
+6.500, Access through Residential Districts.
+
+    (7) Garage/carport. No more than one garage and one carport or porte cochere shall
+be allowed per residential unit on a single residential lot, unless the additional garages or
+porte cocheres are an integral part of the main residential structure with the same roofline
+and driveway as the residential structure.
+
+  (a) Elevation. The intent of this subsection is to promote the health, safety, and general
+welfare of the City of Fort Worth and its citizens through the adoption and enforcement of
+one-family dwelling unit design standards that limit the effects of repetition and uniformity
+by requiring substantive variation and diversity in front elevations within a certain lot
+pattern. The elevations for one-family dwelling units within a six (6) lot pattern must be
+sufficiently differentiated from each other and from any one-family dwelling unit that is two
+(2) lots removed on either side of the subject property on the same side of the street, as
+generally depicted below and otherwise set forth herein.
+
+If your construction project includes alley access or paving in public right of way please
+email or call WPD@fortworthtexas.gov, 817-392-8428, so that the Water Department can
+determine if any public water or sewer mains will be paved over. Any identified public
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+mains that the Water Department determines need to be replaced will be scheduled for
+rehab by the Water Dept. before paving activity can commence. This time line varies so it
+is critical that the assessment occurs as soon as possible to avoid delaying your project.
+Any paving over public water or sewer mains will require a review by the Water
+Department to identify conflicts or encroachments. Exhibits must be drawn to scale, show
+cross streets, lot boundaries, address and legal description, easements, dimensioning and
+profile.
+
+Alley will need to be paved from the farthest property line to the nearest street or existing
+alley paving if it is to be used as access.
+
+A parkway permit is required for all new construction projects for sidewalk(s), if not
+currently existing.
+
+
+**************** end ZONING PLANS EXAM COMMENTS*******************
+
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+

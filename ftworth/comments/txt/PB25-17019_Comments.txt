@@ -1,0 +1,189 @@
+                                     Residential New Building Permit
+                                        Plan Review Comments
+
+
+       Application: PB25-17019                                                Date Submitted:
+              Status: Pending                                                    Date Issued:
+Address: 1720 CAMBIUM DR
+Parcel: 1632033                                       Zoning: A-5
+Subdivision: SANDEROS                                 Lot/Block: 6/8
+Description of Work: NEW SFR/3RD PARTY REVIEW AND INSPECTIONS-ROSS INSPECTION SERVICES
+
+ADA TDLR:                                             Energy Code Compliant:
+Applicant: Diana Carter                               Owner: M/I HOMES OF DFW LLC
+10401 Prairie Heights Ct                              700 STATE HWY 121 BYP STE 100
+Fort Worth, TX 76108                                  LEWISVILLE,, TX 75067
+6823092189
+Building Classification:
+       Occ Class           Const Type       Square Feet    Occ Load          Use Description
+          R-3                   VB             1829
+          U                     VB             1181
+Sprinkler Sys Req:
+Comment: Signs, Retaining Walls over 4', Fences, Dumpster Enclosures over 6', and Parkway Approaches and
+Sidewalks require separate permits and reviews.
+
+Required Corrections:
+
+
+
+Approval Table:
+         Task Name                      Task Status         Completed Date       Task Rev Name
+
+Application Submittal
+
+
+
+General Comments and Additional Permit Information:
+
+ Reviewer: Christina Parra
+ Email: inspections@rossdfw.com
+ Phone: 817-716-9532
+
+    1 BUILDING - SHALL COMPLY WITH THE CITY’S CURRENT ADOPTION OF THE 2021
+
+
+                                              Planning Development Department
+                ________________________________________________________________________________
+                             The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                              817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+IRC INCLUDING BUT NOT LIMITED TO:
+-Address shall be posted and visible at all times from street. SEC.R319
+-Steel lintels or engineer’s design required for low eyebrow arches, refer to City of Fort
+Worth lintel schedule. SEC606.9
+-New construction and additions greater than 500 square feet must have engineered
+foundation plans
+-5/8” gypsum board required for storage under stairs. SEC. R302.7
+-Bedroom fire egress window/ door 5.7 SQFT minimum openable space (grade floor
+openings 5 sq ft) SEC. R310
+-A flight of stairs shall not have a vertical rise greater than 147 in. between floor levels or
+landings SEC. R311.7.3
+-All staircases need to meet the requirements set forth in SEC. R311
+-Attic access required with minimum dimension of 22" by 30" SEC.R807.1
+-Garage/Dwelling separation shall comply with Table R302.6
+-Doors separating garage and dwelling must comply with R302.5.1. (equipped with a self -
+closing device)
+-Driveway approach (es) shall meet City of Fort Worth standard drawings and separate
+permit from T&PW construction division required. Regardless of whether the approach
+and/or sidewalks will be new or not T&PW will still need to be contacted for a site
+inspection
+-Window sills located greater than 72” above the outside grade must be a minimum 24”
+above the finished floor level or have an approved child safety lock that comply with
+ASTM-F2090. R312.2.1.
+-Lots shall be graded to drain away from foundations at a min. 6” in the first 10’. (slope
+must be 1:20) SEC R401.3
+-Termite control: foundations must be exposed a minimum 6” for siding and 4” for brick
+veneer with brick ledge
+-Doors between the garage and residence shall be equipped with solid wood doors not
+less than 1-3/8 inches (35 mm) in thickness, solid or honeycomb core steel doors not less
+than 1-3/8 inches (35 mm) thick, or 20-minute fire-rated doors, equipped with a self-closing
+or automatic-closing device per R302.5
+-Walls shall comply with all specifications of Fort Worth Residential Code, IRC 2021
+Chapter 6. Wall construction shall be capable of accommodating all loads imposed
+according to Section R301 and of transmitting the resulting loads to the supporting
+structural elements.
+-Roofs and Ceiling Construction shall comply with all specifications of Fort Worth
+Residential Code, IRC 2021 Chapter 8. Roof and ceiling construction shall be capable of
+accommodating all loads imposed according to Section R301 and of transmitting the
+resulting loads to the supporting structural elements. All roof coverings shall be a minimum
+of Class C.
+-Floors shall comply with all specifications of Fort Worth Residential Code, IRC 2021
+Chapter 5. Floor construction shall be capable of accommodating all loads imposed
+according to Section R301 and of transmitting the resulting loads to the supporting
+structural elements.
+-Foundation shall comply with all specifications of the Fort Worth Residential Code,
+IRC 2021 Chapter 4. Foundation construction shall be capable of accommodating all loads
+according to Section R301 and of transmitting the resulting loads to the supporting soil. Fill
+soils that support footings and foundations shall be designed, installed and tested in
+accordance with accepted engineering practices
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+ELECTRICAL - SHALL COMPLY WITH THE CITY’S CURRENT ADOPTION OF THE
+2023 NEC INCLUDING BUT NOT LIMITED TO:
+-Receptacles serving kitchen islands and peninsulas can not be mounted below the
+countertop work surface. Receptacles serving island and peninsulas countertops is
+optional, however if installed must be installed accordance to the rules in Section
+210.52(C)(3)
+-Emergency disconnects required per 2023 NEC Article 230.85
+-Surge protection devices (SPD) required for all services supplying dwellings units per
+2023 NEC Article 230.67. Minimum Type 1 or Type2
+-Requires GFCI protection to include all kitchen 120 volt & 240 volt receptacles and
+service
+receptacles in the attic NEC 210.8(E)
+-Requires GFCI protection including all appliances such as ranges, wall ovens, counter
+mounted cooktops and microwave ovens whether hardwired or cord and plug connected
+NEC 210.8(D)
+-Requires GFCI protection to all receptacles in the laundry rooms including 240 volt dryer
+receptacles NEC 210.8
+-Requires GFCI protection for all exterior outlets for 125 volt through 250 volt excluding AC
+condensers and hardwired lighting NEC 210.8(F)
+-All receptacles installed in bathrooms, garages, outdoors, crawl spaces, basements,
+kitchen countertops, within 6’ of a sink, within 6’ of a bathtub or shower stall, laundry areas
+and indoor damp and wet locations. Exterior receptacles to be GFCI & weather protected
+2023 NEC, Article 210.8 (A)
+-Carbon monoxide detector locations required per SEC R315.3
+-Smoke detector locations required per SEC.R314.3. Smoke detectors required hard-wired
+w/battery backup per SEC.R314.6
+-Hydro massage bathtub, spa and hot tub locations must be GFCI protected 2023 NEC,
+Article 680.43(A)
+-Service outlets required within 25 feet of mechanical equipment in the attic per 2023
+NEC, Article 210.63
+-Electrical panels labeled and marked for use per 2023 NEC, Article 408.58
+-Branch circuits to AC condensing units shall be minimum of 10 AWG copper conductors.
+2023 NEC, Article 440.6 see FWEC Ordinance No. 18358-11-2008
+-Receptacles shall be properly spaced per 2023 NEC Article 201.50
+-Tamper resistance rec. req. per 2023 NEC 406.12
+-At least one receptacle outlet shall be installed in each vehicle bay and not more than 5.5’
+above floor per 2023 NEC 210.52 (G)(1)
+MECHANICAL: SHALL COMPLY WITH THE CITY’S CURRENT ADOPTION OF THE
+2021 IMC
+INCLUDING BUT NOT LIMITED TO:
+-Attics containing appliances require one of three access entrances 1) permanent stair,
+2)300 lb pull-down stair, 3) access door from an upper floor level. SEC M1305.1.3
+amendments.
+-Mechanical equipment in garage area must be 18" above finished floor. SEC.2408.2
+-A level service space not less than 30" deep by 30" wide shall be placed on the service
+side of the mechanical units placed in attics. SEC.M1305.1
+-A 125-volt receptacle shall be located within 25' of mechanical equipment in the attic for
+service and maintenance. SEC.E3901.12
+PLUMBING: SHALL COMPLY WITH THE CITY’S CURRENT ADOPTION OF THE 2021
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+IPC INCLUDING BUT NOT LIMITED TO
+-Water heaters in garage required 18" above finish floor. SEC.G2408.2 (305.2)
+-Water heater not allowed in attic-single family, duplex or multi-family. SEC. M1305.1.3
+(EXCEPTION: Tankless water heaters)
+-Vacuum breaker required on all hose bibs. SEC.P2903.8.5
+-When water pressure exceeds 80 psi, pressure reducing value is required.
+SEC.P2903.3.1
+-Full-open shut-off valves to be installed at the home and a second water shut-off valve
+near the water meter per 2021 IPC 606.1
+ENERGY: SHALL COMPLY WITH THE CITY’S CURRENT ADOPTION OF THE 2015
+IECC INCLUDING BUT NOT LIMITED TO:
+-Energy shall comply with the compliance path as the proposed energy report submitted
+for the building permit
+-A fresh air intake system shall be installed on homes equipped with gas furnaces and the
+fresh air intake system shall be filtered before air is entered the home through the supply
+duct plenum
+-High efficiency furnaces (min 90%) shall be installed in sealed foamed attics and with the
+combustible air taken from the exterior of the home
+
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+

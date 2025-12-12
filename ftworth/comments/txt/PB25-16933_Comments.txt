@@ -1,0 +1,285 @@
+                                    Residential New Building Permit
+                                       Plan Review Comments
+
+
+       Application: PB25-16933                                                   Date Submitted: 12/10/2025
+              Status: Plan Review                                                   Date Issued:
+Address: 1728 S MAIN ST
+Parcel: 1640022                                         Zoning: UR
+Subdivision:                                            Lot/Block: 58R/10
+Description of Work: 20 of 20 INDIVIDIUALLY PLATTED SINGLE FAMILY TOWNHOME WITH FOUNDATION,
+FRAMIN, MECHANICAL, ELECTRICAL, PLUMBING, AND SITE WORK WITH FULL INTERIOR FINISH OUT.
+ADA TDLR:                                               Energy Code Compliant:
+Applicant: Jason Ray Eggenburger                        Owner: FORT WORTH AREA HABITAT FOR HUMANITY INC
+901 S Main Street                                       9333 N NORMANDALE ST
+Fort Worth, TX 76104                                    FORT WORTH,, TX 76116
+8172287938
+Building Classification:
+       Occ Class           Const Type        Square Feet      Occ Load          Use Description
+          R-3                  VB               1297                            Living Space
+          U                    VB                427                            Garage/Porch
+Sprinkler Sys Req:
+Comment: Signs, Retaining Walls over 4', Fences, Dumpster Enclosures over 6', and Parkway Approaches and
+Sidewalks require separate permits and reviews.
+
+Required Corrections:
+
+PARD
+Reviewer: Germaine Joseph
+Email: Germaine.Joseph@fortworthtexas.gov
+Phone:
+
+1. PARD-PDP fees not required. Development meets the requirements for fees not to be required
+   due to housing type (affordable). Evidence provided by Habitat for Humanity (FP-24-079). ~LLG
+
+
+Approval Table:
+         Task Name                      Task Status           Completed Date        Task Rev Name
+
+Application Submittal          Routed for Electronic Review   12/10/2025       Tina Green
+Water Development Review
+
+
+
+                                              Planning Development Department
+                ________________________________________________________________________________
+                             The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                              817-392-2222 * Fax 817-392-8105
+                                     Residential New Building Permit
+                                        Plan Review Comments
+NEZ Certification Review       Certified                        12/10/2025      Tina Green
+Transportation Impact Review
+Urban Forestry Review
+Zoning Review
+PARD Review                    Approved                         12/10/2025      Germaine Joseph
+Building Plan Review           Approved                         12/10/2025      Gustavo Ramirez
+Mechanical Plan Review         Approved                         12/10/2025      Gustavo Ramirez
+Plumbing Plan Review           Approved                         12/10/2025      Gustavo Ramirez
+Electrical Plan Review         Approved                         12/10/2025      Gustavo Ramirez
+NEZ Design Guidelines
+Review
+
+General Comments and Additional Permit Information:
+
+ Reviewer: Gustavo Ramirez
+ Email: Gustavo.Ramirez@fortworthtexas.gov
+ Phone:
+
+    1 ********** Residential Code Review Comments ***********
+      City Plans Examiner: Gustavo Ramirez
+      Phone # (817) 392- 7849
+      @fortworthtexas.gov
+      Date 12/10/2025
+      Development Services
+      Residential Review Notes
+      IRC 2021 / CFW ORD. # 25383
+
+
+      Permit #: PB25-16933
+      Address: 1728 S MAIN ST
+      Applicant: Jason Eggenburger
+
+      Construction type: VB
+         Lot SF: 1,715
+      Home SF: 1,088
+      Occupancy & Use: R-3 – 1,297; U -427
+
+      Scope of Work: New Single Family Residential
+
+      Professional engineer certified foundation plans: Russell J. Whitworth PE# 82117
+      Professional engineer who certified structural plans: Russell J. Whitworth PE# 82117
+      Braced wall plans: Russell J. Whitworth PE# 82117
+
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+
+
+
+WINDOWS
+Max U-factor is 0.35
+Max SHGC is 0.25
+
+DOORS – U-factor
+Uninsulated metal: 1.2
+Insulated metal: 0.6
+Wood: 0.5
+Insulated, nonmetal edge, Max 45% glazing, any glazing double pane 0.35
+
+INSULATION
+R-13+5h or 20 insulation in exterior walls
+R-38 insulation in the attic
+R-19 insulation in the floor
+** General Notes **
+
+NOTE: The general notes listed below are an abbreviated version of the actual notes in
+the 2021 IRC and CFW Amendment. The builder is responsible for compliance with the
+full applicable IRC section and/or CFW Amendment.
+
+This Plan is void without City Plan Review Notes.
+
+1. See attached examiner’s notes and City handouts as applicable to this permit.
+
+2. See attached site and construction plans as applicable to permit.
+
+3. All work shall conform to City of Fort Worth building code, energy code and zoning
+requirements.
+
+4. SEPARATE PERMITS ARE REQUIRED for Electrical, Mechanical and Plumbing work.
+
+5. R302.6 Dwelling/garage fire separation.
+
+SEPARATION MATERIAL
+From the residence and attics: Not less than 1/2-inch gypsum board or equivalent applied
+to the garage side
+
+From all habitable rooms above the garage: Not less than 5/8-inch Type X gypsum board
+or equivalent
+
+6. R302.11 Fireblocking.
+In combustible construction, fireblocking shall be provided to cut off all concealed draft
+openings (both vertical and horizontal) and to form an effective fire barrier between stories,
+and between a top story and the roof space.
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                               Residential New Building Permit
+                                  Plan Review Comments
+7. BATHROOMS – R303.3 Bathrooms, water closet compartments and other similar
+rooms shall be provided with aggregate glazing area in windows of not less than 3 square
+feet, one-half of which must be openable. Artificial light and mechanical ventilation may be
+provided.
+
+8. EMERGENCY ESCAPE – R310 – basements, habitable attics and each sleeping room
+shall have at least one operable emergency and rescue opening.
+
+R310.2.1 – All emergency escape and rescue openings shall have a minimum net clear
+opening of 5.7 sq.ft. Openings on grade shall be a minimum of 5 sq.ft. net clear opening.
+
+R310.2.1 – Minimum opening height is 24”
+R310.2.1 – Minimum opening width is 20”
+
+R310.1.1 – Emergency escape and rescue openings shall be operational from the inside
+of the room without the use of keys, tools or special knowledge.
+
+9. MEANS OF EGRESS – R311
+
+R311.6 – Minimum hallway width shall not be less than 36”
+
+R311.2 – Each dwelling unit shall have not less than one exit door
+
+10. SECTION R315 CARBON MONOXIDE ALARMS
+
+R315.2.1 Carbon monoxide alarms and R315.3 Location. For new construction, an
+approved carbon monoxide alarm shall be installed outside of each separate sleeping area
+in the immediate vicinity of the bedrooms in dwelling units within which fuel-fired
+appliances are installed and in dwelling units that have attached garages.
+
+11. WATER HEATERS: M2005.2 – Fuel fired water heaters shall not be installed in a
+room used as a storage closet.
+
+12. CLOTHES DRYER EXHAUST: 2021 IRC M1502 – Dryer exhaust systems shall be
+independent of all other systems, and shall terminate on the outside of the building.
+Exhaust ducts shall be equipped with a backdraft damper.
+
+13. M1502.4.5.1 SPECIFIED LENGTH – The maximum length of a clothes dryer exhaust
+duct shall not exceed 35 feet from the connection to the transition duct from the dryer to
+the outlet terminal.- The maximum length of the duct shall be reduced 2.5 feet for every
+45 degree bend and 5 feet for each 90 degree bend.
+
+1 & 2 FAMILY ELECTRICAL
+
+14. RECEPTACLE OUTLETS – Receptacles shall be installed so that no point measured
+horizontally along the floor line in any wall space is more than 6 feet from a receptacle
+outlet (E3901.2.1).
+
+15. COUNTERTOP RECEPTACLES - E3901.4.1 Wall countertop space. A receptacle
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+outlet shall be installed at each wall countertop space 12 inches (305 mm) or wider.
+Receptacle outlets shall be installed so that no point along the wall line is more than 24
+inches (610 mm), measured horizontally from a receptacle outlet in that space.
+
+16. E3901.4.2 Island countertop spaces. At least one receptacle outlet shall be installed
+at each island countertop space.
+
+17. E3901.4.3 Peninsular countertop space. At least one receptacle outlet shall be
+installed at each peninsular countertop.
+
+18. E3901.4.4 Separate spaces. Countertop spaces separated by range tops,
+refrigerators, or sinks shall be considered as separate countertop spaces
+
+19. GFI CIRCUITS –2020 NEC 210.8 Ground Fault Interrupter Circuits shall be installed in
+dwelling units in the following locations:
+
+210.8 (A)(1) - Bathrooms
+210.8 (A)(2) - Garages and accessory buildings that have a floor at or below grade level
+210.8 (A)(3) - Outdoor receptacles
+210.8 (A)(6) - Kitchens where receptacles are installed to serve the countertop surfaces
+210.8 (A)(7) - Laundry, utility and wet bar sink – where the receptacles are installed within
+6 ft. of the outside edge of the sink
+
+20. 210.52 (G) At least one receptacle outlet, in addition to those for specific equipment,
+shall be installed in each basement, in each attached garage, and in each detached
+garage with electric power.
+
+21. Arc-Fault Circuit Interrupter Protection 2020 NEC 210.12(A)
+All 120 volt, single phase, 15 and 20 ampere branch circuits supplying outlets installed in
+dwelling unit family rooms, dining rooms, living rooms, parlors, libraries, dens, bedrooms,
+sunrooms, recreation rooms, closets, hallways or similar rooms or areas shall be protected
+by a listed arc-fault circuit interrupter, combination type, installed to provide protection of
+the branch circuit.
+
+22. Heating, Air-Conditioning and Refrigeration Equipment Outlet – 2020 NEC 210.63
+A 125-volt, single-phase, 15 or 20 ampere rated receptacle outlet shall be installed at an
+accessible location for the servicing of heating, air-conditioning and refrigeration
+equipment. The receptacle shall be located on the same level and within 25 feet of the
+heating, air-conditioning and refrigeration equipment.+
+
+23. Luminaries in Clothes Closet: Luminary Types and location must comply with 2020
+NEC 410.16
+
+24. Electricity will not be released until Transportation & Public Works (TPW) has
+approved sidewalk and drive approach inspections
+
+25. SUBJECT TO INSPECTORS APPROVAL
+
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+Reviewer: Tina Green
+Email: Tina.Green@fortworthtexas.gov
+Phone: 817-392-2222
+
+  2 12/10/2025
+
+    NEZ fees waived as long as property is not sold, once property is sold the NEZ benefits do
+    not apply.
+
+
+
+
+                                        Planning Development Department
+          ________________________________________________________________________________
+                       The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                        817-392-2222 * Fax 817-392-8105
+

@@ -1,0 +1,235 @@
+                                     Residential New Building Permit
+                                        Plan Review Comments
+
+
+      Application: PB25-16789                                                   Date Submitted: 12/05/2025
+               Status: Plan Review                                                  Date Issued:
+Address: 824 ELMSTEAD DR
+Parcel: 1674169                                        Zoning:
+Subdivision:                                           Lot/Block: 61/2
+Description of Work: New Single Family Residential
+
+ADA TDLR:                                              Energy Code Compliant:
+Applicant: Bruce Bealor                                Owner: WEATHERFORD 55 LTD
+824 Elmstead                                           3045 LACKLAND RD
+Fort Worth, TX                                         FORT WORTH,, TX 76116
+2107247525
+Building Classification:
+      Occ Class             Const Type       Square Feet     Occ Load          Use Description
+           R-3                  VB              2011         10                Living
+           U                    VB              652          3                 Garage/Porch/Patio
+Sprinkler Sys Req:
+Comment: Signs, Retaining Walls over 4', Fences, Dumpster Enclosures over 6', and Parkway Approaches and
+Sidewalks require separate permits and reviews.
+
+Required Corrections:
+
+Building
+Reviewer: Scott Edwardson
+Email: Scott.Edwardson@fortworthtexas.gov
+Phone: (817) 392-6288
+
+1. 12/5/2025--CORRECTIONS REQUIRED--Please submit the entire plan-set with the cover sheet
+   showing all the building codes you are following. Submit this plan as a revision.
+2. 12/8/2025--CORRECTIONS REQUIRED--The first page of the Energy Report states that the
+   building "meets or exceeds the 2021 IECC. The City of Fort Worth is currently using the 2015
+   IECC. Further down in the energy report it does make reference to the 2015 IECC however, the
+   Energy Certificate states the wrong Code Year for the Energy Conservation Code. Please correct
+   the Certificate and submit it with the entire Energy Compliance Form as a revision.
+
+
+
+
+                                               Planning Development Department
+                 ________________________________________________________________________________
+                              The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                               817-392-2222 * Fax 817-392-8105
+                                     Residential New Building Permit
+                                        Plan Review Comments
+Electrical
+Reviewer: Scott Edwardson
+Email: Scott.Edwardson@fortworthtexas.gov
+Phone: (817) 392-6288
+
+1. 12/8/2025--CORRECTIONS REQUIRED--On Sheet E-1 the statement is made that the "builder
+   reserves the right to modify plans including switch and outlet locations in accordance with the
+   2020 NEC". You have redlined it. Thank you. However, that statement needs to be changed to
+   reflect the 2023 NEC. Please submit Sheet E-1 with the corrected statement reflecting the 2023
+   NEC. Submit this Sheet along with the entire plan-set as a revision. The other redlines can be
+   field evaluated.
+
+Zoning
+Reviewer: Scott Edwardson
+Email: Scott.Edwardson@fortworthtexas.gov
+Phone: (817) 392-6288
+
+1. 12/8/2025--CORRECTIONS REQUIRED--As a 3rd Party company it is requested that you submit
+   a Zoning Summary that includes: Address, Zoned As, Building To, Setbacks, Front, Rear, Left and
+   Right, the Established Setbacks, Left and Right, Lot Coverage Calculation with Lot Size, Total
+   Coverage and Percentage, Front Yard Calculation with the Total Front Yard, Total Drive and
+   Percentage, the Height of the Structure and the Lot width at the Building Line, The Bedrooms
+   provided and the Parking Spaces. Please provide a Zoning summary with all of this information to
+   expedite the review of this and future permits. Submit this summary along with the entire plan-set
+   as a revision.
+2. 12/8/2025--CORRECTIONS REQUIRED--On the site plan, it needs to be called out which zoning
+   ordinance you are building to. Please list the Zoned R-2 built to ??? and submit the site plan
+   along with the entire plan-set as a revision.
+
+
+Approval Table:
+         Task Name                       Task Status            Completed Date         Task Rev Name
+
+Application Submittal           Routed for Electronic Review    12/05/2025       BJ Bealor
+Water Development Review
+Transportation Impact Review
+Urban Forestry Review           Approved                        12/08/2025       Scott Edwardson
+Zoning Review                   Corrections Required            12/09/2025       Scott Edwardson
+PARD Review                     Not Required                    12/08/2025       Germaine Joseph
+Building Plan Review            Corrections Required            12/09/2025       Scott Edwardson
+Mechanical Plan Review          Approved                        12/05/2025       BJ Bealor
+
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                     Residential New Building Permit
+                                        Plan Review Comments
+Plumbing Plan Review           Approved                           12/05/2025    BJ Bealor
+Electrical Plan Review         Approved                           12/05/2025    BJ Bealor
+TPW Floodplain Review
+
+
+General Comments and Additional Permit Information:
+
+ Reviewer: Scott Edwardson
+ Email: Scott.Edwardson@fortworthtexas.gov
+ Phone: (817) 392-6288
+
+    1 ********** Residential Code Review Comments ***********
+      City Plans Examiner: Scott Edwardson
+      Phone # (817) 392-6288
+      Scott.Edwardson@fortworthtexas.gov
+      Date 12/08/2025
+      Development Services
+      Residential Review Notes
+      IRC 2021
+          Permit: PB25-16789
+          Address: 824 Elmstead Dr.
+          Legal Desc: Westpoint Park Addition Block 2 Lot 61
+          Contact: B J Bealor
+      Project Area: 2689
+      Occupancy & Use: R-3 – 2011 U – 652
+      Zoning R-2
+      Setbacks: L- 5.00’ R – 5.00’ Rear – 31.12’
+      Lot Size: 6624
+      Lot Coverage: 46.86% Total of all Structures
+      Scope of Work: New SFR
+
+      Professional engineer
+      Certified foundation plans Bill Graham P.E. 67899
+      Professional engineer who certified structural plans: N/R
+      Braced wall plans: Bill Graham P.E. 67899
+
+      WINDOWS
+      Max U-factor is 0.35
+      Max SHGC is 0.25
+
+      DOORS – U-factor
+      Uninsulated metal: 1.2
+      Insulated metal: 0.6
+      Wood: 0.5
+      Insulated, nonmetal edge, Max 45% glazing, any glazing double pane 0.35
+
+      INSULATION
+      R-13+5h or R-20 insulation in exterior walls
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+R-38 insulation in the attic
+R-19 insulation in the floor
+** General Notes **
+
+NOTE: The general notes listed below are an abbreviated version of the actual notes in
+the 2021 IRC and CFW Amendment. The builder is responsible for compliance with the
+full applicable IRC section and/or CFW Amendment.
+
+This Plan is void without City Plan Review Notes.
+
+1. See attached examiner’s notes and City handouts as applicable to this permit.
+
+2. See attached site and construction plans as applicable to permit.
+
+3. All work shall conform to City of Fort Worth building code, energy code and zoning
+requirements.
+
+4. SEPARATE PERMITS ARE REQUIRED for Electrical, Mechanical and Plumbing work.
+
+5. R302.6 Dwelling/garage fire separation.
+
+SEPARATION MATERIAL
+From the residence and attics: Not less than 1/2-inch gypsum board or equivalent applied
+to the garage side from all habitable rooms above the garage: Not less than 5/8-inch Type
+X gypsum board or equivalent.
+
+6. R302.11 Fireblocking.
+In combustible construction, fireblocking shall be provided to cut off all concealed draft
+openings (both vertical and horizontal) and to form an effective fire barrier between stories,
+and between a top story and the roof space.
+
+7. BATHROOMS – R303.3 Bathrooms, water closet compartments and other similar
+rooms shall be provided with aggregate glazing area in windows of not less than 3 square
+feet, one-half of which must be openable. Artificial light and mechanical ventilation may be
+provided.
+
+8. EMERGENCY ESCAPE – R310 – basements, habitable attics and each sleeping room
+shall have at least one operable emergency and rescue opening.
+
+R310.2.1 – All emergency escape and rescue openings shall have a minimum net clear
+opening of 5.7 sq.ft. Openings on grade shall be a minimum of 5 sq.ft. net clear opening.
+
+R310.2.1 – Minimum opening height is 24”
+R310.2.1 – Minimum opening width is 20”
+
+R310.1.1 – Emergency escape and rescue openings shall be operational from the inside
+of the room without the use of keys, tools or special knowledge.
+
+9. MEANS OF EGRESS – R311
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+R311.6 – Minimum hallway width shall not be less than 36”
+
+R311.2 – Each dwelling unit shall have not less than one exit door
+
+10. SECTION R315 CARBON MONOXIDE ALARMS
+
+R315.2.1 Carbon monoxide alarms and R315.3 Location. For new construction, an
+approved carbon monoxide alarm shall be installed outside of each separate sleeping area
+in the immediate vicinity of the bedrooms in dwelling units within which fuel-fired
+appliances are installed and in dwelling units that have attached garages.
+
+11. WATER HEATERS: M2005.2 – Fuel fired water heaters shall not be installed in a
+room used as a storage closet.
+
+12. CLOTHES DRYER EXHAUST: 2021 IRC M1502 – Dryer exhaust systems shall be
+independent of all other systems, and shall terminate on the outside of the building.
+Exhaust ducts shall be equipped with a backdraft damper.
+
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+

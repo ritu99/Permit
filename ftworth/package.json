@@ -4,7 +4,8 @@
   "description": "Download permit comments PDFs from Fort Worth Accela portal",
   "type": "module",
   "scripts": {
-    "download": "npx tsx download_comments.ts"
+    "download": "npx tsx download_comments.ts",
+    "extract": "npx tsx extract_comments.ts"
   },
   "dependencies": {
     "commander": "^12.1.0",

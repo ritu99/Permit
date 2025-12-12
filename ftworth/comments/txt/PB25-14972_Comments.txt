@@ -1,0 +1,362 @@
+                                         Residential New Building Permit
+                                            Plan Review Comments
+
+
+      Application: PB25-14972                                                  Date Submitted: 10/26/2025
+               Status: Awaiting Client                                             Date Issued:
+                       Reply
+Address: 3116 TANGLEWOOD TRL
+Parcel: 181498                                           Zoning: A-7.5
+Subdivision: TANGLEWOOD ADDITION (FT WORTH) Lot/Block: 17/2
+Description of Work: X TEAM /// A new single family custom home
+
+ADA TDLR:                                                Energy Code Compliant:
+Applicant: Donald Plattner                               Owner: RENTERIA, CHERYL
+1315 Amber Ct.                                           708 ARCH ADAMS LN
+Keller, TX 76248                                         FORT WORTH,, TX 76107
+
+
+Building Classification:
+      Occ Class              Const Type        Square Feet    Occ Load        Use Description
+           R-3                   VB               4215        21              New 2-story Single Family
+                                                                              Dwelling
+           U                     VB               740                         New Attached Garage
+Sprinkler Sys Req: No
+Comment: Signs, Retaining Walls over 4', Fences, Dumpster Enclosures over 6', and Parkway Approaches and
+Sidewalks require separate permits and reviews.
+
+Required Corrections:
+
+Building
+Reviewer: Michael Still
+Email: Michael.Still@fortworthtexas.gov
+Phone: 817-392-2801
+
+1. 10/31/2025 - CORRECTIONS REQUIRED - The RESCheck energy report is performed to the
+   2021 IECC and considering 2a climate zone.
+
+   Please provide a revised RESCheck energy report which is performed to the 2015 IECC (which is
+   currently adopted by the City of Fort Worth) using Climate zone 3A instead of 2A. Be sure to
+   express the specific attic insulation to be installed.
+
+
+
+
+                                               Planning Development Department
+                 ________________________________________________________________________________
+                              The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                               817-392-2222 * Fax 817-392-8105
+                                       Residential New Building Permit
+                                          Plan Review Comments
+Electrical
+Reviewer: David Heiliger
+Email: David.Heiliger@fortworthtexas.gov
+Phone: 817-392-2823
+
+1. Correction Required 10/29/2025: Worksurfaces / countertop receptacles and island receptacles to
+   meet 2023 NEC 210.52 (B) (3). Location of the countertop receptacles as drawn do look to meet
+   the requirements in the code listed above. Receptacles are not allowed to be below the
+   countertop, use of “popup” countertop receptacles may be required. Including island receptacles
+   or blank off in j-box. Revise drawings to meet this requirement.
+
+Mechanical
+Reviewer: Rodney Brown
+Email: Rodney.Brown@fortworthtexas.gov
+Phone: 817-392-2605
+
+1. 10/31/25 - The schedule indicates that the AHUs will be gas furnaces. Please provide gas
+   connection and venting details.
+
+Plumbing
+Reviewer: Rodney Brown
+Email: Rodney.Brown@fortworthtexas.gov
+Phone: 817-392-2605
+
+1. 10/31/25 - CORRECTION REQUIRED - AHUs are shown to be gas furnaces. Please provide gas
+   piping details and connections to the air handlers.
+
+Water
+Reviewer: Shundalyn Evans
+Email:
+Phone:
+
+1. 11/04/25 --CORRECTIONS REQUIRED-- revise site plan to show the distance of the existing
+   water meter to the new driveway. It is the responsibility of the builder to locate and verify the
+   existing water meter location.
+
+   Please upload revised site plan for review.
+
+   **Note meters must be in an unpaved area. It is the responsibility of the builder to locate and verify
+   the existing water meter location.
+
+   **IMPORTANT** Please note that additional HOLD comments are possible based on revised
+   submittals
+
+
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                      Residential New Building Permit
+                                         Plan Review Comments
+2. 11/04/25 --CORRECTIONS REQUIRED-- Need customer billing information:
+   Provide information to WaterApps@FortWorthtexas.Gov and be sure to put the permit number in
+   the subject title.
+
+   1.    Customer Name (for the account)
+   2.    Customer’s Mailing Address
+   3.    Customer’s Tax ID Number
+   4.    Contact Name (if different from customer name)
+   5.    Customer’s Phone number
+   6.    Customer’s Email address
+
+Zoning
+Reviewer: April Karr
+Email: April.Karr@fortworthtexas.gov
+Phone: 817-392-2802
+
+1. 10/31/25 – CORRECTIONS REQUIRED – Please provide the setbacks for 3112 & 3120
+   Tanglewood. The setback nearest the street will be the setback required for this lot since their
+   setback is greater than 25’ platted setback.
+2. 10/31/25 – CORRECTIONS REQUIRED – Driveway must be hard surface, dust free (gravel not
+   allowed). Please revise plans with driveway material that is allowed.
+
+
+T/PW Engineering
+Reviewer: Jeremy Beekman
+Email: Jeremy.Beekman@fortworthtexas.gov
+Phone:
+
+1. FYI.
+   Sidewalk waiver will be required when you put in for your parkway permit to rebuild your drive
+   approach.
+
+
+   for questions contact TDS@Fortworthtexas.gov
+
+
+Approval Table:
+          Task Name                       Task Status            Completed Date          Task Rev Name
+
+Application Submittal           Routed for Electronic Review     10/28/2025        Deanna Sturm
+Water Development Review        Corrections Required             11/04/2025        Shundalyn Evans
+Transportation Impact Review    Not Required                     10/31/2025        Lamonica Smith
+Urban Forestry Review           Not Required                     10/31/2025        April Karr
+Zoning Review                   Corrections Required             10/31/2025        April Karr
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                 Residential New Building Permit
+                                    Plan Review Comments
+PARD Review                 Not Required              11/06/2025    Lori Gordon
+Building Plan Review        Corrections Required      10/31/2025    Michael Still
+Mechanical Plan Review      Corrections Required      10/31/2025    Rodney Brown
+Plumbing Plan Review        Corrections Required      10/31/2025    Rodney Brown
+Electrical Plan Review      Corrections Required      10/29/2025    David Heiliger
+Plan Distribution
+Plans Coordination          Corrections Required      11/06/2025    Ann Nace
+Parkway Review              Approved                  10/29/2025    Jefferson Owens
+TPW Engineering Review      Not Required              10/29/2025    Jeremy Beekman
+
+
+General Comments and Additional Permit Information:
+
+
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                   Residential New Building Permit
+                                      Plan Review Comments
+Reviewer: Rodney Brown
+Email: Rodney.Brown@fortworthtexas.gov
+Phone: 817-392-2605
+
+  1 *******Mechanical & Plumbing Plans Exam*******
+    Permit Data Confirmed on 10/31/2025
+    By. Rodney Brown 817-392-2605
+
+    Address: 3116 Tanglewood Trl     Permit#: PB25-14972
+
+    Name of Tenant: Edson Residence
+
+    Scope of Work: New construction of a new single-family residence.
+
+    ENGINEERING INFO
+
+    All mechanical work subject to approval by mechanical inspector. Mechanical shall
+    conform to FWMC 22518 requirements.
+    Engineer who signed plans is Usama Khan PE #46830
+
+    All plumbing work subject to approval by plumbing inspector. Plumbing shall conform to
+    FWPC 22521 requirements.
+    Engineer who signed plans is Usama Khan PE #46830
+
+    GENERAL NOTES
+    Any electrical, mechanical, or plumbing repair or changes requires separate permits
+
+    Plan Review comments:
+
+    ***The following comments are NOT “CORRECTIONS REQUIRED” or “HOLDS”. These
+    are general plan review notes for each trade.
+
+    - WATER HEATERS: M2005.2 – Fuel fired water heaters shall not be installed in a room
+    used as a storage closet. Water heaters located in a bedroom or bathroom shall be
+    installed in a sealed enclosure so that combustion air will not be taken from the living
+    space. Installation of direct-vent water heaters within an enclosure is not required.
+
+
+
+
+                                        Planning Development Department
+          ________________________________________________________________________________
+                       The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                        817-392-2222 * Fax 817-392-8105
+                                    Residential New Building Permit
+                                       Plan Review Comments
+Reviewer: David Heiliger
+Email: David.Heiliger@fortworthtexas.gov
+Phone: 817-392-2823
+
+  3 ***Electrical Plans Examined *******       Permit#: PB25-14972
+    Permit Data Confirmed on 10/29/2025
+    By. David Heiliger 817-392-2823
+    David.Heiliger@fortworthtexas.gov
+
+    Name: 3116 Tanglewood
+    Address: 3116 Tanglewood TRL
+    Scope: X TEAM /// A new single family custom home
+
+    Plan Review Conditions:
+    1. Safe working clearance to be maintained at electrical equipment and HVAC units,
+    Minimum 30” Wide X 36” Deep, per 2023 NEC 110.26.
+    2. Concreate encased electrode / uffer, grounding electrode required, per city
+    amendments 250.50, 250.52. Supplemental grounding electrode ground rod is required,
+    for metal water piping.
+
+    GENERAL NOTES – CONDTIONS, NOT HOLD NOTES
+    As of March 1, 2023, the City of Fort Worth is under the NFPA 70, 2023 National Electric
+    Code / NEC, 2015 IECC, and All City Amendments.
+    Notice: Note to all performing electrical work in the City Of Fort Worth. Fort Worth requires
+    2023 NEC 90. 2 (B) (5) and City amendment’s 240.42 “Electrical Service Point”( As
+    defined in the NEC); The point of connection between the utility and the premise wiring.
+    The Utility connection shall be under the exclusive control of the utility company. Or
+    230.42 (A) (2) The minimum service-entrance conductor size shall have an ampacity not
+    less than the maximum load to be served after the application of any adjustment or
+    correction factors.
+    Grounding electrode: When a new foundation is poured, it is understood that a concrete-
+    encased electrode is present. Failure to utilize the concrete-encased electrode will require
+    an approved alternate means of compliance from the AHJ. CFW Amendments 250.50,
+    250.5, and shall be inspected before the concreate pour.
+    A.I.C / Short Circuit rating for overcurrent protection shall be maintained, calculations for
+    A.I.C. rating shall include utility transformer impedance, shall be provided upon request
+    before final approval. If impedance is unknow or new the electric Utility company can
+    provide a form for this request. Apply ASAP.
+
+    All work permitted under this permit shall conform to F.W.B.C. 22517 and the city of Fort
+    Worth zoning requirements
+    Never cover anything up before it has been inspected and approved. Taking Pictures does
+    not count for an inspection unless approved beforehand by the inspector.
+    All approvals are subject to site inspection by the inspector.
+    Approval is based on listed equipment or field evaluation only. The equipment shall be
+    listed and approved by a approved NTRL 2023 NEC 110.2, 110.3. or field evaluated.
+    ENGINEERING INFO
+    The engineer who signed the plans is.
+
+
+
+                                        Planning Development Department
+          ________________________________________________________________________________
+                       The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                        817-392-2222 * Fax 817-392-8105
+                                     Residential New Building Permit
+                                        Plan Review Comments
+Reviewer: April Karr
+Email: April.Karr@fortworthtexas.gov
+Phone: 817-392-2802
+
+  2 Zoning Reviewed Performed on: 10/31/25
+    By: April Karr
+
+
+    PERMIT # PB25-14973
+    Address: 3116 Tanglewood
+
+    Scope of project: New Single Family Home
+
+    Zoning district: A-7.5
+
+    Official Plat: provided
+    Lot Area: minimum of 7500sf where 10707sf provided
+    Lot Width: minimum of 55’ where 80’ provided
+    Building Square Footage: 4588sf (conditioned and un-conditioned)
+    45% Maximum Lot Coverage: 4818sf where 3936sf provided
+    Height: 35’ maximum
+    Parkway trees: existing trees to remain in front yard
+    Setback restrictions: (The front yard setback in residential districts shall be the greatest of:
+    The platted building line; The setback for the applicable zoning district; or the setback of
+    the nearest building on either side that is the closest to the street, up to a maximum
+    setback of 50 feet, provided that said setback is not the result of a variance granted by the
+    Board of Adjustment)
+    Front: Will be setback of adjacent home nearest the street
+    Sides: 5’ minimum
+    Rear: 5’ minimum
+
+    Parking spaces as a SFR: Ord. 21528 Single Family Home: Two spaces located behind
+    the front building wall for dwelling units with three or fewer bedrooms, plus one space
+    located behind the front building wall or in the driveway for each bedroom above three.
+    # Bedrooms: 3 Parking spaces required: 2
+    Provided: 4 ( 2 in the garage and 2 on the driveway)
+
+    Required parking spaces must be hard surface and dust free (asphalt or concrete). All
+    maneuvering space must be located off the public right of way.
+
+    Additional Comments:
+    Sec. 22-176. Curb cuts and laid-down curb permit procedures.
+    The location of ingress and egress driveways shall be subject to approval of the city traffic
+    engineer under curb cut or laid-down curb permit procedures. Driveways shall not exceed
+    sixty-five (65) per cent of the property frontage. There shall be a minimum of twenty (20)
+    feet of curb along the street between driveways where there is more than one driveway on
+    property under unified ownership or control and used as one premise. The decision of the
+    city traffic engineer may be appealed to the city council.
+    Any detached single family residential dwelling constructed after the effective date of this
+
+
+                                        Planning Development Department
+          ________________________________________________________________________________
+                       The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                        817-392-2222 * Fax 817-392-8105
+ordinance April 26, 2007 shall be required to conform to the following architectural and
+tree planting requirements:
+ The same elevation shall not be permitted within a six lot pattern, on an adjacent lot or on
+a lot directly across the street as depicted in the diagram below.
+Exterior walls shall consist of a minimum of 50% masonry. Exposures to a minor arterial
+or wider street shall require 100% masonry construction except where such building face
+is obscured by a minimum six (6) foot masonry wall. "Masonry" shall include brick, stone,
+cementitious fiber concrete products or stucco. Similar products made from such
+materials and/or durable recycled material shall be allowed as approved by the Building
+Official.
+No attached garage facing a public or private street may project greater than eight (8) feet
+in front of the front wall of the house in all Single-Family Districts. ***Exempt lots from the
+garage setback standard that are both: preliminary platted prior to June 1, 2006 and final
+platted (recorded) by December 31, 2009***
+An infill house shall be required to have a minimum 3" caliper front yard tree of choice, and
+one minimum 3" caliper street parkway tree as approved by the City Forester. In all
+instances, a minimum of 40% canopy cover per lot must be achieved in accordance with
+Section 6.301.K.
+
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+

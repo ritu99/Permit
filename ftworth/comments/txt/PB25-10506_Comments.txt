@@ -1,0 +1,480 @@
+                                        Residential New Building Permit
+                                           Plan Review Comments
+
+
+      Application: PB25-10506                                                     Date Submitted: 07/23/2025
+              Status: Awaiting Client                                                  Date Issued:
+                      Reply
+Address: 7705 LAKEVIEW CIR
+Parcel: 373954                                           Zoning: R2
+Subdivision: EAGLE MOUNTAIN LAKE ESTATE SUB              Lot/Block: 6R/2
+Description of Work: new residential
+
+ADA TDLR:                                                Energy Code Compliant:
+Applicant:                                               Owner: OLD OCEAN I LP
+2023 Custer Drive                                        PO BOX 137056
+Dallas, TX 75216                                         LAKE WORTH,, TX 76136
+2149700789
+Building Classification:
+      Occ Class             Const Type        Square Feet      Occ Load           Use Description
+          R-3                   VB                2910         15                 Living
+          U                     VB                704          4                  Garage/Porch/Patio
+Sprinkler Sys Req:
+Comment: Signs, Retaining Walls over 4', Fences, Dumpster Enclosures over 6', and Parkway Approaches and
+Sidewalks require separate permits and reviews.
+
+Required Corrections:
+
+Parkway
+Reviewer: Jeffrey Wolff
+Email: Jeffrey.Wolff@fortworthtexas.gov
+Phone:
+
+1. Need measurement of drive approach width, it appears to be larger than city regulations.
+
+
+
+
+                                              Planning Development Department
+                ________________________________________________________________________________
+                             The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                              817-392-2222 * Fax 817-392-8105
+                                     Residential New Building Permit
+                                        Plan Review Comments
+Water
+Reviewer: Michelle Canright
+Email: Michelle.Canright@fortworthtexas.gov
+Phone:
+
+1. 12/01/25 - INCOMPLETE - CORRECTIONS REQUIRED - Fees Due. Water/sewer impact +
+   reducer fees due.
+
+   What size of meter is customer requesting?
+
+   10/20/25 CORRECTIONS REQUIRED - Fees Due. Water/sewer impact + reducer fees due.
+
+   8/5/25 CORRECTIONS REQUIRED - Fees Due. Water/sewer impact + reducer fees due. Contact
+   Water Applications at 817-392-8250 or WaterApps@fortworthtexas.gov to provide proposed water
+   meter and sewer information.
+
+Zoning
+Reviewer: Cynthia1 Flores-Frausto1
+Email: Cynthia.Flores-Frausto@fortworthtexas.gov
+Phone:
+
+1. 8/6/2025– CORRECTIONS REQUIRED – URBAN FORESTRY - TREES
+   Please revise the site plan to show two 3” caliper trees Per 6.507(d) ONE-FAMILY DWELLING
+   UNIT DESIGN STANDARDS.
+   (d) Infill house. An infill house shall be required to have one minimum three-inch caliper front
+   yard tree of choice, and one minimum three-foot caliper street parkway tree as ap-proved by the
+   city forester. In all instances, a minimum of 40% canopy cover per lot must be achieved in
+   accordance with § 6.302.
+   *Reminder that all revised files must be uploaded as a complete plan set for all submit-tals.
+
+
+Approval Table:
+         Task Name                       Task Status            Completed Date         Task Rev Name
+
+Application Submittal           Routed for Electronic Review    07/25/2025       Joseph Sigmon
+Water Development Review        Corrections Required            12/01/2025       Maria Lopez
+Transportation Impact Review    Approved                        08/01/2025       Lamonica Smith
+Urban Forestry Review           Approved                        07/28/2025       Cynthia1 Flores-Frausto1
+Zoning Review                   Approved                        09/05/2025       Cynthia1 Flores-Frausto1
+PARD Review                     Not Required                    07/29/2025       Germaine Joseph
+Building Plan Review            Approved                        08/04/2025       Scott Edwardson
+Mechanical Plan Review          Approved                        08/04/2025       Scott Edwardson
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                      Residential New Building Permit
+                                         Plan Review Comments
+Plumbing Plan Review            Approved                        08/04/2025       Scott Edwardson
+Electrical Plan Review          Approved                        08/04/2025       Scott Edwardson
+Plan Distribution               Routed for Electronic Review    11/24/2025       Scott Edwardson
+Plans Coordination              Corrections Required            12/02/2025       Scott Edwardson
+Parkway Review                  Approved                        08/06/2025       Jeffrey Wolff
+
+
+General Comments and Additional Permit Information:
+
+ Reviewer: Scott Edwardson
+ Email: Scott.Edwardson@fortworthtexas.gov
+ Phone: (817) 392-6288
+
+    2 ********** Residential Code Review Comments ***********
+      City Plans Examiner: Scott Edwardson
+      Phone # (817) 392-6288
+      Scott.Edwardson@fortworthtexas.gov
+      Date 08/04/2025
+      Development Services
+      Residential Review Notes
+      IRC 2021PB25-08578
+          Permit: PB25-10506
+          Address: 7705 Lakeview Cir.
+          Legal Desc: Eagle Mountain Lake Estates Block 2 Lot 6R
+          Contact: Ruth Solorzano
+      Construction type: VB
+      Project Area: 2235
+      Occupancy & Use: R-3 – 2910; U – 704
+      Zoning R-2
+      Lot Size: 7000
+      Lot Coverage: 32.00%
+      Scope of Work: New SFR
+
+       Professional engineer
+       Certified foundation plans: Benedict N. Iloanya P.E. 143717
+       Professional engineer who certified structural plans: Benedict N. Iloanya P.E. 143717
+       Braced wall plans: Benedict N. Iloanya P.E. 143717
+
+       WINDOWS
+       Max U-factor is 0.35
+       Max SHGC is 0.25
+
+       DOORS – U-factor
+       Uninsulated metal: 1.2
+       Insulated metal: 0.6
+       Wood: 0.5
+       Insulated, nonmetal edge, Max 45% glazing, any glazing double pane 0.35
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+INSULATION
+R-13+5h or R-20 insulation in exterior walls
+R-38 insulation in the attic
+R-19 insulation in the floor
+** General Notes **
+
+NOTE: The general notes listed below are an abbreviated version of the actual notes in
+the 2021 IRC and CFW Amendment. The builder is responsible for compliance with the
+full applicable IRC section and/or CFW Amendment.
+
+This Plan is void without City Plan Review Notes.
+
+1. See attached examiner’s notes and City handouts as applicable to this permit.
+
+2. See attached site and construction plans as applicable to permit.
+
+3. All work shall conform to City of Fort Worth building code, energy code and zoning
+requirements.
+
+4. SEPARATE PERMITS ARE REQUIRED for Electrical, Mechanical and Plumbing work.
+
+5. R302.6 Dwelling/garage fire separation.
+
+SEPARATION MATERIAL
+From the residence and attics: Not less than 1/2-inch gypsum board or equivalent applied
+to the garage side from all habitable rooms above the garage: Not less than 5/8-inch Type
+X gypsum board or equivalent.
+
+6. R302.11 Fireblocking.
+In combustible construction, fireblocking shall be provided to cut off all concealed draft
+openings (both vertical and horizontal) and to form an effective fire barrier between stories,
+and between a top story and the roof space.
+
+7. BATHROOMS – R303.3 Bathrooms, water closet compartments and other similar
+rooms shall be provided with aggregate glazing area in windows of not less than 3 square
+feet, one-half of which must be openable. Artificial light and mechanical ventilation may be
+provided.
+
+8. EMERGENCY ESCAPE – R310 – basements, habitable attics and each sleeping room
+shall have at least one operable emergency and rescue opening.
+
+R310.2.1 – All emergency escape and rescue openings shall have a minimum net clear
+opening of 5.7 sq.ft. Openings on grade shall be a minimum of 5 sq.ft. net clear opening.
+
+R310.2.1 – Minimum opening height is 24”
+R310.2.1 – Minimum opening width is 20”
+
+R310.1.1 – Emergency escape and rescue openings shall be operational from the inside
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                               Residential New Building Permit
+                                  Plan Review Comments
+of the room without the use of keys, tools or special knowledge.
+
+9. MEANS OF EGRESS – R311
+
+R311.6 – Minimum hallway width shall not be less than 36”
+
+R311.2 – Each dwelling unit shall have not less than one exit door
+
+10. SECTION R315 CARBON MONOXIDE ALARMS
+
+R315.2.1 Carbon monoxide alarms and R315.3 Location. For new construction, an
+approved carbon monoxide alarm shall be installed outside of each separate sleeping area
+in the immediate vicinity of the bedrooms in dwelling units within which fuel-fired
+appliances are installed and in dwelling units that have attached garages.
+
+11. WATER HEATERS: M2005.2 – Fuel fired water heaters shall not be installed in a
+room used as a storage closet.
+
+12. CLOTHES DRYER EXHAUST: 2021 IRC M1502 – Dryer exhaust systems shall be
+independent of all other systems, and shall terminate on the outside of the building.
+Exhaust ducts shall be equipped with a backdraft damper.
+
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                    Residential New Building Permit
+                                       Plan Review Comments
+Reviewer: Michelle Canright
+Email: Michelle.Canright@fortworthtexas.gov
+Phone:
+
+  1 WATER APPLICATIONS
+
+    *** IMPORTANT*** PLEASE READ WATER AND SEWER SERVICE LOCATION
+    REQUIREMENTS ***
+    ________________________________________________________________________
+    _____________
+    Sec 5.18.2.1 Meter boxes can only be installed in non-paved areas. Water service and
+    meter box must be installed 1-foot offset from the property line in the parkway and have a
+    9-foot horizontal separation from the sewer service. The normal location for meter boxes
+    is 2.5 feet behind the back of curb.
+    In no case shall the water meter box (and meter) be outside of the public right-of-way or
+    water easement.
+
+    Sec 6.4.1.3 Wastewater service should avoid placement in driveways and have a 9-foot
+    horizontal separation from the water service.
+    Service should be installed South or West of the proposed driveway location.
+
+    To avoid delays and additional meter installation fees, please ensure the following
+    requirements are met:
+    · Address must be clearly posted
+    · No debris or material over the meter box
+    - Meter box must be in the ground to grade per city specification
+
+    ________________________________________________________________________
+    _____________
+    EXISTING SERVICE LOCATIONS
+    ________________________________________________________________________
+    ____________
+    Water Tap – Northeast property line – See water service requirements listed above
+    Sewer tap – center lot in the front – See wastewater service requirements listed above
+    09/04/25 - Per CCTV, sewer tap located15.5 ft downstream from USMH. Marked in the
+    street with green paint.
+Reviewer: Lamonica Smith
+Email: Lamonica.Smith@fortworthtexas.gov
+Phone:
+
+  3 ****Transportation Impact Fees****
+
+    2025 rate with no adequate facilities discount.
+Reviewer: Cynthia1 Flores-Frausto1
+Email: Cynthia.Flores-Frausto@fortworthtexas.gov
+Phone:
+
+    Residential Zoning Review Notes
+
+                                        Planning Development Department
+          ________________________________________________________________________________
+                       The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                        817-392-2222 * Fax 817-392-8105
+                                   Residential New Building Permit
+                                      Plan Review Comments
+4 Planning and Development Department
+  Reviewed by: Cynthia Flores-Frausto - cynthia.flores-frausto@fortworthtexas.gov – 817-
+  392-7867
+
+  Zoning Review Notes: All reviews are pending stakeout inspection
+  CFW Zoning Ordinance # 13896-19602
+
+  Permit #: PB25-10506
+  Permit data confirmed on: 09/05/2025
+  Physical Address: 7705 Lakeview Cir
+  Legal description: Eagle Mountain Lake Estate BLK: 2 LOT: 6R
+
+  Scope of project: New Single-Family Residence
+
+  HOLD NOTES: All items labeled “CORRECTION REQUIRED” must be addressed.
+  Note: As applicable, any fence located within an easement will require permission of the
+  easement holder(s) to encroach.
+
+  Zoning district: R-2
+  Type of layout: Single-Family Residence
+
+  Official Plat: A-4842
+
+  Building Square footage: R-3: 2,910 U: 704
+  Slab SF: 2,235
+
+  Height: 35’ maximum (Provided To ridge 32’ 9”)
+  Lot Area: 3,000 square feet minimum, including all structures (7,000 sq ft)
+  Lot Width: 30’ minimum at building line (Provided 44’ 10 ½” )
+  Lot Coverage: 31.93%
+  Driveway Coverage: 43.55%
+
+  Front: 0’ minimum (Provided 24.54’)
+  Sides: 3’ minimum (Provided 5’ 0” – 5’ 0”) 1 hour fire rated wall required on wall that is 3’ 1”
+  from property line.
+  Rear: 5’ minimum (Provided 23.67’)
+
+  Parking spaces:
+  Ord. 21528 Single Family Home: Two spaces per dwelling unit, located behind the front
+  building line, except for limited local streets, where four spaces shall be required, located
+  behind the front building line (see Section 403.D of the subdivision regulations). #
+  Bedrooms: 5 Parking spaces required 2 provided 2
+
+  Required parking spaces must be hard surface and dust free (asphalt or concrete). All
+  maneuvering space must be located off of the public right of way.
+
+  Urban Forestry: property is vested, infill, or has approved UFC permit: (4)
+
+  An infill house shall be required to have a minimum 3" caliper front yard tree of choice, and
+
+
+                                      Planning Development Department
+        ________________________________________________________________________________
+                     The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                      817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+one minimum 3" caliper street parkway tree as approved by the City Forester.
+
+Single Family Design Standards: Custom House
+The same elevation shall not be permitted within a six lot pattern, on an adjacent lot or on
+a lot directly across the street.
+
+No attached garage facing a public or private street may project greater than eight (8) feet
+in front of the front wall of the house in all Single-Family Districts.
+
+
+Additional Comments:
+Sec. 22-176. Curb cuts and laid-down curb permit procedures.
+The location of ingress and egress driveways shall be subject to approval of the city traffic
+engineer under curb cut or laid-down curb permit procedures. Driveways shall not exceed
+sixty-five (65) per cent of the property frontage. There shall be a minimum of twenty (20)
+feet of curb along the street between driveways where there is more than one driveway on
+property under unified ownership or control and used as one premise. The decision of the
+city traffic engineer may be appealed to the city council. (Code 1964, § 26-102.3; Ord. No.
+8288, § 1, 3-10-81)
+
+SINGLE FAMILY HOME: DWELLING UNIT: A building, or any portion thereof, containing
+a complete set of independent living facilities for occupancy and use by one family,
+including permanent provisions for living, sleeping, eating, sanitation, and cooking within a
+kitchen for the exclusive use of the occupants whose intent is to habitat the dwelling unit.
+
+COOKING EQUIPMENT: A stove, range or other such appliances, which requires a 220V
+or gas connection that is used, designed, or intended to be used for the cook and
+preparing of food.
+
+
+
+
+Residential Zoning Review Notes
+Planning and Development Department
+Reviewed by: Cynthia Flores-Frausto - cynthia.flores-frausto@fortworthtexas.gov – 817-
+392-7867
+
+Zoning Review Notes: All reviews are pending stakeout inspection
+CFW Zoning Ordinance # 13896-19602
+
+Permit #: PB25-10506
+Permit data confirmed on: 07/28/2025
+Physical Address: 7705 Lakeview Cir
+Legal description: Eagle Mountain Lake Estate BLK: 2 LOT: 6R
+
+Scope of project: New Single-Family Residence
+
+HOLD NOTES: All items labeled “CORRECTION REQUIRED” must be addressed.
+Note: As applicable, any fence located within an easement will require permission of the
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                 Residential New Building Permit
+                                    Plan Review Comments
+easement holder(s) to encroach.
+
+Zoning district: R-2
+Type of layout: Single-Family Residence
+
+Official Plat: A-4842
+
+Building Square footage: R-3: 2,910 U: 704
+Slab SF: 2,235
+
+Height: 35’ maximum (Provided To ridge 32’ 9”)
+Lot Area: 3,000 square feet minimum, including all structures (7,000 sq ft)
+Lot Width: 30’ minimum at building line (Provided 44’ 10 ½” )
+Lot Coverage: 31.93%
+Driveway Coverage: 63.53%
+
+Front: 0’ minimum (Provided 31’- 10”)
+Sides: 3’ minimum (Provided 5’ 0” – 5’ 0”) 1 hour fire rated wall required on wall that is 3’ 1”
+from property line.
+Rear: 5’ minimum (Provided 23’ 8”)
+
+Parking spaces:
+Ord. 21528 Single Family Home: Two spaces per dwelling unit, located behind the front
+building line, except for limited local streets, where four spaces shall be required, located
+behind the front building line (see Section 403.D of the subdivision regulations). #
+Bedrooms: 5 Parking spaces required 2 provided 3
+
+Required parking spaces must be hard surface and dust free (asphalt or concrete). All
+maneuvering space must be located off of the public right of way.
+
+Urban Forestry: property is vested, infill, or has approved UFC permit: (Vested)
+
+An infill house shall be required to have a minimum 3" caliper front yard tree of choice, and
+one minimum 3" caliper street parkway tree as approved by the City Forester.
+
+Single Family Design Standards: Custom House
+The same elevation shall not be permitted within a six lot pattern, on an adjacent lot or on
+a lot directly across the street.
+
+No attached garage facing a public or private street may project greater than eight (8) feet
+in front of the front wall of the house in all Single-Family Districts.
+
+
+Additional Comments:
+Sec. 22-176. Curb cuts and laid-down curb permit procedures.
+The location of ingress and egress driveways shall be subject to approval of the city traffic
+engineer under curb cut or laid-down curb permit procedures. Driveways shall not exceed
+sixty-five (65) per cent of the property frontage. There shall be a minimum of twenty (20)
+feet of curb along the street between driveways where there is more than one driveway on
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+property under unified ownership or control and used as one premise. The decision of the
+city traffic engineer may be appealed to the city council. (Code 1964, § 26-102.3; Ord. No.
+8288, § 1, 3-10-81)
+
+SINGLE FAMILY HOME: DWELLING UNIT: A building, or any portion thereof, containing
+a complete set of independent living facilities for occupancy and use by one family,
+including permanent provisions for living, sleeping, eating, sanitation, and cooking within a
+kitchen for the exclusive use of the occupants whose intent is to habitat the dwelling unit.
+
+COOKING EQUIPMENT: A stove, range or other such appliances, which requires a 220V
+or gas connection that is used, designed, or intended to be used for the cook and
+preparing of food.
+
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+

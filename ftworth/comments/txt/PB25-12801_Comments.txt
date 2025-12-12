@@ -1,0 +1,677 @@
+                                         Residential New Building Permit
+                                            Plan Review Comments
+
+
+       Application: PB25-12801                                                     Date Submitted: 09/10/2025
+               Status: Awaiting Client                                                 Date Issued:
+                       Reply
+Address: 441 RAYNER AVE
+Parcel: 1306720                                          Zoning: PD
+Subdivision: BASSETT ADDITION                            Lot/Block: 7/3
+Description of Work: RESID NEW CONSTR
+
+ADA TDLR:                                                Energy Code Compliant:
+Applicant: Muhammad Memon                                Owner: ROOTS CONSTRUCTION LLC
+4008 shady forge trl                                     4008 SHADY FORGE TRL
+Arlington, TX 76005                                      EULESS, TX 76040
+4692139562
+Building Classification:
+       Occ Class             Const Type        Square Feet     Occ Load           Use Description
+           R-3                   VB               1867                            Living Space
+           U                     VB                420                            Garage
+           U                     VB                12                             Covered Patio
+Sprinkler Sys Req:
+Comment: Signs, Retaining Walls over 4', Fences, Dumpster Enclosures over 6', and Parkway Approaches and
+Sidewalks require separate permits and reviews.
+
+Required Corrections:
+
+Building
+Reviewer: Jose Flores Lopez
+Email: Jose.FloresLopez@fortworthtexas.gov
+Phone: 817-392-8093
+
+1. 10-01-2025 Corrections Required-Guardrail Openings
+
+   The submitted plans do not indicate compliance with the opening limitations specified in Section
+   R312.1.3 of the 2021 International Residential Code for the proposed guardrails on the second
+   and third floors. Please revise and resubmit the plans to clearly demonstrate compliance with
+   section R312.1.3 of the 2021 IRC.
+
+
+
+
+                                               Planning Development Department
+                 ________________________________________________________________________________
+                              The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                               817-392-2222 * Fax 817-392-8105
+                                      Residential New Building Permit
+                                         Plan Review Comments
+2. 10-01-2025 Corrections Required-Climate Zone
+
+   The provided plans indicate the incorrect climate zone per the 2015 International Energy
+   Conservation Code. Please provide a revised set of plans showing the correct climate zone per
+   the 2015 IECC.
+3. 10-01-2025 Corrections Required-Stairways
+
+   The submitted plans do not indicate the stair width, headroom clearance, tread depth, riser height,
+   or handrail height necessary to demonstrate compliance with Section R311.7 of the 2021
+   International Residential Code (IRC). Please provide a revised set of plans that clearly show
+   compliance with all applicable requirements of Section R311.7.
+4. 10-01-2025 Corrections Required-Parapet Construction
+
+   Parapet details showing compliance with section R302.2.4 and R302.2.5 of the 2021 International
+   Residential Code were not provided. Please provide a revised of parapet details showing
+   compliance with R320.2.4 and R302.2.5 of the 2021 IRC.
+5. 10-01-2025 Corrections Required-Occupied Rooftop and rooftop access do not comply with City
+   of Fort Worth amendment to Section 310.3.1 of the 2021 IBC.
+
+   Please provide a revised design that complies with the CFW amendment to Section 310.3.1 of the
+   2021 IBC.
+6. 10-01-2025 Corrections Required-Fire Resistive Construction
+
+   The provide plans did not provide sufficient details for the fire resistive construction required
+   between townhouses to show compliance with R302.2.1, R302.2.2 and R302.2.3 of the 2021
+   International Residential Code. Please provide a revised set of plans to show compliance with the
+   2021 IRC.
+7. 10-01-2025 Corrections Required-Elevator
+
+   The submitted documents do not include construction details or supporting documentation for the
+   proposed elevator shown on the plans, as required by Section R321 of the 2021 International
+   Residential Code (IRC).Please revise and resubmit the plans to include all necessary construction
+   details and documentation demonstrating compliance with Section R321 of the 2021 IRC.
+
+Electrical
+Reviewer: Jose Flores Lopez
+Email: Jose.FloresLopez@fortworthtexas.gov
+Phone: 817-392-8093
+
+1. 10-01-2025 Corrections Required-Emergency Disconnect
+
+   The submitted plans do not indicate the location or configuration of the electrical service
+   disconnects, as required by Sections 230.70(A) and 230.70(A)(1) of the 2023 National Electrical
+   Code. Please revise and resubmit the plans to clearly show the electrical service disconnects in a
+   readily accessible location, demonstrating compliance with the 2023 NEC.
+
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                      Residential New Building Permit
+                                         Plan Review Comments
+Mechanical
+Reviewer: Jose Flores Lopez
+Email: Jose.FloresLopez@fortworthtexas.gov
+Phone: 817-392-8093
+
+1. 10-01-2025 Corrections Required-Domestic Cooking Exhaust
+
+   The submitted plans do not indicate any exhaust equipment for the proposed cooking appliance,
+   as required by Section M1503 of the 2021 International Residential Code. Please revise and
+   resubmit the plans to include the required exhaust equipment for the proposed cooking appliance,
+   demonstrating compliance with Section M1503 of the 2021 IRC.
+
+   Code Reference: 2021 IRC – Section M1503
+2. 10-01-2025 Corrections Required-Clothes Dryer Exhaust
+
+   The submitted plans do not indicate the clothes dryer exhaust duct termination location or the total
+   duct length, as required by Sections M1502.3 and M1502.4.6 of the 2021 International Residential
+   Code (IRC). Please revise and resubmit the plans to clearly show the exhaust duct termination
+   point and total duct length in compliance with code section M1502.3 and M1502.4.6 of the 2021
+   IRC.
+3. 10-01-2025 Corrections Required-Bathroom/Toilet Exhaust Termination
+
+   The submitted plans do not demonstrate compliance with the clearance requirements for
+   bathroom exhaust terminations as specified in Section M1504.3 of the 2021 International
+   Residential Code (IRC). Please revise and resubmit a complete set of plans to clearly indicate
+   compliance with section M1504.3 of the 2021 IRC.
+
+PARD
+Reviewer: Germaine Joseph
+Email: Germaine.Joseph@fortworthtexas.gov
+Phone:
+
+1. PARD/PDP: This development is within the boundaries of Park Planning District 4; the
+   Neighborhood & Community Park Dedication Policy applies. There is a required $1,393.58 due
+   for each single-family residential unit or duplex on an undeveloped lot. On a lot with a teardown,
+   there is a required $1,393.58 due for each additional residential unit (duplex). Please upload the
+   demolition/razing permit. Tear down and replace in-kind, no PARD-PDP fee is due. Call
+   Development Services @ 817-392-2222, if you need assistance on making a payment. Call Lori
+   Gordon @ 817-392-5743 for information regarding the fee and to what it is applied. All fees must
+   be paid in full for single family residential or duplex, at or before building permit issue. No city
+   permits will be issued until the PDP fees have been paid.
+
+
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                     Residential New Building Permit
+                                        Plan Review Comments
+Water
+Reviewer: Michelle Canright
+Email: Michelle.Canright@fortworthtexas.gov
+Phone:
+
+1. 10/3/25 CORRECTIONS REQUIRED - Fees Due. Water/sewer impact + reducer fees due.
+   Contact Water Applications at 817-392-8250 or WaterApps@fortworthtexas.gov to provide
+   proposed water meter and sewer information.
+2. 10/3/25 CORRECTIONS REQUIRED - Need customer billing information:
+     1. Customer Name (for the account)
+     2. Customer’s Mailing Address
+     3. Customer’s Tax ID Number
+     4. Contact Name (if different from customer name)
+     5. Customer’s Phone number
+     6. Customer’s Email address
+
+  Please provide customer billing information to WaterApps@FortWorthTexas.Gov and be sure to
+  add the permit number and address in the subject title.
+
+Zoning
+Reviewer: Rosalee Rivera
+Email: Rosalee.Rivera@fortworthtexas.gov
+Phone: 817-392-2222
+
+1. 10/03/2025 – CORRECTIONS REQUIRED – INCORRECT PLAT UPLOADED
+
+  The plat uploaded FS-21-203 is for blocks 1 & 2. Please upload the correct plat showing for (Block
+  3 – Lots 1-11).
+
+
+  The correct plat for block 3 is FP-18-066. Please upload the correct plat for the Block 3 – Lots 1-
+  11.
+
+  You may request a copy from the Tarrant County Courthouse located at 100 W Weatherford St -
+  Or by phone (817) 884-1195.
+
+  Correction(s) should only be submitted once the permit is in “Awaiting Client Reply” status.
+
+  -Any plan sheet that is required to be revised must be resubmitted as part of one file that is a
+  complete set of plans as each resubmittal is required to be a complete set. Resubmitted Plans file
+  is to be named (address SUB 2 Plan Revision), (address SUB 2 Plan Revision), etc.
+
+  Additional HOLDS may be placed upon review of revision
+
+
+
+
+                                          Planning Development Department
+            ________________________________________________________________________________
+                         The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                          817-392-2222 * Fax 817-392-8105
+                                     Residential New Building Permit
+                                        Plan Review Comments
+2. 10/03/2025 – CORRECTIONS REQUIRED – HEIGHT OF BUILDING
+
+  Per the § 4.709 TOWNHOUSE/CLUSTER (“R2”) DISTRICT
+
+  *Height - 35 feet maximum: Provided – 44.11 ¾’ Roof Height
+
+  This has been exceeded.
+
+  Please revise the elevation drawings to show the building height does not exceed 35 feet.
+
+  -Any plan sheet that is required to be revised must be resubmitted as part of one file that is a
+  complete set of plans as each resubmittal is required to be a complete set. Resubmitted Plans file
+  is to be named (address SUB 2 Plan Revision), (address SUB 2 Plan Revision), etc.
+
+  Additional HOLDS may be placed upon review of revision
+3. 10/03/2025 – CORRECTIONS REQUIRED – BUILDING SEPERATION
+
+  Per the 4.709 TOWNHOUSE/CLUSTER (“R2”) DISTRICT
+
+  **There must be a 10-foot minimum building separation.
+
+  Please revise the site plan to show the other two already built structures on the same block face,
+  and show this project is 10 feet away on both sides from both buildings.
+
+  -Any plan sheet that is required to be revised must be resubmitted as part of one file that is a
+  complete set of plans as each resubmittal is required to be a complete set. Resubmitted Plans file
+  is to be named (address SUB 2 Plan Revision), (address SUB 2 Plan Revision), etc.
+
+  Additional HOLDS may be placed upon review of revision
+4. 10/03/2025 – CORRECTIONS REQUIRED – BUILDING FACADE LENGTH
+
+  Per the 4.709 TOWNHOUSE/CLUSTER (“R2”) DISTRICT
+
+  Building façade length is 250 feet maximum. Please revise the plan set front elevation to show the
+  entire front building / façade length, not just one unit.
+
+  -Any plan sheet that is required to be revised must be resubmitted as part of one file that is a
+  complete set of plans as each resubmittal is required to be a complete set. Resubmitted Plans file
+  is to be named (address SUB 2 Plan Revision), (address SUB 2 Plan Revision), etc.
+
+  Additional HOLDS may be placed upon review of revision
+
+
+
+
+                                          Planning Development Department
+            ________________________________________________________________________________
+                         The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                          817-392-2222 * Fax 817-392-8105
+                                      Residential New Building Permit
+                                         Plan Review Comments
+5. 10/03/2025 – CORRECTIONS REQUIRED – URBAN FORESTRY
+
+  There is an Urban Forestry permit UFC17-0152. Please upload the UFC approved plan set and
+  make sure that your site plan adheres to whichever forestry is required for the lot of this permit, if
+  applicable.
+
+  -Any plan sheet that is required to be revised must be resubmitted as part of one file that is a
+  complete set of plans as each resubmittal is required to be a complete set. Resubmitted Plans file
+  is to be named (address SUB 2 Plan Revision), (address SUB 2 Plan Revision), etc.
+
+  Additional HOLDS may be placed upon review of revision
+6. 10/03/2025 – INFORMATIONAL - AWAITING CLIENT REPLY –
+
+  Correction(s) should only be submitted once the permit is in “Awaiting Client Reply” status. Once
+  the permit has one completed review from all departments the permit will go into “Awaiting Client
+  Reply” status and email will be sent to whomever applied for the permit. At that time the Client
+  (customer/applicant) will reply with the corrections requested by each department.
+
+  Please do not upload before that time.
+  -Any plan sheet that is required to be revised, must be resubmitted as part of one file that is a
+  complete set of plans as each resubmittal is required to be a complete set. Resubmitted Plans file
+  is to be named (address SUB 2 Plan Revision), (address SUB 2 Plan Revision), etc..
+
+  Additional HOLDS may be placed upon review of revision
+7. 10/03/2025 – CORRECTIONS REQUIRED – LEFT AND RIGHT ELEVATIONS MISSING
+
+  Elevations on page 22 are missing the left and right elevation with its measurements. All
+  elevations need to show the complete building length for each side along with its measurements.
+
+  Please revise the elevations to show for all four sides and to show the complete building length on
+  each side. Not only one unit.
+
+  -Any plan sheet that is required to be revised must be resubmitted as part of one file that is a
+  complete set of plans as each resubmittal is required to be a complete set. Resubmitted Plans file
+  is to be named (address SUB 2 Plan Revision), (address SUB 2 Plan Revision), etc.
+
+  Additional HOLDS may be placed upon review of revision
+
+
+
+
+                                          Planning Development Department
+            ________________________________________________________________________________
+                         The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                          817-392-2222 * Fax 817-392-8105
+                                      Residential New Building Permit
+                                         Plan Review Comments
+8. 10/03/2025 – CORRECTIONS REQUIRED – OPEN SPACE
+
+   Block 3 – Lot 6
+
+   The open space must not be less than 15% of the total lot area.
+   Please revise the plan set to show the open space is not less than 15% of the lot area.
+
+   Open space 15% minimum: Provided – 13% - hold placed
+
+   Calculation:
+
+   774 sf. / 870.2 sf. (Per Plat FP-18-066) = 0.8894507* .15 = 13%
+
+   Per the 4.709(3)(c) –
+   c. Open space.
+           1. The open space, exclusively of paved areas, parking spaces and patios, must be not
+   less than 15 percent of the total lot area.
+
+   -Any plan sheet that is required to be revised must be resubmitted as part of one file that is a
+   complete set of plans as each resubmittal is required to be a complete set. Resubmitted Plans file
+   is to be named (address SUB 2 Plan Revision), (address SUB 2 Plan Revision), etc.
+
+   Additional HOLDS may be placed upon review of revision
+
+
+Approval Table:
+          Task Name                       Task Status           Completed Date         Task Rev Name
+
+Application Submittal           Routed for Electronic Review    09/24/2025        Janice Arnett
+Water Development Review        Corrections Required            10/03/2025        Michelle Canright
+NEZ Certification Review        Opt-Out                         09/24/2025        Janice Arnett
+Transportation Impact Review    Not Required                    09/26/2025        Lamonica Smith
+Urban Forestry Review           Corrections Required            10/03/2025        Rosalee Rivera
+Zoning Review                   Corrections Required            10/03/2025        Rosalee Rivera
+PARD Review                     Approved                        09/24/2025        Germaine Joseph
+Building Plan Review            Corrections Required            10/01/2025        Jose Flores Lopez
+Mechanical Plan Review          Corrections Required            10/01/2025        Jose Flores Lopez
+Plumbing Plan Review            Corrections Required            10/01/2025        Jose Flores Lopez
+Electrical Plan Review          Corrections Required            10/01/2025        Jose Flores Lopez
+Plan Distribution
+
+
+
+                                           Planning Development Department
+             ________________________________________________________________________________
+                          The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                           817-392-2222 * Fax 817-392-8105
+                                      Residential New Building Permit
+                                         Plan Review Comments
+Plans Coordination             Corrections Required             10/06/2025        Jose Flores Lopez
+NEZ Design Guidelines          Not Required                     10/03/2025        Rosalee Rivera
+Review
+
+General Comments and Additional Permit Information:
+
+ Reviewer: Rosalee Rivera
+ Email: Rosalee.Rivera@fortworthtexas.gov
+ Phone: 817-392-2222
+
+    1 Zoning Plan Review Performed On: 10/02/2025
+
+      By: Rosalee Rivera –– rosalee.rivera@fortworthtexas.gov
+
+      Zoning Review Notes: All reviews are pending stakeout inspection
+
+      Permit #: PB25-12801 // UFC17-0152
+
+      Physical Address: 441 Rayner Ave
+
+      *ZC-17-20 - FROM "A-5, B, & J" TO "PD/R2"/ 409, 413 S RAYNER, 412 S SYLVANIA, &
+      2521 LAWNWOOD
+
+
+      Legal Description: BASSETT ADDITION Block 3 Lot 7
+
+      Plat: FP-18-066
+
+      *Zoning district: PD1138 / R2
+
+      *PD_DESCRIPTION
+      PD/R2 Planned Development for all uses in "R2" Townhouse/Cluster units facing the
+      Trinity River, South Sylvania, Galvez and Fisher not to exceed four units per building and
+      the interior units not to exceed five units per building
+
+
+      *ZC-17-220 - Amend PD 1138 "PD/R2" Planned Development for all uses in "R2"
+      Townhouse/Cluster to reconfigure and add property; units facing the Trinity River, South
+      Sylvania, Galvez and Fisher Streets not to exceed four units per building and the interior
+      units not to exceed five units per building, not to exceed a total of 100 units, site plan
+      included.
+
+
+      Scope of project: TOWNHOUSE
+
+      HOLD NOTES: All items labeled “HOLD” must be addressed. Additional HOLDS may be
+      placed upon review of revisions.
+      ***Please do not upload revised combined plans until the permit is in (Awaiting Client
+
+
+                                          Planning Development Department
+            ________________________________________________________________________________
+                         The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                          817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+Reply)
+
+Zoning Review Comments:
+
+Open space: 15% minimum: Provided – 13% - hold placed
+
+
+*Units per acre: Provided – This is one building with four units on a single platted lot (0.020
+ acres). Not applicable. Density is sufficient.
+
+*Maximum number of 24 units per acre on average, unless located in a “C” or “D” district
+where authorized density shall apply.
+
+
+Maximum façade length of 250 feet: Provided – TBD – Hold placed
+
+
+Front yard* 20-foot width and a 3’ U.E are showing on the site plan (per the plat)
+
+* May be subject to projected front yard (see Chapter 6, Development Standards, §
+6.101(f), Yards).
+
+
+
+Side yard* - 10’ minimum separation between buildings required – Hold placed
+
+* May be subject to projected front yard (see Chapter 6, Development Standards, §
+6.101(f), Yards).
+No buildings directly behind this project for a projected side yard requirement.
+
+
+Interior lot** 5 feet minimum adjacent to street: Provided – N/A – Lot is not adjacent to
+street
+
+
+Corner lot** 10 feet minimum adjacent to both streets: Provided – Not Applicable
+
+** May be subject to other front, side and rear yard setback requirements (see Chapter 6,
+Development Standards, § 6.101(d), Yards).
+
+
+
+Height 35 feet maximum (refer to Development Standards, § 6.100, Height):
+
+Provided – 44.11 ¾’ Roof Heitght – Hold Placed
+
+
+
+Bldg. separation 10 feet minimum: Provided – TBD – Hold placed
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                 Residential New Building Permit
+                                    Plan Review Comments
+
+
+§ 4.709 TOWNHOUSE/CLUSTER (“R2”) DISTRICT.
+
+  (a) Purpose and intent. It is the purpose of the townhouse/cluster ("R2") district to
+provide a specific zone for the development of row houses and townhouses on unique
+patterned lots clustered around a common access road or cul-de-sac.
+
+  (b) Uses. In the townhouse/cluster ("R2") district, no building or land shall be used and
+no building shall be hereafter erected, reconstructed, altered or enlarged, nor shall a
+certificate of occupancy be issued, except in accordance with the use tables in Chapter 4,
+Articles 6 and 8 and the supplemental use standards of Chapter 5.
+
+  (c) Property development standards. Property in R2 may be developed to the property
+development standards defined in the "R1" district. The minimum dimension of lots and
+yards and the height of buildings in the townhouse/cluster ("R2") district shall be as shown
+in the accompanying table. See division (d)(3) below.
+
+Open space 15% minimum: Provided -
+
+Units per acre: Provided – N/A
+
+Maximum number of 24 units per acre on average, unless located in a “C” or “D” district
+where authorized density shall apply.
+
+
+Maximum façade / building length of 250 feet: Provided –
+
+
+Front yard* None required
+* May be subject to projected front yard (see Chapter 6, Development Standards, §
+6.101(f), Yards).
+
+Side yard*
+* May be subject to projected front yard (see Chapter 6, Development Standards, §
+6.101(f), Yards).
+
+
+Interior lot 5 feet minimum adjacent to street: Provided –
+
+Corner lot** 10 feet minimum adjacent to both streets: Provided –
+** May be subject to other front, side and rear yard setback requirements (see Chapter 6,
+Development Standards, § 6.101(d), Yards).
+
+Height 35 feet maximum (refer to Development Standards, § 6.100, Height): Provided –
+
+Bldg. separation 10 feet minimum: Provided –
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+Additional Comments:
+
+Commentary.
+
+    (1) Carports/porte cocheres – allowed in side, rear and front yard in certain
+circumstances. (See Chapter 5, Supplemental Use Standards, § 5.301 Accessory
+Buildings on Residential Lots, and § 6.101 Yards.)
+
+    (2) Fences – Two feet high in public open space easement, eight feet high behind
+front yard. (See Chapter 6 Supplemental Use Standards Fences for fence requirements for
+fences allowed for residential dwellings.)
+
+   (3) Facade – materials and appearance. See Chapter 6 Development Standards, §
+6.507 Single-Family Residential Design Districts.
+
+  (d) Other development standards. Development in the townhouse/cluster (“R2”) district
+may be subject to a variety of general development standards in Chapter 6 , and the
+following provisions:
+
+    (1) Signs. On-premises signs subject to the following:
+      a. An unilluminated nameplate bearing the family name of the occupants residing in
+the residence not to exceed one square foot in area.
+      b. An unilluminated sign for those uses permitted that are not residential. The sign
+shall not exceed 30 square feet in area, shall be no higher than six feet above grade, and
+shall be placed a minimum of ten feet behind the property line. Such sign shall not be
+placed within 20 feet of drives providing ingress and egress to the property.
+
+
+    (2) Parking. Two spaces per dwelling unit, located behind the front building line,
+except for limited local streets or private access easements, where four spaces shall be
+required, located behind the front building line or may be provided within the development.
+For nonresidential uses, see Chapter 6 Development Standards, Article 2 Off Street
+Parking and Loading, § 6.200.
+
+
+   (3) Residential design standards. A site plan for residential development is required.
+
+      a. General. Under this provision, townhouses, rowhouses or the clustering of
+residential units may be permitted where such units cluster around a common access road
+or feed from a loop or cul-de-sac and provided that such development shall conform to the
+following regulations regarding buildings and structures.
+
+      b. Plat required. Such properties shall be platted showing the following, if
+applicable:
+        1. Public streets.
+        2. Private streets and private access.
+        3. Private open space and open space easements.
+        4. Utility easements.
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+                                Residential New Building Permit
+                                   Plan Review Comments
+       5. Public parks.
+       6. Pedestrian walkways and bicycle trails.
+       7. Lot, block and addition name.
+
+     c. Open space.
+
+1. The open space, exclusively of paved areas, parking spaces and patios, must be not
+less than 15 percent of the total lot area.
+2. Provisions, such as a homeowner's association, shall be instituted to provide
+maintenance for all common open space.
+d. One building per lot. Each residential building shall be located on a separately platted
+lot.
+e. Maximum building façade length. Building face shall not exceed a maximum of 250
+feet.
+
+     f. Development plan.
+
+        1. Unless setbacks are shown or described on the plat, a development plan must
+be submitted showing the proposed setbacks on each lot.
+        2. Adjustments in the development plan that change the setbacks from one lot to
+another will not be accepted without a written release from all property owners involved in
+the adjustment. When amendments are accepted, the original development plan must be
+withdrawn in its entirety.
+        3. A development plan shall be reviewed as a site plan.
+
+   (4) Landscaping and buffers. Nonresidential uses may require landscaping or buffers.
+See Chapter 6 Development Standards, Article 3 Landscaping, Buffers, and Urban
+Forestry, § 6.300.
+
+     (5) Reconstruction of nonconforming accessory buildings. A nonconforming
+accessory building that is damaged by fire, the elements, or other cause beyond the
+control of the owner may be repaired or reconstructed in the same rear and side yard
+setbacks provided the construction is limited to the identical footprint (replacement of the
+foundation is allowed); the building is the same design, height and roof pitch (use of
+different material is allowed) and the owner or an agent obtains a building permit to repair
+the structure within six months after the damage date. The owner shall have the burden of
+proof to establish the damage date.
+
+    (6) Garage/carport. No more than one garage and one carport or porte cochere shall
+be allowed per residential unit on a single residential lot, unless the additional garages or
+porte cocheres are an integral part of the main residential structure with the same roofline
+and driveway as the residential structure.
+
+
+**************** end ZONING PLANS EXAM COMMENTS*******************
+
+
+
+
+                                    Planning Development Department
+      ________________________________________________________________________________
+                   The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                    817-392-2222 * Fax 817-392-8105
+Reviewer: Michelle Canright
+Email: Michelle.Canright@fortworthtexas.gov
+Phone:
+
+  2 WATER APPLICATIONS
+
+    *** IMPORTANT*** PLEASE READ WATER AND SEWER SERVICE LOCATION
+    REQUIREMENTS ***
+    ________________________________________________________________________
+    _____________
+    Sec 5.18.2.1 Meter boxes can only be installed in non-paved areas. Water service and
+    meter box must be installed 1-foot offset from the property line in the parkway and have a
+    9-foot horizontal separation from the sewer service. The normal location for meter boxes
+    is 2.5 feet behind the back of curb.
+    In no case shall the water meter box (and meter) be outside of the public right-of-way or
+    water easement.
+
+    Sec 6.4.1.3 Wastewater service should avoid placement in driveways and have a 9-foot
+    horizontal separation from the water service.
+    Service should be installed South or West of the proposed driveway location.
+
+    To avoid delays and additional meter installation fees, please ensure the following
+    requirements are met:
+    · Address must be clearly posted
+    · No debris or material over the meter box
+    - Meter box must be in the ground to grade per city specification
+
+    ________________________________________________________________________
+    _____________
+    EXISTING SERVICE LOCATIONS
+    ________________________________________________________________________
+    ____________
+    Water Tap – 2 feet South of North property line (West side of lot) – See water service
+    requirements listed above
+    Sewer tap – 10.25 feet South of North property line (East side of lot) – See wastewater
+    service requirements listed above
+
+
+
+
+                                        Planning Development Department
+          ________________________________________________________________________________
+                       The City of Fort Worth * 100 Fort Worth Trail * Fort Worth, TX, 76102
+                                        817-392-2222 * Fax 817-392-8105
+
