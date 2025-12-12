@@ -523,32 +523,44 @@ function parseZoningReview(content: string): ZoningReview | null {
 }
 
 function parseThirdPartyReview(content: string): ThirdPartyReview | null {
-  // Look for INFORMATION BLOCK (Metro Code style)
-  const infoMatch = content.match(/INFORMATION BLOCK([\s\S]*?)(?:BUILDING|ELECTRICAL|$)/i);
-
-  if (!infoMatch) return null;
-
-  const infoContent = infoMatch[1];
-
-  const dateMatch = infoContent.match(/Plan Review Performed On:\s*(\d{1,2}\/\d{1,2}\/\d{4})/i);
-  const byMatch = infoContent.match(/By:\s*([^\d\n]+)/i);
-  const tenantMatch = infoContent.match(/Name of Tenant:\s*(.+?)(?:\n|$)/i);
-
-  // Determine company from context
+  // Determine company from context first
   let company: string | null = null;
   if (content.includes("METRO CODE") || content.includes("metrocode.com")) {
     company = "Metro Code Analysis";
-  } else if (content.includes("NORTH TEXAS") || content.includes("ntispros.com")) {
+  } else if (content.includes("NORTH TEXAS") || content.includes("ntispros.com") || content.includes("3PTY NORTH TEXAS")) {
     company = "North Texas Inspection Services";
+  } else if (content.includes("BUREAU VERITAS") || content.includes("3PTY BUREAU VERITAS")) {
+    company = "Bureau Veritas";
+  } else if (content.includes("ROSS INSPECTION") || content.includes("3PTY ROSS INSPECTION")) {
+    company = "Ross Inspection";
   }
 
-  if (!dateMatch && !byMatch && !tenantMatch) return null;
+  // Look for INFORMATION BLOCK (Metro Code style)
+  const infoMatch = content.match(/INFORMATION BLOCK([\s\S]*?)(?:BUILDING|ELECTRICAL|$)/i);
+
+  let planReviewDate: string | null = null;
+  let reviewedBy: string | null = null;
+  let tenantBuilder: string | null = null;
+
+  if (infoMatch) {
+    const infoContent = infoMatch[1];
+    const dateMatch = infoContent.match(/Plan Review Performed On:\s*(\d{1,2}\/\d{1,2}\/\d{4})/i);
+    const byMatch = infoContent.match(/By:\s*([^\d\n]+)/i);
+    const tenantMatch = infoContent.match(/Name of Tenant:\s*(.+?)(?:\n|$)/i);
+
+    planReviewDate = parseDate(dateMatch?.[1] || null);
+    reviewedBy = cleanText(byMatch?.[1] || "") || null;
+    tenantBuilder = cleanText(tenantMatch?.[1] || "") || null;
+  }
+
+  // If no company detected, not a third party review
+  if (!company) return null;
 
   return {
     company,
-    plan_review_date: parseDate(dateMatch?.[1] || null),
-    reviewed_by: cleanText(byMatch?.[1] || "") || null,
-    tenant_builder: cleanText(tenantMatch?.[1] || "") || null,
+    plan_review_date: planReviewDate,
+    reviewed_by: reviewedBy,
+    tenant_builder: tenantBuilder,
   };
 }
 
