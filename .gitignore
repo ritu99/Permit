@@ -3,3 +3,21 @@ node_modules/
 download_report_*.txt
 debug.png
 test_search.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.python-version
+
+# Secrets
+.env
+.env.*
+
+# Large data
+data/
+
+# IDE
+.idea/
+.vscode/

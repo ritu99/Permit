@@ -1,0 +1,15 @@
+[project]
+name = "permits-ml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dspy>=3.0.4",
+    "gepa>=0.0.17",
+    "kaggle>=1.7.4.5",
+    "modal>=1.2.5",
+    "pillow>=12.0.0",
+    "python-dotenv>=1.2.1",
+    "typer>=0.20.0",
+]
